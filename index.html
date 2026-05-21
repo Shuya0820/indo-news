@@ -1,44 +1,509 @@
-name: 每日印尼新聞更新
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>印尼每日新聞摘要</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --card: #ffffff;
+    --text: #1a1a1a;
+    --muted: #6b6b6b;
+    --faint: #9a9a9a;
+    --border: #e8e6e1;
+    --accent: #c8102e;
+    --accent-soft: #fdf2f4;
+    --link: #1a4d8f;
+    --tab-active: #1a1a1a;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC",
+                 "Microsoft JhengHei", "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
 
-on:
-  schedule:
-    - cron: '0 23 * * *'    # UTC 23:00 = 台北 07:00
-  workflow_dispatch:
+  /* ── 頁首 ── */
+  header {
+    background: white;
+    border-bottom: 1px solid var(--border);
+    padding: 24px 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .header-top {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .update-time {
+    margin: 0 0 14px;
+    color: var(--muted);
+    font-size: 13px;
+  }
 
-permissions:
-  contents: write
+  /* ── 日期 Tabs ── */
+  .date-tabs-wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .date-tabs {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 0 0 12px;
+    scrollbar-width: none;
+    scroll-snap-type: x proximity;
+  }
+  .date-tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    flex: 0 0 auto;
+    padding: 8px 14px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    min-width: 64px;
+    transition: all 0.15s;
+    font-family: inherit;
+    scroll-snap-align: start;
+  }
+  .tab:hover {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+  .tab.active {
+    background: var(--tab-active);
+    border-color: var(--tab-active);
+    color: white;
+  }
+  .tab-date {
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  .tab-dow {
+    display: block;
+    font-size: 11px;
+    color: var(--faint);
+    margin-top: 2px;
+  }
+  .tab.active .tab-dow { color: rgba(255,255,255,0.65); }
+  .tab .badge {
+    display: inline-block;
+    padding: 0 5px;
+    background: var(--accent);
+    color: white;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 3px;
+  }
+  .tab.active .badge { background: white; color: var(--accent); }
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 下載程式碼
-        uses: actions/checkout@v4
+  /* ── 主要內容 ── */
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 24px 20px 60px;
+  }
+  .loading, .error {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--muted);
+  }
+  .category {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 22px 24px;
+    margin-bottom: 14px;
+  }
+  .highlights {
+    background: linear-gradient(180deg, #fff9e6 0%, #fffdf5 100%);
+    border: 1px solid #f0d878;
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 16px;
+  }
+  .highlights h2 {
+    margin: 0 0 14px;
+    font-size: 17px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #6b5208;
+  }
+  .highlights ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .highlights li {
+    padding: 10px 0;
+    border-top: 1px solid #f0d878;
+  }
+  .highlights li:first-child { border-top: none; padding-top: 0; }
+  .highlights li:last-child { padding-bottom: 0; }
+  .highlights .h-cat {
+    font-size: 11px;
+    color: #8a6810;
+    margin-bottom: 3px;
+  }
+  .highlights .h-title {
+    display: block;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 14.5px;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .highlights .h-title:hover {
+    text-decoration: underline;
+    color: var(--link);
+  }
+  .highlights .h-impact {
+    margin: 5px 0 0;
+    font-size: 12.5px;
+    color: #4a3a10;
+    line-height: 1.5;
+  }
+  .category h2 {
+    margin: 0 0 4px;
+    font-size: 17px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .cat-icon { font-size: 20px; }
+  .cat-desc {
+    margin: 0 0 14px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .news-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .news-item {
+    padding: 14px 0;
+    border-top: 1px solid var(--border);
+  }
+  .news-item:first-child {
+    border-top: none;
+    padding-top: 4px;
+  }
+  .news-item .title {
+    display: block;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .news-item .title:hover {
+    color: var(--link);
+    text-decoration: underline;
+  }
+  .news-item .summary {
+    margin: 5px 0 0;
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .news-item .impact {
+    margin: 8px 0 0;
+    padding: 9px 12px;
+    background: #fdf8eb;
+    border-left: 3px solid #d4a017;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #4a3a10;
+    line-height: 1.55;
+  }
+  .news-item .impact-label {
+    font-weight: 600;
+    color: #8a6810;
+    margin-right: 4px;
+  }
+  .news-item.important {
+    background: #fffdf5;
+    margin: 4px -10px;
+    padding: 14px 10px;
+    border-radius: 8px;
+    border-top: none;
+  }
+  .news-item.important + .news-item { border-top: 1px solid var(--border); }
+  .important-badge {
+    display: inline-block;
+    margin-right: 6px;
+    padding: 1px 7px;
+    background: #d4a017;
+    color: white;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    vertical-align: middle;
+  }
+  .news-item .orig {
+    margin: 6px 0 0;
+    color: var(--faint);
+    font-size: 12px;
+    font-style: italic;
+    line-height: 1.4;
+  }
+  .meta {
+    margin-top: 8px;
+    font-size: 12px;
+    color: var(--faint);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .meta .source { font-weight: 500; color: var(--muted); }
+  .meta .dot { opacity: 0.5; }
+  .meta .translate {
+    margin-left: auto;
+    padding: 2px 8px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 11px;
+  }
+  .meta .translate:hover {
+    background: var(--accent);
+    color: white;
+  }
+  .empty {
+    color: var(--faint);
+    font-size: 13px;
+    margin: 4px 0 0;
+    font-style: italic;
+  }
+  footer {
+    text-align: center;
+    color: var(--faint);
+    font-size: 12px;
+    padding: 20px 20px 40px;
+  }
+  @media (max-width: 600px) {
+    header { padding: 18px 14px 0; }
+    header h1 { font-size: 19px; }
+    main { padding: 16px 12px 40px; }
+    .category { padding: 18px 16px; border-radius: 10px; }
+    .tab { padding: 7px 11px; min-width: 56px; }
+    .tab-date { font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="header-top">
+    <h1>🇮🇩 印尼每日新聞摘要</h1>
+    <p class="update-time" id="updateTime">載入中…</p>
+  </div>
+  <div class="date-tabs-wrap">
+    <nav class="date-tabs" id="dateTabs"></nav>
+  </div>
+</header>
+<main id="content">
+  <div class="loading">載入中…</div>
+</main>
+<footer>
+  <p>資料來源：Google News（印尼版） · 每日台北時間 07:00 自動更新 · 翻譯由 Claude AI 提供</p>
+</footer>
 
-      - name: 設定 Python 環境
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
+<script>
+let allData = null;
+let currentDate = null;
 
-      - name: 安裝套件
-        run: pip install -r requirements.txt
+async function init() {
+  try {
+    // cache buster 確保拿到最新版
+    const res = await fetch('data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('找不到 data.json');
+    allData = await res.json();
 
-      - name: 執行爬蟲（翻譯、推播）
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-          PAGE_URL: ${{ vars.PAGE_URL }}
-        run: python scraper.py
+    if (!allData.dates || allData.dates.length === 0) {
+      showEmpty();
+      return;
+    }
 
-      - name: 提交更新
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          if git diff --staged --quiet; then
-            echo "沒有變動"
-          else
-            git commit -m "🤖 更新新聞 $(TZ='Asia/Taipei' date +'%Y-%m-%d %H:%M')"
-            git push
-          fi
+    const dates = [...allData.dates].sort().reverse(); // 最新在前
+    renderTabs(dates);
+    selectDate(dates[0]);
+  } catch (e) {
+    document.getElementById('content').innerHTML =
+      `<div class="error">載入失敗：${escapeHtml(e.message)}<br><small>第一次部署時若 data.json 還沒生成屬正常，請去 Actions 手動跑一次</small></div>`;
+  }
+}
+
+function showEmpty() {
+  document.getElementById('content').innerHTML =
+    '<div class="error">尚無資料。請去 GitHub Actions 手動觸發第一次執行。</div>';
+}
+
+function renderTabs(dates) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const tabsHtml = dates.map(d => {
+    const date = new Date(d + 'T00:00:00+08:00');
+    const m = date.getMonth() + 1;
+    const day = date.getDate();
+    const dow = ['日','一','二','三','四','五','六'][date.getDay()];
+
+    const diffDays = Math.round((today - date) / 86400000);
+    let badge = '';
+    if (diffDays === 0) badge = '<span class="badge">今</span>';
+    else if (diffDays === 1) badge = '<span class="badge">昨</span>';
+
+    return `<button class="tab" data-date="${d}" onclick="selectDate('${d}')">
+      <span class="tab-date">${m}/${day}</span>
+      <span class="tab-dow">週${dow}${badge}</span>
+    </button>`;
+  }).join('');
+
+  document.getElementById('dateTabs').innerHTML = tabsHtml;
+}
+
+function selectDate(date) {
+  currentDate = date;
+  document.querySelectorAll('.tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.date === date);
+  });
+  // 滾到該 tab 可見
+  const activeTab = document.querySelector(`.tab[data-date="${date}"]`);
+  if (activeTab) activeTab.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  renderDay(date);
+  // 內容回頂端
+  window.scrollTo({ top: document.querySelector('header').offsetHeight - 20, behavior: 'smooth' });
+}
+
+function renderDay(date) {
+  const dayData = allData.data[date];
+  if (!dayData) {
+    document.getElementById('content').innerHTML = '<div class="error">此日期沒有資料</div>';
+    return;
+  }
+
+  // 更新時間
+  const gen = new Date(dayData.generated_at);
+  document.getElementById('updateTime').textContent =
+    `${date} 報告 · 更新於 ${gen.toLocaleString('zh-TW', { hour12: false })}`;
+
+  const meta = allData.categories_meta || {};
+
+  // 找出當天所有 important 的新聞（跨類別），最多 8 則
+  const highlights = [];
+  for (const [cat, items] of Object.entries(dayData.categories)) {
+    for (const n of (items || [])) {
+      if (n.important) highlights.push({ ...n, _cat: cat });
+    }
+  }
+  highlights.splice(8); // 最多 8 則
+
+  let html = '';
+
+  // 「今日必看」區塊
+  if (highlights.length > 0) {
+    html += `<section class="highlights">
+      <h2>⭐ 今日必看 · ${highlights.length} 則</h2>
+      <ul>${highlights.map(n => {
+        const titleZh = n.title_zh || n.title;
+        const catIcon = (meta[n._cat] || {}).icon || '';
+        return `<li>
+          <div class="h-cat">${catIcon} ${escapeHtml(n._cat)}</div>
+          <a class="h-title" href="${escapeAttr(n.link)}" target="_blank" rel="noopener">${escapeHtml(titleZh)}</a>
+          ${n.impact_zh ? `<p class="h-impact">${escapeHtml(n.impact_zh)}</p>` : ''}
+        </li>`;
+      }).join('')}</ul>
+    </section>`;
+  }
+
+  // 各分類
+  for (const [cat, items] of Object.entries(dayData.categories)) {
+    const catMeta = meta[cat] || {};
+    const icon = catMeta.icon || '•';
+    const desc = catMeta.desc || '';
+
+    let itemsHtml;
+    if (!items || items.length === 0) {
+      itemsHtml = '<p class="empty">這天沒有相關新聞</p>';
+    } else {
+      itemsHtml = '<ul class="news-list">' + items.map(n => {
+        const titleZh = n.title_zh || n.title;
+        const hasTranslation = !!n.title_zh;
+        const summary = n.summary_zh ? `<p class="summary">${escapeHtml(n.summary_zh)}</p>` : '';
+        const impact = n.impact_zh
+          ? `<p class="impact"><span class="impact-label">💡 對你的意義</span>${escapeHtml(n.impact_zh)}</p>`
+          : '';
+        const origTitle = hasTranslation ? `<p class="orig">原文：${escapeHtml(n.title)}</p>` : '';
+        const translateUrl = `https://translate.google.com/?sl=id&tl=zh-TW&text=${encodeURIComponent(n.title)}`;
+        const itemClass = n.important ? 'news-item important' : 'news-item';
+        const badge = n.important ? '<span class="important-badge">必看</span>' : '';
+
+        return `<li class="${itemClass}">
+          <a class="title" href="${escapeAttr(n.link)}" target="_blank" rel="noopener">${badge}${escapeHtml(titleZh)}</a>
+          ${summary}
+          ${impact}
+          ${origTitle}
+          <div class="meta">
+            <span class="source">${escapeHtml(n.source || '')}</span>
+            ${n.time ? '<span class="dot">·</span><span class="time">' + formatTime(n.time) + '</span>' : ''}
+            <a class="translate" href="${escapeAttr(translateUrl)}" target="_blank" rel="noopener">譯</a>
+          </div>
+        </li>`;
+      }).join('') + '</ul>';
+    }
+
+    html += `<section class="category">
+      <h2><span class="cat-icon">${icon}</span>${escapeHtml(cat)}</h2>
+      ${desc ? `<p class="cat-desc">${escapeHtml(desc)}</p>` : ''}
+      ${itemsHtml}
+    </section>`;
+  }
+
+  document.getElementById('content').innerHTML = html;
+}
+
+function formatTime(iso) {
+  const dt = new Date(iso);
+  const hrs = Math.round((Date.now() - dt) / 3600000);
+  if (hrs < 1) return '剛剛';
+  if (hrs < 24) return `${hrs} 小時前`;
+  return `${Math.floor(hrs / 24)} 天前`;
+}
+
+function escapeHtml(s) {
+  return String(s ?? '').replace(/[&<>"]/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'
+  }[c]));
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+init();
+</script>
+</body>
+</html>
