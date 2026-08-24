@@ -50,7 +50,6 @@
     }
   },
   "dates": [
-    "2026-08-11",
     "2026-08-12",
     "2026-08-13",
     "2026-08-14",
@@ -63,9 +62,655 @@
     "2026-08-21",
     "2026-08-22",
     "2026-08-23",
-    "2026-08-24"
+    "2026-08-24",
+    "2026-08-25"
   ],
   "data": {
+    "2026-08-25": {
+      "generated_at": "2026-08-25T07:11:04.814257+08:00",
+      "categories": {
+        "經濟與匯率": [
+          {
+            "title": "Pemko Tanjungpinang Perkuat Pengendalian Inflasi, Elfiani Sandri: Ekonomi Daerah Perlahan Mulai Meningkat",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNS1XYXJCUXJMT0FZdlZlMXd6VDJONlRNd3B0Z1ZpclVaYVhBM0JnTEhRNDJTM2NVTERBRWtIYzVGMjBPaTdqeXhqcDZNc3hOb3hVbVAtVHVMcDl1MGFCdnJBcWs4STAwZl8tR2hjdjJNUDBJRVl1aHZXVzJtUFJiSkNoYXJ1ODI4aFg1T0ljR2V4VEtyV0dHNHJoYnR5dmVQV01MaHRTMjk5YVUta0J3RzEzanptWS1vVmJBclRnYUpKM0VJeGo5UHJuSTJHNm5qTU9ManBUU0l3aWZuc0hR?oc=5",
+            "source": "Pemerintah Kota Tanjungpinang",
+            "time": "2026-08-24T15:39:48+00:00",
+            "title_zh": "丹戎檳榔市政府強化通膨控制，地方經濟逐漸改善",
+            "summary_zh": "丹戎檳榔市政府官員Elfiani Sandri表示，地方政府正積極強化通膨控制措施，以穩定當地物價，並觀察到地區經濟已開始緩慢回升。此舉旨在保障民生購買力，並促進整體經濟環境的逐步復甦。政府將持續監控市場動態，確保各項商品供應充足且價格合理，為居民提供更穩定的生活基礎，期望能持續帶動地方經濟正向發展。",
+            "impact_zh": "區域性的通膨控制與經濟逐步改善，對玩家的購買力可能有正面影響。這可能預示著消費者信心提升，有利於遊戲儲值意願。應持續關注印尼整體經濟數據，評估是否為普遍趨勢，作為未來訂價與行銷活動策略調整的參考依據。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Pemkab Bone Bentuk Satgas Pengendalian BBM Bersubsidi Merah Putih",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWw3MnRmN3ZlclVKSnFUOHhqSTRtdVpJQnJMbXhINTRUY1U4LWZsUnBjdldWbWhKYUEzRVduTGNISFNQeUczb0lEaWlrZzhsaEhCTDY4UkxldjZCcURPMlRrbVRrdUVHRkV2SzFZSmVnd2NaV0QyclREYlJDcVlKUkwyUU5pRGlOSjRwUnlBMTdsdy12MGZQa20wX3PSAaIBQVVfeXFMTTdocGgxNEVhNXV4Z2ZLMEFZNWNiRG1ydkh2VVBDaF9fV3c2RkoxSkxHMXpIdHNhMVJrSFdKQXdpWTZWb3ZnSllRY0o2bnBsT2dUcGpRM082NkFXQXhWNnRHVUVXcHpkTV9CcHp1M0tMb3B1aGJJRThxTzlzTGlCd2laOGRQMFQ0ZmdCb0JBZE1uelBUUmxCcGpsQVJHOUlqXzhn?oc=5",
+            "source": "bone.go.id",
+            "time": "2026-08-24T05:16:41+00:00",
+            "title_zh": "波內縣政府成立「紅白旗」補貼燃油管制專案小組",
+            "summary_zh": "印尼波內縣政府已宣布成立「紅白旗」補貼燃油管制專案小組，旨在打擊補貼燃油的非法囤積與走私行為。此小組將負責監管當地燃油的分配與使用，確保補貼燃油能真正惠及符合資格的民眾，而非流入黑市。此舉為政府穩定市場供應、控制物價並打擊不法行為的策略之一，以維護社會公平和經濟秩序。這顯示政府對重要物資的管控力道增強。",
+            "impact_zh": "此新聞主要針對補貼燃油的非法行為進行管制，與遊戲玩家的儲值習慣或金流管道無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Tinjau Tiga Lokasi Pembangunan, Bupati Asahan Pastikan Infrastruktur Dukung Ekonomi Warga",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUF3UXRRdHdCRlh3N3pzWnc5UHFNeU1URnZfZVdkdnlfNV91ZXN5S1JjcU5fWVdPYXRMSVR2OXNrcTkzck9YX2E5eE1xYW13b0syN1RlOHVHQV9IT2tSamlzUG45XzN2eFVMY1JkRXQ0TzBmYUk5QUJWa3lBM3FtdER1bnk0WGc0U2l5cnNUX011eGx6MWZ1bHZxZ0NFWWNyVzhiczAyU2FiU0FXaFZfYmVGS2N2Z1cySFVISFQwZ0tsU0g3Y1hzVFJKbw?oc=5",
+            "source": "Pemerintah Kabupaten Asahan",
+            "time": "2026-08-24T16:53:29+00:00",
+            "title_zh": "視察三處建設地點，阿薩漢縣長確保基礎設施支持居民經濟",
+            "summary_zh": "阿薩漢縣長對三個正在進行中的基礎設施建設項目進行了視察，旨在確保這些項目能夠有效地支持當地居民的經濟發展。這些基礎設施建設被視為提升地區連結性、改善物流效率以及創造就業機會的關鍵。縣長強調，完善的基礎設施是刺激地方經濟增長、提高居民生活品質的重要推動力，並承諾將確保工程進度與品質，以實現預期效益。",
+            "impact_zh": "此新聞聚焦於地方基礎設施建設，旨在改善當地經濟與民生。雖然長期而言可能提升居民購買力，但對手遊玩家的短期儲值行為、金流習慣或博弈法規等核心關注點影響極弱。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Ikuti Rakor Inflasi Daerah, Pemprov Lampung Pastikan Harga Pangan Terkendali",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkVudGxvbUYzd211VHFyaDlGOGJUQ0VQWVlZY1o4ODB0UGpidnF1emJSU3ljaUtTZWFJYjZVNUhSX2xvTjVkN083MFRYVUFIdW04NjBMUlVEdHMzLXo1RVpGNEVTWlZrRWtvbzRmSFhwTGY1dGlPM1RkUl8tWWdhYnh1S2hrRU9UMzByMmlBWmxuMm1RclFLVlcySHh6eHBYdlIydTVaS2JCeV9zVVNDM0xJZ1d3NldWMGFyZ1c2M0w?oc=5",
+            "source": "Pemerintah Provinsi Lampung",
+            "time": "2026-08-24T14:08:00+00:00",
+            "title_zh": "參與地區通膨協調會議，楠榜省政府確保糧食價格穩定",
+            "summary_zh": "楠榜省政府官員參與了地區通膨協調會議，重申政府將致力於確保當地糧食價格的穩定性。在當前經濟環境下，穩定基本民生物資價格是遏制通膨、保障民眾生活品質的關鍵。省政府將透過多項措施，如加強市場監管、確保供應鏈暢通以及鼓勵當地生產，來應對潛在的物價波動，為民眾提供更穩定的生活環境。",
+            "impact_zh": "楠榜省政府穩定糧食價格的努力，旨在控制地方通膨並保護居民購買力。若此政策奏效，將有助於維持玩家的實質可支配所得，間接支持儲值意願。建議可觀察印尼其他省份的類似政策，評估是否有助於整體經濟穩定。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Pegawai Diskominfotik Ikut Sukseskan Sensus Ekonomi 2026",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSi0wclNleW9SMTAta3JKZHotVTdlUVZmaVQtN3M0N0M3VjZpY2RkZXRZelQtRGg0Uk9nWDkwTkdMbzY5S3pLRGRQaWpoMFdDYVFPTjVnWHN0bmpSMkNjdlFkM2R3V1dlZExkV1J3VFJ0ZkJYZ01KWXZ2MGJzMzdHWlN0S21HemhPVkhCSVRNUU5GTktCeTBucmZhYWR4RS1HTTZNOUJ3?oc=5",
+            "source": "Pemerintah Provinsi Gorontalo",
+            "time": "2026-08-24T08:04:03+00:00",
+            "title_zh": "通訊與資訊部門員工參與2026年經濟普查工作",
+            "summary_zh": "戈倫塔洛省通訊與資訊部門的員工積極參與了2026年全國經濟普查的籌備與執行工作。此次普查旨在全面收集印尼各行業的經濟數據，為政府制定宏觀經濟政策提供重要的基礎資料。通訊與資訊部門的參與將有助於利用數位技術提高普查效率和數據的準確性。這項全國性的數據收集工作，對於未來經濟分析和產業規劃具有關鍵意義。",
+            "impact_zh": "經濟普查是國家宏觀經濟數據收集的重要環節，其結果可能影響未來的經濟政策，但普查本身對遊戲營運沒有直接或立即的影響。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Video AS Bikin 'Operasi Pengucilan Ekonomi', Ancam Negara yang Bantu Iran",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUh1RHBEajNPN2hJaksxS2p4bkpLamwzUEdYcVNWMzlPanU0R3lDUVRTb2ZzZEJST3FqMktTVmR1VWZPVU92N1NuTXFHTi1iQmFja1o0ZWlUT2ZINTY5U1cwVUdfWE83SV9HRllhY0UzTkR2a3lqa3dHNnRBQmQzODBVMEFNVXpud1pvMi1QUzFnRGF0dmhBaHVabEMyajhkTzdiaV84MU5jbHdELU1iT0ZMa0FBb3NWMUpXT1BkMA?oc=5",
+            "source": "20detik",
+            "time": "2026-08-24T19:46:22+00:00",
+            "title_zh": "美國實施「經濟排斥行動」，威脅協助伊朗的國家",
+            "summary_zh": "根據影片報導，美國正在實施一項名為「經濟排斥行動」的政策，明確警告並威脅任何協助伊朗的國家，可能將面臨經濟制裁。此舉旨在進一步孤立伊朗，阻止其獲取資源並削弱其國際影響力。這項強硬的外交與經濟手段，可能導致全球貿易關係緊張，並迫使各國在與伊朗的經濟往來上做出取捨，進而影響國際經濟合作與供應鏈穩定。",
+            "impact_zh": "此新聞涉及國際地緣政治和美國對伊朗的制裁政策，對印尼手遊市場的直接影響極小。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Gerakkan Ekonomi Warga, Pemkot Bandung Catat 8.000 Pengunjung BGS",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0NLWVdsaWtObWg4OHNUQWxjRXNtcjFoODNRWnRlb0NHZjhkVVFqazE1eDVacGVOb0RBTW1IT01rNXFGcldGSm50YXE3WnlmV3J3eXR3YTNFTlBDRUxsLVZLM0pTSmdKSXlLWkhvS2NzcGNDc3dBTk9KWjVIVG1DVnhqTVBWQ2J0UEdQWXE1SVUtOS1KX0VBXzd6eEdLQU5GSlo4?oc=5",
+            "source": "Jabarprov",
+            "time": "2026-08-24T10:09:30+00:00",
+            "title_zh": "萬隆市府紀錄達八千人次參與BGS活動，帶動居民經濟",
+            "summary_zh": "萬隆市政府舉辦的「萬隆大市集」（Bandung Great Sale, BGS）活動，成功吸引了超過八千人次的遊客與消費者，有效帶動了當地居民的經濟活動。這項活動旨在刺激地方消費、支持中小企業並創造商機。透過提供各類商品與服務的折扣，BGS不僅提升了城市的商業活力，也為市民提供了購物便利，顯示出地方政府在經濟刺激方面的努力取得了積極成效。",
+            "impact_zh": "地方性市集活動促進消費與經濟活躍，理論上能間接提升居民購買力。然而，這是一個非常區域性的短期活動，對印尼全國手遊市場的影響微乎其微。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Mandiri Ekonomi, Wabup Sukir Puji Langkah Ponpes Nurul Jadid",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1I4dzBjWndoTUdXY2VsM2tQY05jYlcwM1VWNzd1NF92T0Q0SmE3djVQbUNWenZaX3dWQ0VvUnU5WWhCNmI3c3hCb0hZQUJ6Tl9aZWFHRXktSTEyVnFsNjZJREstenNqRXJLRVRxWmxaVGJfb2o3enljSHB0bjVJMkVDZFRQTzNoNU8zdVI4TjRRaVQyVzFrcS1BQlZRZUoxdUQ5QUR3Ui04Zw?oc=5",
+            "source": "Pemerintah Kabupaten Kubu Raya",
+            "time": "2026-08-24T11:56:01+00:00",
+            "title_zh": "經濟獨立：副縣長蘇基爾讚揚努魯賈迪德伊斯蘭寄宿學校的舉措",
+            "summary_zh": "庫布拉亞副縣長蘇基爾對努魯賈迪德（Nurul Jadid）伊斯蘭寄宿學校在實現經濟獨立方面的舉措表示高度讚揚。這所學校透過發展自身產業和技能培訓，不僅實現了財務自給自足，也為學生提供了實用的經濟技能。這項成功案例被視為地方教育機構推動永續發展、減輕政府負擔並培養具備市場競爭力人才的典範，為其他學校提供了寶貴的借鑑。",
+            "impact_zh": "此新聞聚焦於地方學校的經濟獨立案例，屬於教育與地方發展範疇，與手遊市場的玩家行為、金流通路或法規監管等無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          }
+        ],
+        "宗教與節慶": [
+          {
+            "title": "Wali kota Cilegon Kunjungi OPD Pasca Libur Hari Raya Idul Fitri 1442 H",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdDZ4dHVSelYtdnBrMjItSmRYbzZqclB2c0xMRERiQ0xuNElGZHRMNy0tQ3dvSFZDWnNhZWlVN09YdEtEZnBKUVo0cmdqeGVXSkFpd2xvVlhDS2llczI1dHpxTXB5bmN5Z19vdjhjeTR0amtIbHp2OFBIbGJLOUNGdGhYRDYzekt1RXZwa1FBRjhWcTMtUmtwclZ4eDBBY3pCNW9zZzdHZDhITFZIQ0g1NmZvcDBnbVloMVE?oc=5",
+            "source": "Berita Cilegon",
+            "time": "2026-08-24T03:17:07+00:00",
+            "title_zh": "芝勒貢市市長於開齋節假期後視察政府單位",
+            "summary_zh": "芝勒貢市市長於開齋節（Idul Fitri 1442 H）假期結束後，立即前往市政府各單位（OPD）進行視察，確保所有公務員已按時返崗，並檢查各部門的運作狀況。此舉旨在保障節後市政服務能迅速恢復正常，有效推動各項工作，為市民提供不間斷的公共服務。此類視察是印尼節後常見的行政管理措施，以維持政府效能與公務服務的連續性。",
+            "impact_zh": "此新聞僅為地方行政人員節後返工視察，與玩家的節慶儲值行為或金流監管無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Pemerintah Tetapkan 25 Agustus 2026 Libur Nasional Maulid Nabi",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmZVamZrVVlfZkp0bkVDS05QTzgyRERuSFpxcy1aNFBIeW9Ma09jSG14Rzh4ODlTMEtjZE9sLThHWGFfMmZ6bFdLT0IyWnotVGdOQWZwZVpCNmM1NWFyNTFJdm00QVN3MmZsck1CcG1wR0x5a0RfQWV3MHRjeVlLRUNmSmZqQXV5MGIxM3dsMmZZa25s?oc=5",
+            "source": "achmadnurhidayat.id",
+            "time": "2026-08-24T22:01:00+00:00",
+            "title_zh": "政府確定2026年8月25日為聖紀節國定假日",
+            "summary_zh": "印尼政府已正式公告，2026年8月25日（星期二）將被定為先知穆罕默德誕辰（Maulid Nabi）的國定假日。此項決定將影響全國的學校與公家機關放假，讓民眾有機會參與宗教慶典或安排休閒活動。國定假日的確立對於民眾的活動安排和商業運作具有重要意義，特別是零售和旅遊業將受其影響，同時也將影響勞動力的安排。",
+            "impact_zh": "2026年聖紀節國定假日的確定，意味著該期間玩家有更多休閒時間，可能提升DAU與儲值活躍度。應提早規劃2026年8月25日前後的節慶活動和促銷方案，特別是針對高價值玩家的專屬活動，以把握這波潛在的儲值高峰。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Jadwal Maulid Nabi Muhammad, Apakah 25 Agustus 2026 Libur Nasional?",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVFfbzVsR0QxYy14OXU1RVB4WjhfWl8ycEdvRHJCV2xYVUg1Z3JPQmpLaU8tb1JWVC1ReVZrdnl2a1l5NHBYWGVlRlgtZEZEeXo2bmFFeXNldG1fMGJmWHN6U0lYUnRaVm5JUlBTMTZMWC1oZUhfaXdZdEVuaktyN3NtQVRObzE4ZVJVc3FWbk5RYV9BakMwb3kwajk?oc=5",
+            "source": "Infogarut",
+            "time": "2026-08-24T16:23:26+00:00",
+            "title_zh": "穆罕默德聖紀節日期：2026年8月25日是國定假日嗎？",
+            "summary_zh": "此新聞探討了2026年穆罕默德聖紀節（Maulid Nabi Muhammad）的日期，並確認了8月25日是否為國定假日。內容指出，印尼政府已將2026年8月25日（星期二）正式定為全國性的聖紀節國定假日。這意味著全國的學校、政府機關和多數私人企業都將放假，民眾將有機會參與慶祝活動或享有假期。此確認為民眾和企業的日程規劃提供了明確指引。",
+            "impact_zh": "再次確認2026年8月25日為聖紀節國定假日，這強化了該日期對玩家上線時間和儲值行為的預期影響。建議將此日期納入長期行銷與營運計畫，準備專屬的節慶活動，以最大化節日帶來的DAU與收入增長。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Usai Lebaran 1447 H, Golkar Kota Malang Siapkan Konsolidasi Besar Menuju Pemilu 2029",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmJlOGpWdXRuRjFBc01OeUwwLUc4YURnaTJKUk1ET1l0bDNSWkV3V3h6eGJYUG9yWEp4WW8xLVkySDZYTXpLd09jbUhPWVd5VlpOLTk5VXRjRm1NZFRzQWlQWldCS01GTHR5RkViNnJkS0IxRnhKTHRnY2E5T1FNaExlVkJWVlRQcWgwX2I1TnJ3VHFfRXlNOTBETW5RTU9Kb2RPVHlTZnRxSnMx?oc=5",
+            "source": "AdaDiMalang.com",
+            "time": "2026-08-24T08:26:21+00:00",
+            "title_zh": "1447年開齋節後，瑪琅市戈爾卡黨為2029年大選準備大型整合",
+            "summary_zh": "瑪琅市戈爾卡黨（Golkar Kota Malang）在1447年開齋節（Lebaran）假期結束後，立即著手進行大規模的黨內整合工作，為即將到來的2029年全國大選做準備。此舉顯示該黨正積極部署選舉策略、鞏固黨員基礎並爭取選民支持。黨務整合包括組織架構調整、政策研討及候選人選拔等，旨在提升該黨在未來選舉中的競爭力與影響力。",
+            "impact_zh": "此新聞聚焦於印尼政黨為未來大選的內部準備，與手遊玩家儲值習慣、金流通道或博弈法規等核心業務關注點無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Hari Ini 25 Agustus Libur Apa? Cek Sisa Tanggal Merah dan Cuti Bersama Tahun 2026",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVBVa3FYbndZZktiblVpcC1UYUZTYkJhb2NTTFI3WFY0azd0aWdXbkw1cEs2VUNNN1ZqZ0hCQlhnQmhsZm56cWo1QjdRWnIwV04yaWFlYTFWNWNpVWFKSHgybF9EU3BGYmlwRTY5bUdRVlRPNk0wcjZPOUo1UjNkdGdiZWVMVklDR1lkM1lJaTFKR0NXMXhzU2cwODJPem0tTUxuaDNnd3huQ3VDbVJ0TWF1clBKSWxxNGt1MC1B?oc=5",
+            "source": "Akurat Sumsel",
+            "time": "2026-08-24T23:00:00+00:00",
+            "title_zh": "今天8月25日是什麼假日？查閱2026年剩餘的國定假日與共同休假",
+            "summary_zh": "此報導提醒民眾，2026年8月25日是印尼的國定假日，即先知穆罕默德誕辰（Maulid Nabi）。文章還進一步列出了2026年剩餘的國定假日和共同休假（Cuti Bersama），幫助讀者規劃行程。國定假日對於商業活動、旅遊業和民眾的個人安排都具有重要影響，提前了解這些日期有助於企業與個人做出適當的準備與規劃。",
+            "impact_zh": "這則新聞再次確認2026年8月25日為國定假日，並建議查閱剩餘假期，有助於PM掌握整體節慶時間表。可將此作為提醒，規劃年度節慶行銷計畫，特別關注長週末或連續假期對玩家活躍度的影響，適時推出儲值優惠或限定活動。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "25 Agustus Libur Nasional, Maulid Nabi Muhammad SAW",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNklwcXVmdlZKRkpLdVdpY0c4VHRqX0RuQjR5dlJBQnJJN2szZ3ZGTHozVWIweFRTQ3dIdkk5WTc2RVNwRFMzTlRyVnhETTdDeWU4QUd3Ri1hMHlGSEN1dzlReDhOeWRfU1kxQ1I0bGsyMXp4R2FTajhTSDBNZTlPUkpQdjcxMjFkcFI4X3gxbTg?oc=5",
+            "source": "infobekasi.co.id",
+            "time": "2026-08-24T09:13:39+00:00",
+            "title_zh": "8月25日國定假日：先知穆罕默德誕辰",
+            "summary_zh": "新聞確認了2026年8月25日為印尼的全國性國定假日，用以慶祝先知穆罕默德的誕辰（Maulid Nabi Muhammad SAW）。這一天全國將放假，以紀念這位伊斯蘭教的重要人物。國定假日的設定不僅是宗教與文化傳統的體現，也對全國的社會作息、商業活動和交通出行產生直接影響。民眾可利用此假期參與宗教儀式或安排個人休閒。",
+            "impact_zh": "確認2026年8月25日為聖紀節國定假日，這是一個明確的節日訊號。作為遊戲PM，應將此納入遊戲營運日曆，規劃節日主題活動、儲值獎勵或限時禮包，以吸引玩家上線並提升儲值意願。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Besok Libur? Cek Tanggal Merah 25 Agustus dan Sisa Libur Nasional 2026",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakI5SkFJRG4xRVlxdWlkX01sdzAtOElOWUg5RGd4cVIzVTVIempjLWotMWVRU01aS3dVV0psX1FaRGFSQUNwLWx1bVFEeEVRSGlObjhreG0ydXF6ZjRJOHdWc1JzNmd4NzBFOTBYYTMtX0VLY2ZRLVVWUXN1WXpjTXdQM3dBdnB5YVlvYUVZT1pyLUF2UERtRkdNYmtRanhRLVpzeFNSX2tzeHBtb0dNWQ?oc=5",
+            "source": "MetroTVNews.com",
+            "time": "2026-08-24T07:49:21+00:00",
+            "title_zh": "明天放假嗎？查看8月25日的國定假日和2026年剩餘的國定假日",
+            "summary_zh": "此新聞澄清了民眾對於2026年8月25日是否為假日的疑問，確認該日是印尼的國定假日——先知穆罕默德誕辰。報導還提供了2026年剩餘國定假日的概覽，幫助讀者提前規劃。這項資訊對於個人休假安排、企業營運排程以及各行業的市場預測都非常重要，確保社會各界能為假期做好準備，減少不必要的混淆。",
+            "impact_zh": "此新聞再次確認了2026年8月25日的國定假日狀態，並提醒查看年度假期。這對PM而言是持續提醒，確保遊戲營運計畫能妥善利用國定假日期間玩家活躍度提升的機會，規劃精準的行銷與營運策略。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Pemerintah Pastikan 24 Agustus 2026 Bukan Cuti Bersama Maulid Nabi",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONko0Z0EtR2pGMWtpRjV1UzlNRjJEdVYxcGR6dU9TUDZjWnNfeVNWVHFlV3haN2RIYlhDMk5oc3RwaFZFMWZtZjZoZ3Bmd1dKdFlfeDVEamV6MHRwZzlWWUVLSWJmUlpDY0tJTlQ4dE0xdXRBdGFfYkp5a2lTWjNZdmdn?oc=5",
+            "source": "SuaraGarut.ID",
+            "time": "2026-08-24T14:15:20+00:00",
+            "title_zh": "政府確認2026年8月24日不是聖紀節的共同休假",
+            "summary_zh": "印尼政府已正式澄清，2026年8月24日不會被定為先知穆罕默德誕辰（Maulid Nabi）的共同休假（Cuti Bersama）。這意味著雖然8月25日是國定假日，但8月24日仍為正常工作日。此項公告旨在消除民眾對於連續假期的誤解，並為企業和學校的營運安排提供明確指引，確保社會各部門能依據正確的假日資訊進行規劃。",
+            "impact_zh": "政府澄清2026年8月24日並非共同休假，這意味著聖紀節假期不會形成一個長週末，玩家的連假效應可能受限。在規劃8月25日的節慶活動時，需考慮這是一個單日假期，而非延長假期，調整對DAU與儲值的預期與策略，避免過度樂觀。",
+            "priority": "high",
+            "important": true
+          }
+        ],
+        "法規政策": [
+          {
+            "title": "Kementerian Komunikasi dan Digital RI",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGw3bWxOQjJzVHRTYlVWNWhDemI5bC0zbmU2cFZxN3VhNWU0MEstamc3MVVrX2R1SS1qM1JVTWZoM19HSnVDZDctaGtMSXNua3NmeG13M2t1c2o3SWZ1MXpKN3BhYTJPZjhUVE1rTEQ2eDMyeG1EZUJGazVkSElROHQ5TWpCUFRQTG5KMlNvUUtMTFJTQ1Z4aHFhRFFpR1FmZXZmb0psQkpJRHRRNVQwbm1RYnEtb3d3THdwZzIwUjhjaFdSc1lZaDdvWUZqaElpc1NMQWFrdzI?oc=5",
+            "source": "Kementerian Komunikasi dan Digital",
+            "time": "2026-08-24T19:45:33+00:00",
+            "title_zh": "印尼通訊與數位部",
+            "summary_zh": "這是一則關於印尼通訊與數位部（Kementerian Komunikasi dan Digital RI）的廣泛新聞標題，可能涵蓋該部會的職責、最新政策或活動。該部門負責監管印尼的通訊、資訊科技和數位產業，其工作範圍包括網路內容管理、電信法規、數位基礎設施發展以及推動數位經濟。任何與其相關的政策變動，都可能對應用程式、網路服務和數位內容產生深遠影響。",
+            "impact_zh": "印尼通訊與數位部（KOMINFO）是監管網路內容和應用程式的關鍵部門，直接影響遊戲是否可能因內容敏感或法規問題而面臨封鎖風險。雖然此標題本身無具體政策，但作為PM，需持續密切關注KOMINFO的官方公告與執法動態，尤其針對博弈相關法規的解釋與執行，確保遊戲合規營運。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Marak Penipuan Investasi Digital, DPRD Gandeng OJK Cirebon Tingkatkan Literasi Keuangan",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLW1iU043RDVjZXdQQnVJMDZ6TmlLR2R1cnZiNFYxUFh0VWlZSjFCTlNUMlZ5eHJmVGpIQ2pEMUllaEZlZTc2Z3luNFcxSWktZVFYbThlanlaMFZMaV9uMjFaWjVfVGh3X1R4dFk3UU5yU29hM3BkWXZHOXc5aFRmWUZrRktvVlctY0hsbWVENGotc0Q3RmRQbnluQU13bWVWVFZkNC1iZjdJekxUY1dwZ0tmTGpTbnhHRkVfaXlYWWhieFV1bjBDaQ?oc=5",
+            "source": "DPRD Kota Cirebon",
+            "time": "2026-08-24T06:11:30+00:00",
+            "title_zh": "數位投資詐騙盛行，芝勒邦市議會與OJK芝勒邦分局合作提升金融素養",
+            "summary_zh": "鑑於數位投資詐騙案件日益猖獗，芝勒邦市議會正與印尼金融服務管理局（OJK）芝勒邦分局攜手合作，共同加強民眾的金融素養。此舉旨在教育市民辨識詐騙陷阱，提升對合法投資管道的理解，保護投資者免受損失。此類合作反映了政府對金融消費者保護的重視，並試圖透過教育來遏制新型態的詐騙犯罪，維護金融市場穩定與投資人權益。",
+            "impact_zh": "OJK參與提升金融素養的活動，可能間接影響玩家對不明投資（包括部分博弈遊戲的「投資」說詞）的警惕。雖然不是針對遊戲的直接監管，但強化金融風險意識可能會使玩家對金流安全性有更高要求，需確保遊戲內儲值流程透明合規，避免任何可能被誤解為非法投資的宣傳。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Kadis Kominfo Rejang Lebong Minta OPD Penuhi Indikator Evaluasi Pemerintah Digital",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVRia1hRWjZIQUM0SXNCN2g5TWJQV2pacFJsWmZ2S2NQMlVnTmlQM1p1VE9FTzJ4b0psTE95ZEtuTXdneDFYRXhwbXFkTHUxTy1hS2pRazB2UDc0ZV9oRVBONk03V2FuTzNwRUh1REItVExMZEJDNUVQZ3lIdVZHUUxVbk51U01SXzRkWWh0bThZSkpyX3MxTlUyRjQ4amxIWkIyemVFNkRqeDhucUFueW5ZVUFBUU5L?oc=5",
+            "source": "Pemerintah Kabupaten Rejang Lebong",
+            "time": "2026-08-24T07:35:44+00:00",
+            "title_zh": "雷江勒邦縣通訊與資訊局要求各單位達成數位政府評估指標",
+            "summary_zh": "雷江勒邦縣通訊與資訊局（Dinas Kominfo Rejang Lebong）已向縣內各政府單位（OPD）發出要求，務必達成數位政府評估指標。此舉旨在推動地方政府服務的數位化轉型，提升行政效率和透明度，並為民眾提供更便捷的數位服務。通訊與資訊局將協助各單位實施相關措施，以確保數位化目標能夠順利實現，最終提升整體政府效能。",
+            "impact_zh": "此新聞聚焦於地方政府推動數位化行政，旨在提升政府內部效率。這與遊戲玩家的儲值習慣、金流通道或博弈法規等核心業務關注點無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Anggaran Golf OJK Rp15 Miliar, CBA: Nasabah BCA Terlantar",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFdPdGhsNEZJTGktZjFBdzZGdFdHMUl6Wml4XzVfZmpnR0ZuSnBwMjd1Wi14U1B1TnVlTW5qSXprTEpaNUh2UUk1bW9XdUNoYjJkTWUwUmVlb0xjeFBDd3RBWjVzNTFKR1NEbElDN3VCaTFvUUY5LU1tVEw0NExadUd2aU03MmpOWktpbk5ETVQtSG9T?oc=5",
+            "source": "INAnews",
+            "time": "2026-08-24T21:11:54+00:00",
+            "title_zh": "OJK高爾夫預算達150億印尼盾，CBA批評：BCA客戶被忽視",
+            "summary_zh": "根據印尼金融服務管理局（OJK）預算報告，用於高爾夫活動的預算高達150億印尼盾，引起公民預算分析（CBA）的批評，指責OJK將資源浪費於非必要開支，卻忽視了處理BCA銀行客戶投訴等更為重要的職責。此事件引發了公眾對OJK預算透明度與優先順序的質疑，凸顯了政府機構在資源分配上可能面臨的監督壓力。",
+            "impact_zh": "此新聞揭露OJK內部預算爭議，CBA批評其資源配置問題，可能損害OJK的公信力。雖然此事件不直接影響OJK的監管職能，但若公眾對其信任度下降，長遠可能影響金融市場監管的有效性。作為PM，應留意任何可能影響印尼金融服務機構穩定性或聲譽的事件，但短期影響有限。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Nasabah Melesat Tembus 24,3 Juta, BSI Konsisten Perkuat Penetrasi Keuangan Syariah Bersama OJK",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS29wd1kxUzlCTTJJdjBRTHRNdEVoVWZ2WWZHVEhtWkJwbHpzVE0yOUlFWXpWd1VxZ29od2U3YTZEN0VBYlU4OUgxRk0wal9YX2dlTUNQeEF6am9IZnVxQXhyNjZmNXAtcTVfQ1lDVURtdEYzUWRKTUd5NE1oQmhHUmdMd2szNUxHREhRaGZXTjRWaXczXzMway1DTWNpandnVGN5TDJ0cHJ3bUVualFXLTh1dGZOek1rYzBEYVR6S0tPWlBzT01VcHY0V05zeHhhNWpZ?oc=5",
+            "source": "Bank Syariah Indonesia",
+            "time": "2026-08-24T14:07:22+00:00",
+            "title_zh": "客戶數突破2430萬，印尼伊斯蘭銀行（BSI）與OJK合作持續強化伊斯蘭金融滲透",
+            "summary_zh": "印尼伊斯蘭銀行（Bank Syariah Indonesia, BSI）宣布其客戶數量已飆升至2430萬，並強調BSI將持續與印尼金融服務管理局（OJK）緊密合作，共同強化伊斯蘭金融在印尼市場的滲透。此合作旨在擴大伊斯蘭金融服務的普及度，為更多民眾提供符合伊斯蘭教義的金融產品。客戶數的快速增長顯示市場對伊斯蘭金融的需求旺盛，也反映BSI在推廣上的成功。",
+            "impact_zh": "BSI客戶數的增長以及與OJK合作推廣伊斯蘭金融，顯示印尼伊斯蘭金融市場的巨大潛力。對於提供穆斯林玩家支付選項的遊戲而言，可考慮加強對伊斯蘭金融支付通道的支援與宣傳，例如透過BSI相關支付方式，以擴大高價值穆斯林玩家的觸及率。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Pria di Pacitan Curi Uang dan Perhiasan Ratusan Juta untuk Judi Online",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVJjNXVBQkN2cWZ0MUwtdnIxVlNJS1FqZzdwcUdMT1dVUm9kV0hNYmkxdmlwUDB0d1ZBeDEyNnZjVVV5dzY2dDk4Ml81ZVBXUGJBR2ljaXVESlVPZXd0Z0lHZE04TDJYWFdnUm9jeXVsYWpmTk4tSC1Jd3UzR1llNjYxZVh2OHAtZURoQ3hxaUJaNWl0Y1R0VDJJRjRaQV9YTnNTVXoyYnFnQkRQVC1sZnU4UXc4WGFqcThlWnNjR1pqejBXU2fSAcsBQVVfeXFMTTdmWGRVR2JtVEo0N095ZDdhRUVWcUg2eGR5QUYtRGVuaTZfZC1qN2YxT2N2NXFiTlhWSjZIbTJNVWxxRFJaMnNiaW15cHZCTEtKNkFzQmFWaUVkQ2tZajZhc0JVV0JkQkp6UWRYenJaMWUtdjRxSkZVU2hiOV9hSU9nNkJtSXJDYmdGTHFlTGNWRmNGVGhGcE1MMm9jLXJCa0ZoLXRlMjk0SUc5QzFqR1dHSGhvQU9OczBOSGF0UEhFVVVzQ1RyWm1rWEE?oc=5",
+            "source": "detikcom",
+            "time": "2026-08-24T16:30:39+00:00",
+            "title_zh": "帕吉丹男子為線上賭博盜竊數億印尼盾現金和珠寶",
+            "summary_zh": "印尼帕吉丹（Pacitan）地區一名男子因沉迷線上賭博，盜竊了數億印尼盾的現金和珠寶，最終被警方逮捕。此事件突顯了線上賭博對個人經濟和社會穩定造成的負面影響，也再次引發社會對非法賭博活動的關注。警方已介入調查此案，並將追究涉案人員的法律責任，以打擊日益猖獗的線上賭博犯罪行為。",
+            "impact_zh": "此類新聞強化了政府對線上賭博的負面觀感與打擊力道，雖然針對的是非法賭博，但可能引發KOMINFO和OJK對所有與「博弈」擦邊的應用程式更嚴格的審查。需持續監控官方對博弈類產品的態度，並確保遊戲內不含任何可能被誤解為非法賭博的元素，同時警惕KOMINFO潛在的封鎖行動。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "8 Kebijakan Andalan Sarjito, Calon Bos Bursa Mineral & Komoditas OJK",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZElKdmZ0NWhkMElrV3RSVmc3SkFFbE50T0ZsV3NiSVhiNkpsT20zR1psNXJoWkpINTd1RWRZdkEzT1hDSmdicHJJY0lRWEZYQzlzMEpVal8xUnNKVjJwTHJSNVlHYV91Wm9QNHlnWG44V3N1S3JFQ0h2ZlhQZ2pRTjBzVUNhYklxZkl5Y0hWTUZwbFR0V3gxVW15Yk9OcEo1RDV2LUZyeENRX0Njd2dCQm5QUjNBa3dYLWJ0SEFuTG9ybldsb0HSAcsBQVVfeXFMTW1iYi1iXzIxVllESnlPMm1zbDBEYTlhUlJQbTR2d015T24xRW9uUVlzODk0aEQzVGZMekU5Wm1DWW5kX1dYaDJCdDBjYWpKSmJCaW9QRzhQX3pKbzBaOXJxZkhvRXVtWkZOcWJ0RTE5Y2JPWDg3d3k4cDF3RkxHS0F5cy03OUtNSHYtMHV5SjBSRTUtazFmQzF6Qm9lYWMyN3YzMG9MVUl2LW9Lb2hQdGltZ19wM05sdks3YXBwOUJKUDY4aF82MGNLWW8?oc=5",
+            "source": "CNBC Indonesia",
+            "time": "2026-08-24T08:01:41+00:00",
+            "title_zh": "OJK礦產與商品交易所新任負責人Sarjito的八項重點政策",
+            "summary_zh": "印尼金融服務管理局（OJK）礦產與商品交易所（Bursa Mineral & Komoditas）新任負責人Sarjito提出了其八項重點政策，旨在提升該交易所的效率、透明度和國際競爭力。這些政策可能涵蓋市場監管、產品創新、投資者保護及數位化轉型等面向，以期為印尼的礦產與商品交易市場帶來新氣象。此舉對印尼的商品期貨市場發展具有重要意義。",
+            "impact_zh": "此新聞聚焦於OJK內部組織對礦產與商品交易所的政策調整，與手遊市場的玩家行為、金流通道或博弈法規等核心業務關注點無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "OJK Tekankan Pentingnya Trusted Market di Bursa Mineral Strategis",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9paDFTNFV6NE5KZmc5SjRjVWNDSmM5QXo0bzFSSlM1QVEyeXFCTG5QMnBGYUM1Y3Eyd2tKWGtfOVJRb19ZZm5GZVR4c2FhMU9CN3RMMXZMek5lZmFkNl9QeTBoY0FlTWlIWWRV?oc=5",
+            "source": "SuaraGarut.ID",
+            "time": "2026-08-24T10:55:13+00:00",
+            "title_zh": "OJK強調戰略性礦產交易所信任市場的重要性",
+            "summary_zh": "印尼金融服務管理局（OJK）強調，在戰略性礦產交易所中建立「信任市場」至關重要。這意味著OJK將致力於確保市場的透明度、公平性與安全性，以吸引更多投資者並促進市場的穩健發展。OJK認為，一個可信賴的市場環境是吸引國內外投資、提升印尼在全球礦產市場地位的基石，將透過嚴格監管和技術創新來實現這一目標。",
+            "impact_zh": "OJK強調建立信任市場的重要性，反映其對金融市場穩定和透明度的重視。雖然此處特指礦產市場，但這顯示OJK在廣泛監管中對「信任」和「合規」的關注。遊戲金流處理應維持高度透明和可信，以符合OJK潛在的更嚴格金融監管趨勢。",
+            "priority": "medium",
+            "important": false
+          }
+        ],
+        "行動支付": [
+          {
+            "title": "Imbal hasil dana pasar uang hampir sama dengan inflasi, investor cari opsi dengan risiko dan hasil lebih tinggi.",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPblc2UmNKYkF5YzRCVEVjdE1rRzBid0loLXU3OW1Xby1uc3hwOWs2VkhCQ3YxRTdoRzYzR2p3Qmk2d0hFVElLODRUTWE0N25qSEkxZ1AyYjdQX21SbzB1UHYybEExV0RpUGdZdTdpOU8zMWRLRk5oZC1IQmJkRFEwUDZsSXpkbzJUWkZPTTRqLWw?oc=5",
+            "source": "Pluang",
+            "time": "2026-08-24T18:05:35+00:00",
+            "title_zh": "貨幣市場基金報酬率接近通膨，投資者尋求更高風險與報酬選項",
+            "summary_zh": "報導指出，由於印尼的貨幣市場基金報酬率僅略高於甚至接近通膨率，使得投資者開始轉向尋求具有更高風險但潛在報酬也更高的投資選項。這種趨勢反映了投資者對資產保值和增值的需求，以及對當前低風險金融產品吸引力下降的反應。資金流向的變化可能影響不同金融市場的活躍度，並促使資產管理者提供更多元化的投資產品。",
+            "impact_zh": "當貨幣市場基金報酬率不佳，投資者可能轉向更高風險的投資，這可能包括將閒置資金投入休閒娛樂（如遊戲儲值）。高價值玩家可能會更傾向於將可支配收入用於消費或有潛在回報的投資，這對遊戲儲值（尤其是高單價商品）可能是利好，但也需留意匯率與通膨對其購買力的實際影響。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Penyuluh Pajak Surakarta Dampingi Bendahara SMP Swasta Kelola Aspek Perpajakan Dana BOSP",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMThtSnlhTU5jTWdsaGVRMWd6SnF0ZDZvalpjUzd5eW5kV2EtdXRhcm1vTGVLWU5UMG9WWXdfdklOcnd5T1J3NjNCUDBNQmFsTUdkVnFFZ2pSX0NLRlREZTlXUjhEcE43MmZIbEhnN0JjbEoxekwwb2k2dHdOSzdJX3RPWFpqaG1SRGRkYlRUUDVCMEZlQ2M2ckdObTQxZDdfNDRyZ0tiVmZiamY2UzJYbURad2hhNW85b1BTc3ZoRQ?oc=5",
+            "source": "Direktorat Jenderal Pajak",
+            "time": "2026-08-24T08:55:59+00:00",
+            "title_zh": "蘇拉卡爾塔稅務顧問協助私立初中會計師管理BOSP資金稅務方面",
+            "summary_zh": "蘇拉卡爾塔地區的稅務顧問為當地私立初中的會計師提供專業輔導，協助他們妥善管理來自「學校營運補助金」（BOSP）的資金稅務方面。此舉旨在確保學校能正確履行稅務義務，避免因會計處理不當而產生的問題。這項服務有助於提升學校財務管理的透明度和合規性，確保教育資金能有效利用，同時遵守國家稅務法規。",
+            "impact_zh": "此新聞關於地方學校的稅務管理，與遊戲產業的營運、金流或玩家行為無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Rekening Mandiri Aktivis Diblokir, Waketum MUI: Penyalahgunaan Wewenang, Bisa Picu Penarikan Dana Besar-Besaran Seperti Krisis 1998 - MUI",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQlVyQ1VwYW1qTW9pN0J1T2J4SUlOemxVQWN1YlJFNG9GaUZBa2lVdU9PMkppcTAtd2JJMHJhVktjSmdXMGY2bURZeWg4Z180REozbU1CRWNYMnNrQVhzREtRUXhiT1NfMFB3Nzh0cUtxMzF4OVc3Z1pqQ1ZuRjJFY3lFdDJETC1WdEoxTXp4OWxHaHZkNzUzbjNlUFp5UzlGOWpKdjdoVFJUNC13Nl9MdnVPcUtxQ1RKNWxwTlpIcGdpR3N3TDJ4RjVVd3lHaHdMOFRudEZoVUI4V3BITHlXOGx6amhpeVA1NkVNSzlWRQ?oc=5",
+            "source": "Majelis Ulama Indonesia",
+            "time": "2026-08-24T13:12:26+00:00",
+            "title_zh": "活動人士Mandiri銀行帳戶遭凍結，MUI副主席：濫用職權，可能引發如1998年危機般的大規模資金提領",
+            "summary_zh": "印尼伊斯蘭學者理事會（MUI）副主席針對某活動人士在Mandiri銀行的帳戶遭到凍結一事表示強烈譴責，認為此舉是濫用職權，並警告這可能引發類似1998年金融危機般的大規模資金提領潮，動搖民眾對金融體系的信心。MUI呼籲政府應立即釐清並確保公民的合法權益，避免不當行為對國家金融穩定造成嚴重衝擊。這顯示MUI對社會公正與金融穩定的關注。",
+            "impact_zh": "銀行帳戶遭凍結並引發MUI高層的嚴厲批評，警告可能導致民眾對金融體系失去信心，甚至引發資金提領潮。此事件對印尼金融穩定性構成潛在風險，可能影響玩家對銀行轉帳或電子支付的安全感。應密切關注此事件發展，若金融系統出現信任危機，可能導致玩家儲值偏好轉向電信儲值（Pulsa）或第三方支付，而非銀行連結管道。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Bantu 40 Keluarga Penerima Manfaat, Kalurahan Maguwoharjo Salurkan BLT Dana Desa Tahap Ke delapan",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQVd4M3N0aWxiU2FlVTI2bm5qeC1UWlhJSTM5aWFXemxIVTMxNHpib3hHejFZQVJoRnZFbGxsMUR0elFVeXdkY2hEWUNEdm82c3I0Z0hNNFNGYTN1VDV5SDdIVW9Rd1E0SXh6NnZFSXBxVW11OEZuejlqZkhXZjdMQU9SNkVFUUNEeVR3XzM3ZlJxODRhdkk4cE45S0JldUFPUmNwMXd3NWxJUllpM1FnVTA2dHBkcXRPOGJ0emJ6Zl8yS194N3JoeXpFTnBDT1RTb3ZsWGliTlNJUW1E?oc=5",
+            "source": "Media Center Sembada",
+            "time": "2026-08-24T02:47:28+00:00",
+            "title_zh": "馬古沃哈爾佐村發放第八階段村莊基金直接現金援助，幫助40戶受助家庭",
+            "summary_zh": "日惹特區馬古沃哈爾佐村（Kalurahan Maguwoharjo）已向當地40戶符合條件的家庭發放了第八階段的村莊基金直接現金援助（BLT Dana Desa）。此項援助旨在緩解受助家庭的經濟壓力，幫助他們應對日常開銷。透過定期發放現金補貼，政府期望能有效支持當地居民的基本生活需求，特別是在物價波動或經濟困難時期提供及時協助。這顯示政府在地方層面保障民生的努力。",
+            "impact_zh": "地方政府發放現金援助，有助於受助家庭的經濟穩定。這可能間接提升部分玩家的購買力或可支配收入，但在全國層面對遊戲儲值行為的影響極為有限。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Konser penggalangan dana untuk NTT",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOU9xaC1nUWJNMEdxYkNoR092ZUNORjJ3d1dnN0RZYVVtSGdMYkRhdVVKWV8zTHhNOWxBcWZyZHZ5MFk4NHhWX3NnTFhSWWE1Q2V4NW52R2xCZHVfNFowTDU4RU92cTVxdUFNVUhtSlRqbFYyRVlKN2NjaVo2SERGcnp4UdIBiAFBVV95cUxObTI4azNjdU44M0hVaVF6U0Vscm9yMGI0amlNdGpRR04xQXV5d1Eza0d3dmhGbHJKbXpxeV9LaHlRdUFKa09rNWVQWThSUW1vcXVONmwxTnktZ0xONzItN21Zbjlfd0pPVWZGUTRhN2dMcWRwMy1UdTR0U2Y4akppOWlyd3diZlZF?oc=5",
+            "source": "ANTARA Foto",
+            "time": "2026-08-24T16:04:00+00:00",
+            "title_zh": "為東努沙登加拉省（NTT）的募款音樂會",
+            "summary_zh": "一篇關於為東努沙登加拉省（NTT）舉辦募款音樂會的報導。此活動旨在為NTT地區的災民籌集善款，以支援他們的重建工作和人道救援需求。音樂會通常會吸引大量民眾參與，透過門票銷售、捐款等方式匯集資源。這類活動反映了社會各界對災區的關懷，以及透過文化藝術形式動員社會力量的能力。",
+            "impact_zh": "此新聞為人道募款活動，與遊戲營運無直接關聯。然而，若當地居民遭受重大災害，可能會影響其經濟狀況，進而降低儲值意願，但此事件為特定區域的募款，影響有限。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Dana Pemerintah Dihentikan untuk Cool Japan Fund yang Merugi",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FeGNTWUNhNkduZ2hBY3JzZGZQWkp2ZW15OWc3UTRITlBGNm85eEstVlN6NmxzeFNRZ2xMSTN1RDMydGdCVTcwcVY4a2RDZG9VcDFLc2gyWmVGWkpSQkF2X2Nn?oc=5",
+            "source": "nhk.or.jp",
+            "time": "2026-08-24T12:38:28+00:00",
+            "title_zh": "虧損的「酷日本基金」政府資金被中止",
+            "summary_zh": "日本政府決定中止對連年虧損的「酷日本基金」（Cool Japan Fund）的政府資金支持。該基金旨在推廣日本文化產品和服務至海外市場，但因其持續的財務赤字和未能達成預期效益而飽受批評。政府此舉顯示對公共資金使用效率的重視，並要求虧損的機構重新評估其運營模式和戰略，以避免更多納稅人資金的浪費。",
+            "impact_zh": "此新聞與日本政府基金有關，對印尼市場的手遊營運無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90N0hsYll3ZHAwaHNZWjIwbGpudHdjcGhNLXgxSlFxckxTMFZ4UXJkSWltcDlVcDdsSjNtWFJnejZjQTd2SklMbjQ3LWZqaEFUQjNmN3M1V1UzcWdlempzYXc1MGIxRWQ2ZU9JSDItQzRucDA?oc=5",
+            "source": "BeInCrypto",
+            "time": "2026-08-24T22:00:00+00:00",
+            "title_zh": "一項300億美元的AI基金崩潰，美國證券交易委員會正調查華爾街的角色",
+            "summary_zh": "一項規模高達300億美元的人工智慧（AI）基金驚傳崩潰，引起美國證券交易委員會（SEC）的介入調查，以釐清華爾街在此事件中的角色與責任。此事件凸顯了AI投資領域的潛在風險和市場波動性。SEC的調查將聚焦於基金的運作機制、信息披露及相關金融機構的行為，以保護投資者權益並維護市場公平性，這將對AI投資市場產生警示作用。",
+            "impact_zh": "此新聞涉及美國AI基金的崩潰與SEC調查，屬於國際金融市場層面的事件，對印尼手遊市場的玩家行為或金流管道沒有直接影響。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Dana Jual Saham Semikonduktor Senilai $44 Miliar Akibat Kekhawatiran AI",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFhzRlM4eUU1ZXRWSkFuamlaSUkxeUxabHEzRUdZc2NONTdPbnBmT3AzQjVhcUNFdmZIYkk2RVBXOFVweXo2azdwdk1CaHFZOTB0MDZteWJQYm0wNWZEY3NDRTlQTERvZENOanNIVEVvYWplVjF2UWoyUzZsYm1zUVVhMUoxVHZzWnhjUklMM2d3eE9vek5aM1pka2ZJUlhBUzlSbThNajBqWFN3ODE2LXhYbjZBT3gtMWNnU3J6d3dfaUdzMm5EeDc3bw?oc=5",
+            "source": "Investing.com Indonesia",
+            "time": "2026-08-24T12:38:39+00:00",
+            "title_zh": "因AI疑慮，基金出售價值440億美元的半導體股票",
+            "summary_zh": "受對人工智慧（AI）發展的疑慮影響，多家大型基金近期出售了總值達440億美元的半導體股票。此舉顯示部分投資者對AI未來發展路徑的不確定性，或對當前半導體產業估值的謹慎態度。大規模的股票拋售可能導致相關板塊股價波動，也反映出市場對高科技領域投資情緒的變化。這將對全球科技股市場帶來衝擊。",
+            "impact_zh": "此新聞涉及國際半導體股票市場的資金流向，屬於全球資本市場動態。對印尼手遊市場的玩家儲值習慣、金流或博弈法規無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          }
+        ],
+        "電信網路": [
+          {
+            "title": "Andre Rosiade Resmikan BTS Telkomsel, Warga Talaok Tak Lagi Berburu Sinyal",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRFQWxoWVdXNE1RZlUtYklfQTdiaThFRUFkUWVLa3lXUkpHZFpfa3haNmhvZEQzYS1pTnRwbEtxeXBhcngtWllsN2dhRHlGSDA3WWZvOXVWTXlxVWJHOXBmV0lLbkplekVwMXZOdUs0YlFzWFU3TU9RMGNLcDdMVDdLYTZMbGNIV0F6UFNROXdnSjRSSTc4MlJGUHloMTAxM21zWGRTdllEbktWbW51a1B6RdIBuAFBVV95cUxOcmd4X01hY2N6VXN2SFBvNVFreVZNVllYNTJDQWdRY1Z5eEJRSFA0bWF6ZzdkNThSbUtVblU2TWhiUkVuWDVBVG9lV3pVazlNX2tfMkRvT1lreXdQODJ2OGZ3eEZSMWsxWUFQdV9nWVQ4WkROdWhuemtnZTVFS1c0dkFMWEJnVjBDYnAtZHpDNE5sZTlmekFEb3lNUXVRYkEzd2NYT0dLZ18xQkMtenVrclNiTHlzaHd6?oc=5",
+            "source": "detikNews",
+            "time": "2026-08-24T07:50:09+00:00",
+            "title_zh": "Andre Rosiade啟用Telkomsel基地台，塔拉奧克居民不再需要找訊號",
+            "summary_zh": "國會議員Andre Rosiade為印尼電信公司Telkomsel在塔拉奧克（Talaok）地區啟用新的基地台。這項建設將大幅改善當地居民的通訊品質，解決長期以來訊號不佳的問題。當地居民表示，未來將不再需要費力尋找訊號，可更便捷地使用行動網路進行通訊和上網。電信基礎設施的完善，對推動當地數位化生活與經濟發展具有重要意義。",
+            "impact_zh": "Telkomsel在偏遠地區建設新基地台，提升了當地網路覆蓋率和訊號穩定性。這有助於擴大潛在玩家基礎，特別是在過去網路不佳的區域。更好的網路品質意味著玩家能更順暢地進行遊戲和儲值，有助於提升遊戲體驗和活躍度。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Indosat (ISAT) Pasang Target Ambisius",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWGhJZzlFaElVMVM3a2xHNlRwNV9MbjZkbU9PZUlCOXdDZnFZcWRzcWVZM2s1SGVBV3dXcEg4YjNhcUlhVDNWUFdvR29GU2xod2w5WVlxTXpzUC1UalF0aVZjVUYyZXR1VjUtMVc2alhLLXd6RE5ObA?oc=5",
+            "source": "investor.id",
+            "time": "2026-08-24T04:30:00+00:00",
+            "title_zh": "印尼電信公司Indosat (ISAT) 設定宏偉目標",
+            "summary_zh": "印尼電信巨頭Indosat Ooredoo Hutchison (ISAT) 公布了其宏偉的業務發展目標。作為印尼領先的電信服務商之一，ISAT正積極擴大其市場份額，並在5G、數位服務及基礎設施建設等領域進行大量投資。這些目標反映了公司對印尼數位經濟前景的信心，並旨在透過技術創新和服務升級，進一步提升其在競爭激烈的電信市場中的領導地位。",
+            "impact_zh": "Indosat設定宏偉目標並投資數位基礎設施，預示著印尼整體電信服務品質和網路覆蓋率將持續提升。這對所有手遊玩家都是利好消息，因為更好的網路環境有助於提升遊戲體驗，降低斷線率，並確保儲值過程順暢。電信基礎設施的改善，長遠將有助於整體手遊市場的健康發展。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Paket Internet Spesial Telkomsel Terbaru di Lampung, Kuota Besar?",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUU5NNV9ST1VVNkJQSGs3Mk5zNk5FY0NFeGFZa0lvY3d6S29vSFBwYlpyc3ZPWlYyUE1rbVhCWFgzajBPUmI1X0RLWk5LTUtpNEdIWHR2WjdBSzRNb21Ocl9CMHg5WUExa0dQQzZnc2N6cWVCZ0pSZ1RwSnRTbFNxVTZYN0I5bzZ6RWhBbGRnZFFoMlBvMkg3NnBhNFh0TTkxX09lZ20tblNVY3E5ZTVkeVMwLTBxU2dwYUxfQnd30gHDAUFVX3lxTE5UazY2WGNKdTFWQjEzS05pZ1h2VmF3U1pLWjRybEEzUTd4aHNDb0RWUmFXeWtDQkJucGpFMFRYOXJucU4ydU8tekRmYWJNZnVBRkt6YU1SSzdNR21WRi1iWkdyYXZwMjlYZFZDdHpPQnJGdEVPSHhXdmxMdXJOX19zTnY4UF9ueTdHaXd1cTl4b0JKSlNMVXR5NVJ1LTdDVC1VTW9wOVV4cXRwaWxIMENEcm82WnJXeUJZX3NidmNteHE4Zw?oc=5",
+            "source": "IDN Times Lampung",
+            "time": "2026-08-24T04:15:41+00:00",
+            "title_zh": "Telkomsel在楠榜推出最新特別網路套餐，提供大流量嗎？",
+            "summary_zh": "印尼電信公司Telkomsel在楠榜（Lampung）地區推出了最新的特別網路套餐。此報導關注這些新套餐是否提供大流量，以滿足當地用戶不斷增長的數據需求。電信公司推出具競爭力的套餐，旨在吸引新用戶並留住現有客戶，同時也反映了地區性市場的數據消費趨勢。這些套餐對於當地居民上網、娛樂和工作效率將產生直接影響。",
+            "impact_zh": "Telkomsel推出大流量優惠套餐，可能降低玩家的網路費用負擔，讓更多玩家能長時間在線。特別是對於依賴行動網路的玩家，更具性價比的網路套餐將提升其遊戲參與度與儲值意願。PM可關注不同地區的電信資費變動，作為當地行銷策略的參考。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Telkomsel Hadirkan BTS Baru di Jorong Lariang",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWYxcUEtemFTaDFzSWp2VWtjX3RjODJ3UXUxWXFqWHhCVFctY1hCaHFKQTNsZi13MjlLRTcxSUVOV2llSTdUR2xERjVVWjBITy13cmtUX1hvelMyTm14eHNvMTN6SmZldFdubDBaNUR6YnZzeVhZSmFaNmJWUTFnaFppOVVtLXFFa19mbjR3?oc=5",
+            "source": "METRORIAU.COM",
+            "time": "2026-08-24T13:06:07+00:00",
+            "title_zh": "Telkomsel在Jorong Lariang設立新基地台",
+            "summary_zh": "印尼電信公司Telkomsel宣布在Jorong Lariang地區設立新的基地台。這項基礎設施的擴建將大幅改善該地區的行動網路覆蓋範圍和數據服務品質，解決當地居民長期以來面臨的通訊挑戰。Telkomsel此舉旨在推動數位化普及，讓更多偏遠地區的民眾也能享受到穩定的網路服務，對於促進當地資訊流通和經濟活動具有重要意義。",
+            "impact_zh": "Telkomsel在偏遠地區增設基地台，擴大網路覆蓋範圍，有助於觸及更多潛在玩家，特別是此前因網路條件限制而無法順暢遊戲的用戶。這將提升遊戲的DAU潛力，並確保這些新用戶能穩定地進行儲值操作。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Telkomsel Salurkan Bantuan dan Pulihkan Jaringan Gempa Flores",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEdGX1ZwSFBWb0RDZVd4UVFzeUEtTGs5OTJOWUxYMlozS1NCMkhleEN6M2RWaVZFY1hqbXFFNEt3bVBlX1ZyZHI2REFfU2pKN2plNXloSTFQVFNEQkZQRWdscnkxbmwxRTlNa2xjUlFQdi1VUFpRdGFneE10ZElfaEVZamZRUQ?oc=5",
+            "source": "SuaraGarut.ID",
+            "time": "2026-08-24T07:12:30+00:00",
+            "title_zh": "Telkomsel發放援助並恢復弗洛勒斯地震區域的網路服務",
+            "summary_zh": "印尼電信公司Telkomsel在弗洛勒斯（Flores）地區發生地震後，迅速採取行動，不僅向災民發放了援助物資，更積極恢復受損的網路通訊服務。在災難發生後，通訊網路的暢通對於救援協調和災民與外界聯繫至關重要。Telkomsel此舉展現了企業的社會責任，並幫助災區居民重建通訊基礎，支持他們的恢復工作。",
+            "impact_zh": "Telkomsel在地震後迅速恢復網路服務並提供援助，雖然是企業社會責任行為，但穩定網路對災區居民仍有重要意義。對於受災區域的玩家，網路恢復是能重新參與遊戲的基礎，但短期內其儲值意願會因災情影響而大幅下降，應避免在此時推銷，轉而考慮人道關懷或暫停宣傳。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Telkomsel Hadirkan BTS Baru di Jorong Lariang",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnRaa01QZVpWaGZ5aXI4WjBIUksyMTc0WjQ2NGcxb3dOQkZqcUZLUEVKcnpTcWJZbF9JTk1sejVOYkRkT25MUk81VnVhX3lZOERpNFhhVjNKRHRtUUVOUlZScVlZLVRZazUyS0lMZV9UMXJCNzhkLVZwLVlDckxUY3lPci1iNTBad19WTHQ2RlZSQQ?oc=5",
+            "source": "Arunala",
+            "time": "2026-08-24T10:47:00+00:00",
+            "title_zh": "Telkomsel在Jorong Lariang設立新基地台",
+            "summary_zh": "印尼領先的電信運營商Telkomsel已在Jorong Lariang地區成功啟用新的基地台。此項基礎設施投資旨在擴大其在偏遠地區的網路覆蓋範圍，並為當地社區提供更穩定、高速的行動網路服務。此舉將有效解決當地居民的通訊痛點，促進數位化生活的普及，並支持Jorong Lariang地區的經濟和社會發展，提升居民的數位連結性。",
+            "impact_zh": "重複新聞。Telkomsel擴大網路覆蓋對擴大玩家基礎和提升遊戲體驗有積極作用。更好的網路接入意味著更多偏遠地區的玩家可以加入遊戲並順暢儲值，長遠來看有助於提升市場滲透率和收入潛力。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Telkomsel Liga Sang Juara Dorong Pertumbuhan Ekosistem Digital Pendidikan",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXMxLURIR3paTjZwcXItcWZqak1BRTRhbEJtYUo0QjVkVVBzQlVGc1BXdjRYcG4wbVdtQjFqc2ZGcndxM0lOcWV6OXJJNlYtOU9zQkZhdy12YUprZWtRVi1jS1JyaFhKN1Y3UE45YVlENUF2SW1HckNkVzZpR3BmMDRUd3NCa2NLUEFsQlhZWVRwdFNaNERxZGN6b21idWVBaFJVUS1HUnVQSnZWa1NPcGJHdUxPODR0TUhQQU5oMmzSAcYBQVVfeXFMTVQyOUV0NFVzWWJLSEdLQm5XM3dRVkVuV0VxUGVUUWRuaEc4U1dXRnc0SDNRSHV2bElieVFCMXB1d3ZMaWJfZDZOZEFjeGFjeVI3TVhkbFhrMzQ3aFQwbjA4a2RWX1J0LVdOSGprSkpTaExmUXpxNFlQUDZlaGlMRFpUVUpnSjVVUHZtYzVqOHhyeUd0WWRFbm9iVk1mbWMzdXVyZ0RiMW9Xbm9KVG81UDcyTWVrVGZZNFFZZTVUNjIybjczSzNR?oc=5",
+            "source": "Riau Pos",
+            "time": "2026-08-24T05:08:39+00:00",
+            "title_zh": "Telkomsel Liga Sang Juara 推動教育數位生態系統發展",
+            "summary_zh": "Telkomsel透過其「Liga Sang Juara」（冠軍聯賽）計畫，積極推動印尼教育領域的數位生態系統發展。此計畫可能結合了電信技術與教育內容，旨在利用數位平台提升學生的學習體驗和教育質量。Telkomsel此舉不僅展現其企業社會責任，也透過技術賦能教育，培養未來人才，同時擴大其數位服務在教育領域的影響力，為學生提供更多數位學習資源。",
+            "impact_zh": "此新聞關於Telkomsel推動教育數位化，屬於企業社會責任範疇，與手遊玩家的儲值行為或金流管道無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Telkomsel Resmikan BTS Baru di Jorong Lariang, Perluas Akses Digital Kabupaten Agam",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU5pQllqQzd5ZWM5dFdJM1hHZ3ZFakVsR1I3dFlueTlEVW5FN2E3Wm9KRnJEN05hMUlOZnJsQzgtWnZTY0pxVVlKM1BicWJ0aU1nZ0NUQzJCOFJ2SHhaTXhxYWhjTnRVVG4wYXZvRUJyeVJ5NjdyUVVJQnNvbzJiN3AtWElMVkJQRzU5SkFUWXVmM1FKako0aTFnSUQzejFNZ1R4MklyTlVwNVNyaHY0?oc=5",
+            "source": "Batamtoday.com",
+            "time": "2026-08-23T22:08:00+00:00",
+            "title_zh": "Telkomsel在Jorong Lariang啟用新基地台，擴大阿加姆縣數位接入",
+            "summary_zh": "印尼電信巨頭Telkomsel在Jorong Lariang地區正式啟用了一座新的基地台，此舉旨在擴大阿加姆縣（Kabupaten Agam）的數位接入範圍。這項投資將顯著提升該地區的網路覆蓋和數據服務品質，使當地居民能夠享受到更穩定、更快速的行動網路。Telkomsel的目標是彌合數位鴻溝，讓更多印尼民眾能夠連接到數位世界，促進地方經濟和社會的全面發展。",
+            "impact_zh": "重複新聞。Telkomsel在Jorong Lariang啟用新基地台，擴大數位接入，這對手遊產業是正向訊號。網路覆蓋的增加將觸及更多潛在玩家，尤其是在過去網路條件不佳的地區，能夠提升這些地區的DAU和儲值活躍度，有利於市場拓展。",
+            "priority": "medium",
+            "important": false
+          }
+        ],
+        "遊戲產業": [],
+        "流行文化": [
+          {
+            "title": "Lagi Viral! Ube Khas Filipina Ternyata juga Ditanam di Indonesia",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdF8zbUEzN3lkWE9ZTWl0aGlTNk01aUNmYWNKMUFabEd4TDRFaDFJU1N0aG9odVVBcUI5cDZVS1VvUzhvTzJEUHpEMEN0LU1XT2dxS2hweWVJVjdheHlUT2YzS1hSNlcyZXNOaW9GUWg5NWp4TVUxWmE4d1ZlNjBYMXN1OVNUVmVaSGRjMDBRejlsU0xtME1tM2ZQYkt5X0dnYUJCYjVUV1QxbXUtdzREdjdjTWpjeVFjdTdjX0Y1NE_SAcYBQVVfeXFMTjhNdmZQeVFyNWl4SzhQNEhpQ09VdlA3dlFaNzRLa292b0N5THc5MUNmZ2o1N1ZaZ1lPZ2Vldm85Y2tEMWM3YnNkdndsZDQ3MUNrUlk0a0MzZndCNUVyM2d5Y0tBZEMyVHVkQkRXVDhHdE5CNFdzRy05d1lzMmtoRmYxdjg3WWtIVzI0SUt0R3hVakhOWnRuV09vMF9mZF9JUGk0NGpwdWpBcV9NeWFCTUt4N2VSaDJMRlZmdmZ3aTZ2V3MxZ1Rn?oc=5",
+            "source": "Haibunda",
+            "time": "2026-08-24T08:48:23+00:00",
+            "title_zh": "再次爆紅！菲律賓特產「芋頭（Ube）」原來印尼也有種植",
+            "summary_zh": "菲律賓特產的紫色芋頭（Ube）近期再次在社群媒體上爆紅，許多人發現其獨特風味與鮮豔色彩。新聞指出，原來這種受歡迎的芋頭不僅在菲律賓盛產，在印尼也有種植。這項發現引發了美食愛好者的關注，可能帶動相關食品的製作與消費潮流。Ube因其在甜點中的廣泛應用，已成為一種熱門的食材。",
+            "impact_zh": "此新聞討論的是印尼本土農產品在社群媒體上的「爆紅」現象，可能影響當地飲食趨勢。對於遊戲行銷而言，這提供了一個了解印尼「本土文化」與「TikTok趨勢」的機會，可用於發想結合本地元素、具話題性的行銷素材，吸引玩家關注。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Dugaan Pencurian Celana Dalam Viral di Medsos, Polsek Tabanan Fasilitasi Penyelesaian Secara Kekeluargaan",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTFBYXl1WEg1Mmxua2t4dDhLQkFma05CN3kxcVlQbTY4c3ZodmxlYTdsWXJrcXlLY2pUTWlLRXZwUGoyOWZYdHlPTFNDczBwbXl2b0lybk45NkVtUDFLREY0VGhIWWw2Uk9VdWRUajY2d2FmTXA2MzJ4bHBfN0JrLVdhSTBuUVR1R2N4VENCNEVWRmVEYmRRVFpVNWN2Q0g0Um9PWjRVX1ByaUhLNS1EVk9Ud3FZTmhCUHNGdDBQSUI5Z09WVExRRmR2R0xMamdGLXROcUROcDVLX05Gbm5NbA?oc=5",
+            "source": "suryaindonesia.net",
+            "time": "2026-08-24T14:11:00+00:00",
+            "title_zh": "內褲竊盜嫌疑在社群媒體上爆紅，塔巴南警局促成家庭和解",
+            "summary_zh": "一起涉嫌內褲竊盜的事件在社群媒體上迅速爆紅，引起廣泛討論。塔巴南（Tabanan）警局介入處理此案，並最終促成了涉事雙方以家庭和解的方式解決爭議。此事件突顯了社群媒體傳播資訊的影響力，以及警方在處理非重大案件時，在地方層面鼓勵以和解方式解決糾紛的靈活性。這也反映了當前社會對輕微犯罪處理方式的關注。",
+            "impact_zh": "此新聞關於地方性輕微竊盜事件在社群媒體上的爆紅與和解處理，雖然提及「社群媒體爆紅」，但內容與遊戲產業的玩家行為、金流或法規監管無關。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Viral Mahasiswa Moshing di Pendopo ISI Solo, Pihak Kampus Klarifikasi",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTNTUzUzSW1DWGdzMnZhY3NnUWh3U3o5bFBLMzJtbVR0VlA2Vk81SFQwcVZqbmpnWVlrY3M3Ujkyckc4cGx4T1dqMUdwNnc2QUkzcVg5ejNJSklyZXdPZXFWdW5oRFNOeXN0b0tRbzZwaU5VM3NnZENpUnVmOHIxd0U0VTFzb0prazJwLU0xVG5wZEE5TWNpRG5XTnVBbl9FVFIteWIzbW5MTi140gGyAUFVX3lxTE1XVjhyS2tndWlldi10Rm1XNEFOQVBHQjNHUEtlc2FGWmRqU0VLa1dnLWhhVUJleTBqdEZPMkJlOWtmQlNTQkt4SDdwNXhibDNsZlRUVzctRDFOdW5YaU9EMHp5ZmlINGRMUVdrQmcxUmx1bEtCNWkzOU51Z010NFlQZ0hsSGttRXd0QW4ta1g2enF6ckdsdG9CRl9weEM3STFsX3JJcWc1MFZTOVhUWVVHZ2c?oc=5",
+            "source": "detikNews",
+            "time": "2026-08-24T04:34:33+00:00",
+            "title_zh": "學生在ISI Solo大廳跳莫辛舞爆紅，校方出面澄清",
+            "summary_zh": "印尼藝術學院（ISI Solo）的學生在校園大廳跳莫辛舞（moshing）的影片在網路上爆紅，引發廣泛關注與討論。校方隨後出面澄清此事，說明事件背景並處理相關影響。這類事件常在社群媒體上迅速傳播，反映了年輕一代的表達方式與校園文化現象，也考驗著校方在面對公共輿論時的危機處理能力。",
+            "impact_zh": "學生在校園內跳舞爆紅，這是一個典型的社群媒體「病毒式傳播」案例，顯示印尼年輕族群的流行文化。對於遊戲行銷人員，可藉此觀察當地青年的熱點與文化傾向，尋找潛在的行銷素材靈感，例如結合熱門舞蹈或學生次文化，製作具感染力的宣傳內容，吸引年輕玩家。",
+            "priority": "medium",
+            "important": false
+          },
+          {
+            "title": "Viral Warga Sukabumi Mengeluh 2 Tahun Terlantar Pascabanjir-Longsor",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdHdUJaTjVfdm5Oa2VVYUtJOEVUN3E5NmtrYnM4MC13b2cwd3Q1VFBOLXFVVzJWcjZIaWdaLU1BR0FvLXBYS3ZSa2dPeXd5eFFPSGJHMjZzMlo1YVJpY0hwdFZtUWl1SnFuTHZlOUhhd3k0d093NHJrWDhhMW9IMnR3QkljYW16dFVhWE5sdjZwdXRaSi11dGNrRHJORHJjbnhYbE9TLWNMY19qbjlqRDNCQnFJczFvbm82TUZVUUtzY2lkckdseWx4RdIB0AFBVV95cUxNcVhxenZYc1U3Rm81aWpKOVBzYmxIQzNac0taZ1pROHlCZ3NRNlpCeDE4Ui1SUjZoaWJRRFV4UDlWUklKbWJ6eXVLY1dPaXFveHczblpMOGZsZGU4VlZOVG45b3RWdG40RnlzdDBZbmd1RURydFA0OVVtb2Z0TnRJczU5VWVOdEFYZG1qUFE0OUQwQ2sySzVOY0wxQTduaDczZkk1NU0tbldvNHhZNDl3RlNaUW9TX1ZyR1JGRnVRVHhLbWl3cEhRN3BwNFgtUk5w?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-08-24T08:05:57+00:00",
+            "title_zh": "蘇甲巫眉居民抱怨洪災與山崩兩年後仍被忽視",
+            "summary_zh": "印尼蘇甲巫眉（Sukabumi）地區的居民抱怨，在兩年前遭遇洪災與山崩之後，他們的社區至今仍未獲得足夠的援助，處於被忽視的狀態。此新聞反映了地方災後重建的困境，以及民眾對政府支援不足的不滿。這凸顯了災區居民長期面臨的生活壓力與物資缺乏問題，也引發了對政府災難應變與重建效率的質疑。",
+            "impact_zh": "地方災區居民的困境，雖然直接影響其購買力與生活品質，但這是一個區域性的災情，對印尼整體手遊市場儲值行為的影響極小。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Mingse X Akbar Chalay Viral, Ellie Goulding Pakai Astaga Bercanda di TikTok",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamhGQU1jMXd2UXlyOWZDMHNVd09EUWdLbkFPSFJFZk9OZTRIbFpBR1FZeWthTktmSWF2THVEMW1Md2pWUHZ0Y1RWSkhqUTVMNl9wZkt2SzFTbUN4cThUdFFUWWxQcGRmLVM5SlFHV0hxMjRUVkRIc1BlM0tJZ0JQRkxLcUF3R0hjMFluU3h0SC12QXRSRzAzb3FwLTM2Y3ZkQ2dtRkFBQ1JabFV1SWNHWDB2U0Y4YWNjcUxfYlVTU03SAcYBQVVfeXFMT25mbF93dFRsZklmdzJVbDNmUzJzejRtaXFKTDNQZlgyS0J0aTBkUTQyZ0JJcldRbWdmZWEzaEI2UHJfSXh2OHBNRVg2S0NKTnI3bkRBVm5hUGdWb2hTRlppWmVOSDJvYTNHdV9uTjZBVUo3M01kRk1weXpiR185Y3RaV0pyRTkwbEk2bk5veElITktvYmRMbTYtOFNoT29GaWZLVDIyT1h5WUNEeDVOczZvVWJTeHpUNnI3ZVAxbkRkREVQa0Zn?oc=5",
+            "source": "KapanLagi.com",
+            "time": "2026-08-24T03:09:00+00:00",
+            "title_zh": "Mingse X Akbar Chalay爆紅，Ellie Goulding在TikTok上使用「Astaga Bercanda」",
+            "summary_zh": "印尼網路創作者Mingse X Akbar Chalay的內容在社群媒體上爆紅，甚至吸引了國際知名歌手Ellie Goulding在其TikTok影片中使用相關音訊或用語，特別是「Astaga Bercanda」（天啊，開玩笑的）。此事件突顯了TikTok作為全球流行文化發源地的巨大影響力，以及印尼本地內容如何能夠跨越國界，成為國際明星關注的焦點。這也反映了TikTok上「病毒式傳播」的潛力。",
+            "impact_zh": "此新聞直接點出「TikTok趨勢」與「本土文化」結合的爆紅案例，甚至引起國際名人效應。這對遊戲行銷來說是極佳的素材靈感來源，可借鑒這種內容形式或用語，設計具有印尼在地特色且能引起共鳴的TikTok短影片，提升行銷素材的病毒式傳播潛力，吸引更多玩家。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Lagu Mingse X Akbar Chalay Viral, Dipakai Ellie Goulding di TikTok",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS1IzRUZFUUpnUkZnbW1TUDZrVUtDUngwOGlPSF8yLW9ZNlF3YWhOU3plVExTQ0RDSXluRFVSam1ZSngwZE5ON1BWQjNzbWJyTHZBcHhIclNUdkpjNGhpSEhtUzQxbHFDa2pNRTVzdDRKRE0tdGpPeTk2Q3V4U0t4V2FfM0dJTmE3aVNjS2JtTGFHWVBaNGpiQ1U0cFgxT3g1cTF2OUdVRzZrbkNSVno0ZG9TcE5uRlZ0NFktWHU4SlbSAb8BQVVfeXFMUHRSejZQY2Y4MHNTZ2JzVTZNcG4wb21vTmk4c3MzMHFGY3dIRy1MRGJDNnB4OGd2c185Xy1zeHhNSTdyQVJESmZIaWtxTUZ1X0t1dDRFODR6b3g5QTEta1JLaFFCcUxrS2tCcDlObWhGamJpdUNEQnJjQUt2d0UzT0hoR21EcWI5ZEgzczFhUUR4bnU3VlUweTdMMFFYZFJUeE9BNG1NcllnME0wY3JGUnRUc3NGN29QcEtQc0wzU2s?oc=5",
+            "source": "celebrity.okezone.com",
+            "time": "2026-08-23T16:03:45+00:00",
+            "title_zh": "Mingse X Akbar Chalay歌曲爆紅，Ellie Goulding在TikTok上使用",
+            "summary_zh": "印尼網路創作者Mingse X Akbar Chalay的歌曲或音訊在社群媒體上迅速爆紅，甚至被國際歌手Ellie Goulding用於她的TikTok影片中。這顯示了印尼本土創作內容在TikTok平台上的巨大影響力與國際傳播潛力。此現象反映了社群媒體如何打破地域界限，使流行文化迅速擴散，也為創作者帶來了意想不到的曝光機會和文化交流。這是一個典型TikTok趨勢。",
+            "impact_zh": "重複新聞。此新聞再次強調印尼本土內容透過TikTok爆紅，並獲得國際名人使用。這直接提供了「TikTok趨勢」和「本土文化」結合的靈感。PM應積極研究這些爆紅內容的特點，嘗試將其融入遊戲宣傳素材中，特別是針對目標玩家群體，提升行銷的在地化與病毒式傳播效果。",
+            "priority": "high",
+            "important": true
+          },
+          {
+            "title": "Viral Sukhoi Tergelincir, Warga Lihat Kepulan Asap di Belakang Pesawat",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnoxOGxmaUlpWVJpOWRHR2tfZ2xNZlFNTVBCQmFieExRR3ZrS1pseGVXMnRnYzFaWFFLcldyQ3BKT2pTZHBFWXFwTmp1OGhGWHpONHdtR2dQSjFBcDY1YUFKMFQwQllWY3JXTWFXSkU5X1hodVFGYTdkN0FTRl8tQm13dXJsdE0zal9vZC10STczQUtYa1FMMEM1TVQwNENtUmZVTno2YnRFNzVwb0pPaGxFTldKaFFhNFpFcDRseXF1ekUzSnJ6ZTVGeTR1QdIB0wFBVV95cUxPOGZlTTdMWW55bkRSaFBmb3N6bEJEOHRsVXA4cTAtVjRRVlNYV2NQMy1uUDdhUlRSWktjT1FhdFpqaGRVZXRCckN5MGhwUnpaNjVIdnFyeXl6YnM0YzhKNGhKZGRNX2IxRFl1YTY1b1dwU2VuakJqUF9oOUExNV95MWw0LTJpMzV5NHJqb012VEFhaFZBNWVyQk93WUluQW9UenZUbXEzb2QzWFJpZzR5cFNHb29TdDVtLWcybmVjU2c2d05uWDRrd0tvbU5aei04azdj?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-08-24T08:47:13+00:00",
+            "title_zh": "蘇愷戰機滑出跑道爆紅，民眾看見飛機後方冒煙",
+            "summary_zh": "一架蘇愷（Sukhoi）戰機在機場滑出跑道後冒出濃煙的影片在網路上爆紅，引發公眾廣泛關注。目擊者聲稱看到飛機後方有明顯煙霧。此事件引起了人們對飛機安全和事故原因的討論。軍方或相關單位通常會對此類事件進行調查，以確定事故原因並防止類似情況再次發生，確保飛行安全。這起事件可能對航空業產生一定影響。",
+            "impact_zh": "此新聞關於軍機事故在社群媒體上爆紅，屬於突發事件與公共安全範疇，與手遊玩家儲值習慣、金流通道或博弈法規等核心業務關注點無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Harga & Spesifikasi Vespa Lawas Dahnil Anzar yang Viral Diduga Bodong",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTElBM0wxUFI3cmJzMmR4azZueUd2ZWszcllFaXJUUXI3c0pOMG1Bc3NWeUV4aUdrSTMycUtpaWlWTzU5ZmcxUjJMMk5IVi1uVzJkRVcxV1JFM0pPLWg2ZG1wRlkwa0xSaHN2Z2J1RXNTbHRUNEFCdDZDdUdhSUh2aTRGcnhGYXpzNVhzVmhkTXcwblVyWG5DaVBwa2R4ODBnUzVydUlPWEF1eWdGNll4TThXS3UzaHU1M1dKUmVFSTVTZS1ZN1J1TkJhQmPSAdIBQVVfeXFMUGhkYkRvcmJkdkhJMVgxb3FKWXBTa0M3cm9qWWoyTERidVptZC05QzJMYnUyZHkyZGlLZFFkTXFEaEs4b1hRaEtvcXFSb1hidWx4ODlpc2RWd2tKQ3o3ZTE3a2FmeXIwaFNQV09TYVB0NHlVNkxJWmQ2bEhMVUFSVDVmcVIwZWtRc2JEcTFzWHQwUnBudXk0SUZCZmZTWWNrdlBEaEh0RnJ0OWtYV3NMQnBzbUpPQmZiYWYwQ0p2SnJUUHBFNDF6MlE0R3ExT3ltSUp3?oc=5",
+            "source": "CNN Indonesia",
+            "time": "2026-08-24T03:58:32+00:00",
+            "title_zh": "Dahnil Anzar老式偉士牌機車爆紅，疑為非法文件車輛的價格與規格",
+            "summary_zh": "Dahnil Anzar擁有的一輛老式偉士牌（Vespa）機車在網路上爆紅，但隨後卻傳出這輛車的合法性問題，被質疑可能是非法文件（bodong）的車輛。新聞報導了這輛機車的價格與規格，同時也引起了對非法車輛交易和文件造假問題的關注。這起事件凸顯了社群媒體對公眾人物財產的審視，以及印尼國內對車輛合法性的重視。",
+            "impact_zh": "此新聞關於名人財產的爭議在網路上爆紅，話題核心是車輛合法性。雖然涉及「爆紅」，但內容與遊戲玩家的行為、金流或法規監管無關。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          }
+        ],
+        "重大事件": [
+          {
+            "title": "BMKG Catat 4.258 Gempa Susulan Pasca-Gempa Utama Flores, Berpotensi Berlangsung Hingga 4 Minggu",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHlIbENodUp1WWEtZEQ2YVVPWUpxbWpubHQwZWZ4Z1pCWUpJMVoxY25STkdycGd2VGRhM3NneU9RQ2pVdGthdDFXd1g2OVVOUTVJaHIyYlc5ZGU2cFc2dV9YOUhwMnZyWFFvejQ4SUFrWDFlUGFyN0t5dmFQci1IUUt0V20wN2RlUGVueTVZVlVxNjZXd3JZX2cwSkRyNGM5ejBiZVBXVmtMQ3duYXdxRXhETUJOQ3k1aE0xLXliamJqMk14Zy1LUw?oc=5",
+            "source": "BMKG",
+            "time": "2026-08-24T00:00:05+00:00",
+            "title_zh": "BMKG紀錄弗洛勒斯主震後4258次餘震，可能持續長達4週",
+            "summary_zh": "印尼氣象、氣候與地球物理局（BMKG）報告指出，弗洛勒斯（Flores）地區在主震發生後，已紀錄到4258次餘震，並預計餘震活動可能持續長達四周。這項數據顯示了當地地震活動的頻繁與不穩定性。BMKG持續監測地震情況，並向民眾發布警報，提醒居民保持警惕，注意防範潛在的風險，以保障生命財產安全。頻繁餘震對當地居民生活造成重大影響。",
+            "impact_zh": "弗洛勒斯地區持續的地震與頻繁餘震，將對當地居民的生活與經濟活動造成嚴重衝擊。儘管這是一個區域性災難，但對於該地區的玩家而言，儲值意願和能力將大幅下降。在災區，應避免進行任何促銷活動，轉而關注災情發展，並考慮人道關懷的企業形象建立。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Kemenkes Terjunkan 209 Relawan TCK, Pulihkan Layanan Kesehatan Korban Gempa NTT",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnFDMEtOVTJfVlBaRXI3OERCOEN1Tk5yOGtzNUp0TG8yN0swLU0xVlJrSkZzdks5dFdQTmFWTUpQY29fbmpXWVgwWmVuSjQ1Z3Zxd2xiWkpmWWU4eGo3dGkydWFtYU5DcGJGbHJRSjN6aTZValEtS0ZDdzJJc0RBLThmUUhIeGpXeVNzVUhZTzl2R3c1cGIyc25nRnluczRkNFprQ09ZYkh1UQ?oc=5",
+            "source": "Kemenkes",
+            "time": "2026-08-24T15:04:16+00:00",
+            "title_zh": "衛生部派遣209名TCK志願者，恢復東努沙登加拉省（NTT）地震受害者的醫療服務",
+            "summary_zh": "印尼衛生部已派遣209名「健康危機應變小組」（TCK）志願者前往東努沙登加拉省（NTT），協助恢復當地受地震影響的醫療服務。這些志願者將提供緊急醫療救援、心理支援以及公共衛生服務，以確保災民能夠獲得必要的健康照護。此舉旨在應對災區的醫療需求，減輕當地醫療系統的壓力，並加速災區居民的健康恢復。這顯示政府對災區的支援。",
+            "impact_zh": "此新聞關於衛生部對地震災區的醫療援助，屬於人道救援範疇。與遊戲營運無直接關聯，但類似的大型災情會影響當地民眾的經濟狀況和儲值意願。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Gempa Bumi Bermagnitudo 5,6 Guncang Maluku Tengah",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUlueDJZbXlJX2VlOVBQQ2dMZUFxTUpJYVl5YzlZakFDUGwtMVdnc1VFTzFKRl9OdFBDX0EwYzJzbm1SUmZHanQyY2NyVjdsNlFid29lMUxXN2RrV2YtUVYtOXJXYVUyazFhbDMyQjBRenNOZjNCV3RCUWRkX29FVU9aTkpKQm4wSEpCTlR5UFYtMkxYQk91c0VhUE83ampZUXNSdkRPZE1SM1RHd0E?oc=5",
+            "source": "Tribrata News",
+            "time": "2026-08-24T12:00:00+00:00",
+            "title_zh": "馬魯古中部發生規模5.6地震",
+            "summary_zh": "印尼馬魯古中部地區發生了規模5.6的地震。此次地震對當地居民和基礎設施可能造成一定影響，但通常此類中等規模地震若無特殊地質條件，不會引發大規模破壞。相關部門正在評估潛在的損害並監測後續情況，提醒民眾保持警惕。地震頻繁是印尼的自然現象，政府與民眾通常對此有一定程度的應對準備。",
+            "impact_zh": "印尼頻繁的地震活動是地理常態，中等規模地震若非重大災情，對全國手遊市場的影響通常不大。應關注是否有引發大規模災難性後果，否則對玩家儲值行為的影響有限。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Gempa Susulan di NTT Tembus 6.407 Kejadian",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VobjFkWmNCNlh3TmpSQjVoUFdOTW9VVzBwdHVBNzZlMnJhYXdWbkhQckJwYzJFWjNhMFZ5Y1laTk9CMnZVR21JMmVoQ0U1d3ZmSS1HWWd0dDJ4UnVqR0l2ZTFwZlZSZFhFNXkwOTlIc09MVldZZmRRTmVIcmxWRUc3NWtxRDEwVVHSAY8BQVVfeXFMTXhfNnBHSldZZURoZktEd2cxejNFYlZuME1OQnhCa0VYekI2NjFQZ2k0eXhYY0V3aFZYc0N0TUs2d1ZuRWlJQmlSWDQwR1pFQVJlZnd6RTkyYzF2WDhfUFlFX2xzSzZqSE1ydS1rNHpkRl9abkxfc2JRSUVEcDNCRGtray1ReU5ubFM1QTUwT0U?oc=5",
+            "source": "detikNews",
+            "time": "2026-08-24T02:12:16+00:00",
+            "title_zh": "東努沙登加拉省（NTT）餘震次數突破6407次",
+            "summary_zh": "印尼東努沙登加拉省（NTT）的餘震次數已飆升至6407次，顯示該地區地震活動持續高度頻繁。這項驚人的數據凸顯了災區面臨的嚴峻挑戰，餘震不斷對當地居民的生命財產安全構成持續威脅，並嚴重阻礙了災後重建工作。相關單位正密切監測，並提供最新資訊，呼籲民眾持續保持高度警惕。",
+            "impact_zh": "NTT地區高頻率的餘震對當地居民的生活和經濟造成巨大衝擊。對於該區域的玩家，其儲值意願和能力會因災情而大幅降低。在這種情況下，應避免在災區進行任何行銷活動，並考慮對當地受災玩家表達關懷或暫停宣傳。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Kemenko PMK Perkuat Sinergi Penanganan Gempa di Nusa Tenggara Timur",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTngzQUNKTVlYZXVnbVpVdTVONVBrZVMzaGhGWFRQMlRQekRqWENLNWpPVnZYMTVLYXhfdENiVzJGVHQ5QWkwaXAtRmE2YmloQVZvb0JiTnlpSFJHaVJxOVlJX2FEUEkyc0JLTG5MMGlWdkZiLV8zOHNsRHl5OGJCX3hCS3VlMTE5UEtIWlQ5OXlsTERONWJjMV92Zkc?oc=5",
+            "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+            "time": "2026-08-24T06:32:14+00:00",
+            "title_zh": "人類發展與文化統籌部強化東努沙登加拉省（NTT）地震應對協同作用",
+            "summary_zh": "印尼人類發展與文化統籌部（Kemenko PMK）正在強化與相關部門的協同作用，以更好地應對東努沙登加拉省（NTT）的地震災害。此舉旨在整合各方資源，提高災害應變效率，確保災民能獲得及時有效的援助。透過跨部門合作，政府期望能加速災區的救援與重建工作，最大限度地減少地震造成的損失，並提升防災減災能力。",
+            "impact_zh": "此新聞關於政府跨部門協調應對地震災害，屬於災難管理範疇。雖然涉及政府資源投入，但與手遊玩家的儲值習慣或金流通道無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Normalisasi Saluran Air di Sukamulya, Antisipasi Banjir Saat Musim Hujan",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnhWNl9LUzdpRFlZNXhKVndRTnR1TmNzZEs3amFYNE03eUM5U2xyV2ZvQ2VyZFdMYl9HR1lRWkNJdHpnblVUUnl6cWdmQjd3R1VoM1dVRWNXUFp4bGgySXZacFBtWE9kR3RMeC1xY3dWekxHc3VSTWRTbWpXWl9GOU1heThSZTZLbE53OVZYWTdlSEYwa29HbzFZclBUQmQt?oc=5",
+            "source": "bekasikab",
+            "time": "2026-08-24T17:57:04+00:00",
+            "title_zh": "蘇卡穆利亞水渠正常化，預防雨季洪水",
+            "summary_zh": "勿加泗縣蘇卡穆利亞（Sukamulya）地區正在進行水渠正常化工程，旨在預防在雨季期間可能發生的洪水。此項工程包括清理和拓寬水渠，確保排水系統暢通，以保護當地居民的生命財產安全。地方政府積極應對季節性災害，透過基礎設施改善來提升社區的防洪能力，為居民提供更安全的居住環境。",
+            "impact_zh": "此新聞聚焦於地方性防洪工程，旨在改善民生。與遊戲玩家儲值習慣、金流或法規監管等核心業務關注點無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Pemkot Bima Ajak Warga Galang Bantuan Untuk Korban Gempa NTT",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTZEcE9kWXh0clBqcDhvZmt6VDNrNTNkOFpCX1VCcG1pQ3Z2NW96VWlJXzV5MWQyaExqcEx0cTljT0xRTGVhOE5uc0kyYUV0d3dxRGF6M3NycDdkbjJ6eWtYa0hXUlV6elFWNjVUUk5BbTA1djJLRjJTNHNQVjZCbUstVm9NbzV5Vnpua3dLRWM1aDV3VmZpUF9OSUNXUmhsOGU4ZlFqblByLUM4cDFjQTJDQS02dEk2?oc=5",
+            "source": "Pemerintah Kota Bima",
+            "time": "2026-08-24T16:41:24+00:00",
+            "title_zh": "比馬市政府呼籲市民為東努沙登加拉省（NTT）地震受害者募捐",
+            "summary_zh": "比馬市政府向當地居民發出呼籲，邀請他們為東努沙登加拉省（NTT）的地震受害者捐款，以表達對災區的支援。此舉旨在動員社會力量，為受災地區籌集急需的物資和資金，幫助災民度過難關並展開重建工作。市政府的號召體現了社區團結與互助的精神，共同為災區提供溫暖與支持。",
+            "impact_zh": "此新聞關於地方政府為地震災區發起募捐活動，雖然涉及社會資源的動員，但與手遊玩家的儲值行為或金流管道無直接關聯。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          },
+          {
+            "title": "Lewat MASA, Muhammadiyah Mudahkan Masyarakat Bantu Korban Gempa Flores",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjVCbm9VSVNhR3Q3WDBYc2NEa0JuZVNlTWRlN1NmaWU5WlhmbGRJVWVHUWlwOEsxaUZoenNZNzd2djZaeVFSeW1faWhFRUY3Q0w2bWRRS2tGajNIbEpMbjFCLTFiZkloWTJLRXZLbnQyaG5IckZZNmxJRi1iZzZLR0MxazM0dlAxeUt1bkdsNHZFMExsMGZPUVl4c3pkcy0tY1hXaUJMbVo?oc=5",
+            "source": "Muhammadiyah",
+            "time": "2026-08-24T12:48:47+00:00",
+            "title_zh": "透過MASA，穆罕默迪亞（Muhammadiyah）讓民眾更容易幫助弗洛勒斯地震受害者",
+            "summary_zh": "印尼最大的伊斯蘭社會組織之一穆罕默迪亞（Muhammadiyah），透過其MASA平台，提供更便捷的管道讓民眾能夠捐款幫助弗洛勒斯（Flores）地震受害者。此舉旨在簡化捐款流程，鼓勵更多人參與人道救援，加速為災區提供支援。MASA平台的應用，體現了現代技術在災害應對和社會公益中的重要作用，提升了捐款效率和透明度。",
+            "impact_zh": "此新聞關於社會組織為地震災區提供更便捷的捐款管道，屬於人道救援範疇。與遊戲營運無直接關聯，但大型災情可能影響當地民眾的經濟狀況和儲值意願。相關性低，僅供背景參考。",
+            "priority": "low",
+            "important": false
+          }
+        ]
+      },
+      "rates": {
+        "USD_IDR": 17693.86,
+        "TWD_IDR": 556.44,
+        "JPY_IDR": 111.35,
+        "fetched_at": "2026-08-25T07:12:29.102316+08:00",
+        "USD_IDR_change": 0.06,
+        "TWD_IDR_change": 0.13,
+        "JPY_IDR_change": 0.04
+      }
+    },
     "2026-08-24": {
       "generated_at": "2026-08-24T07:07:58.681778+08:00",
       "categories": {
@@ -7445,696 +8090,6 @@
         "USD_IDR_change": -0.59,
         "TWD_IDR_change": -0.75,
         "JPY_IDR_change": -1.26
-      }
-    },
-    "2026-08-11": {
-      "generated_at": "2026-08-11T07:21:44.542280+08:00",
-      "categories": {
-        "經濟與匯率": [
-          {
-            "title": "Pemko Tanjungpinang Pastikan Pengendalian Inflasi Berbasis Data dan Kondisi Lapangan",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUFDMkxxcTNHSGVWWWt2MXJmOUxvQ2xrWlVXRlhmaFBxNjUzb21VYUpPNHhlTnc2cWozZlF0WFhqbHp1dVpzbkdmSTNwQklVM0ttVVZlOS1qZ1N1OC1XaWh5X1JyQmZKcktfY2xIZnNjbnZScFN0VDk2dGpwbnl4UFRpb3NQVjBLUk9rTTRjVnp0cWFnak1TRjNESkRfYUQ0MWhva1RWdGQwcjVRb1FubVhGSUptZE5lNjdaaW1WYmdGVDVHNlE?oc=5",
-            "source": "Pemerintah Kota Tanjungpinang",
-            "time": "2026-08-10T07:55:34+00:00",
-            "title_zh": "丹戎檳榔市政府強調基於數據和實地情況的通膨控制",
-            "summary_zh": "丹戎檳榔市政府正透過數據分析和實地考察，確保通膨控制措施的精準性與有效性。代理市長Hasan表示，這項策略旨在根據社區的實際需求和商品價格波動進行干預，以穩定民生物價，維護當地居民的購買力。此舉也涉及跨部門合作，監測市場供需，預防囤積，並確保重要物資供應充足。",
-            "impact_zh": "印尼各地政府對通膨的積極管理，雖為地方層級，但反映全國性穩定經濟的努力。這有助於維持玩家的購買力，對遊戲儲值意願產生正面影響，值得持續關注此類政策效果。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "GEBRAK Volume 2 Hadirkan Ragam Potensi Pariwisata dan Ekonomi Kreatif Daerah",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjVSWTVHU1AwVXgxcVNMN3U3eTJXSDI0YUdIZUM4NmRQN1hPanhZMFVNcS1NTURBeF9LN2xHYjdDTUp5TndOclp2R2NPMW1LZG5mdFdGX0JGeE92N3VpeDdrdTdJNE5jRXV4LUgyT19pVno4RVRlVHloeFJWVEd1bF9QWXBUQVk5X1huZ0lJWnktSjYxWWFVUGxnSXA3Q2Vjd1I0MmdtdDUyWU5hdUFvX2Racw?oc=5",
-            "source": "Jabarprov",
-            "time": "2026-08-10T12:38:14+00:00",
-            "title_zh": "「GEBRAK 第二卷」展現西爪哇地區多元觀光與創意經濟潛力",
-            "summary_zh": "西爪哇省政府舉辦的「GEBRAK 第二卷」活動，旨在推廣該地區豐富的旅遊資源和蓬勃發展的創意經濟。活動匯集了當地藝術家、手工業者和旅遊業者，展示了從傳統工藝到現代數位內容的多元產品與服務。此計畫期望透過文化產業的發展，吸引國內外遊客，並為當地社區創造更多就業機會和經濟收入，強化區域競爭力。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "BUKAN SEKADAR HADIRI HUT KODAM, PEMKAB PESISIR BARAT UNGKAP LANGKAH DORONG EKONOMI DAERAH",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTVVcXlicEpuN3BtNjNCU3FMakpIU1ByZ2t6WDNXcG56TXZnM2JYUzFLX2ltSVdpUURlZzFuQUVoY3lZM0gxeExtUEk1SHdDWFozMWlMNUUyM3hzVXB5c1VqM1pjSlU1N2xaR3dYS2ExSGV3d1hCTUlqZjdhelBGOURraFppTEtwWUtJbGotSy1NdUh3X1Q4NlRhc1Q5QnB3WXBMeDhQMGpQcGtkNEtjWlF1LVZVMFVLaHNpY1VNLXg4djhfdmc?oc=5",
-            "source": "Pemerintah Kabupaten Pesisir Barat",
-            "time": "2026-08-10T13:55:17+00:00",
-            "title_zh": "不僅出席軍區週年慶，西海岸縣政府更揭示推動地方經濟發展的措施",
-            "summary_zh": "西海岸縣政府不僅出席軍區週年慶典，更藉此機會強調其提振地方經濟的具體行動。縣長Agus Istiqlal表示，政府正透過支援中小企業、促進當地農漁產品銷售及改善基礎設施等方式，提升居民收入與購買力。這些策略旨在創造一個更具活力的經濟環境，吸引投資，並確保經濟成長的包容性與永續性，以應對各項挑戰。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Kunjungi Kota Malang, Konjen AS Tertarik Potensi Ekonomi Kreatif dan Media Arts",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTRmOHUxUm52OUpTdzVsZTVKaHRpVC1rVDJ5MG0xLS1aaHFaUGJGcjNXTUo4d0tvZndDVGd4czVpSS1ra0dHblhIc2UyMXBRYW5OY2xjQ3NCOVhLekJkYktDUGtFbzR2eTZCOGt2Wlh2Si1mcTBQMU5aZ0FCVzZuMHptTUFiZG44QWlKUlNBb29wek15YWxnUEp5aHBTenAxWmZ3VXl3bUkwZXNHblFiSEcycHlJUQ?oc=5",
-            "source": "Portal Kota Malang",
-            "time": "2026-08-10T09:50:36+00:00",
-            "title_zh": "美國駐泗水總領事訪問馬朗市，對當地創意經濟與媒體藝術潛力展現興趣",
-            "summary_zh": "美國駐泗水總領事Mark McGovern訪問馬朗市，對其蓬勃發展的創意經濟與媒體藝術潛力表達高度興趣。此次訪問旨在探索兩地在文化交流及商業合作方面的機會，特別是數位媒體、設計和藝術領域。McGovern總領事指出，馬朗的年輕人口和創新精神使其成為潛在的合作夥伴，有助於促進兩國的經濟與文化連結，並帶動地方產業發展。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Rupiah Menguat 4 Hari Beruntun, Dolar AS Turun ke Rp17.750",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXMyb3UxLWVNOVgwQjdINEt5cVUxdzlsWjhzQWR3NHNnWGRQWVQ5QlhFdUMyQ25CTmVmUDN6d2pPVktqNVppRnFYWUNaVzFsQlhtVkV1cGFQSDBVVi1XRFBGNnR4clQ2OVdVTkNpNVpwWUVZdmZRMDV2SGNBQ01Kd19KUjlub1MwclJXNm4xXzgya0tBa0xQMzNDcmRMcVdsZm10MEJzYmdfV2RQMmVVNWhscy0xVTJUWFHSAb8BQVVfeXFMUDR2NWJ6Y3RxMkY0bHhUOXlqalBjYllMdE5BU2k0WF9WWDI1RWNRY0d3d0lRbXk5X25GRzZabVBFSTAycDBNNFU1VUljSlBaZ3lNTWdnaDg2NjRNc1UxLUJCblJ0RWotTmR1VEtUUF84TkR2NHU2OGFQTUhGWGRUb3RDZ1F4VV9MTUtjcGZJUU1hQW5qUTZQMGtETWozNG1uLWxuT0VpTHo1TjlNLWNGNWkxOHQyVXEzQ1NjdXU2Q0U?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-08-10T08:06:00+00:00",
-            "title_zh": "印尼盾連續四天走強，美元匯率跌至 17,750 印尼盾",
-            "summary_zh": "印尼盾兌美元匯率連續第四個交易日走強，美元兌印尼盾已跌至 17,750 印尼盾。這一趨勢反映了市場對印尼經濟前景的樂觀情緒，可能是由於國際資本流入增加或商品價格上漲所致。印尼盾走強有助於降低進口成本，控制通膨，並可能提升國內消費者的購買力，為當地經濟注入更多信心。",
-            "impact_zh": "印尼盾走強對遊戲業務是利好消息，因為這表示玩家的印尼盾相對更有價值，等同於提高儲值購買力。PM應觀察匯率趨勢，評估是否影響玩家儲值意願，並考慮調整當地商品價格策略。",
-            "priority": "high",
-            "important": true
-          },
-          {
-            "title": "Kendalikan Inflasi Daerah, Pemkot Cilegon Terbitkan Surat Edaran Gerakan Tanam Cabai",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0EyR1ItT3BVUEVCRC15VVNGak5UUWhRM1E0d01tMHNTYWhiN2xoekVZRlBMRHMxazQ2QXBkejM4MVB0a2tVa1FJZlg2ZXJJaDF4dUlmM0tHT0Fna1pEZW5rNjQzYVZnR0dHNXJ5VDVmaDhuVGRRRnRzMnd2cjd4UlJSTEFsenhla3VwY05ObDNxWGI3N04yWWw1Nng3VzRLUUpKQlJ3bGc1M0J4akZyWFlZNHZvS3JTN2Q0dWN5Rjd4NXBZWXJJbU1wS3RzSmRKc2c?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T18:10:43+00:00",
-            "title_zh": "為控制地方通膨，芝勒貢市政府發布「種植辣椒運動」通函",
-            "summary_zh": "芝勒貢市政府為有效控制地方通膨，特別是應對辣椒價格的波動，發布了一項鼓勵居民在家中種植辣椒的通函。這項「種植辣椒運動」旨在增加當地辣椒供應，減少對外部市場的依賴，從而穩定物價。市政府希望透過此舉，不僅能緩解通膨壓力，也能提升社區自給自足的能力，為民生物價穩定做出貢獻。",
-            "impact_zh": "地方政府透過鼓勵民眾自種農產品來抗通膨，雖然看似基層，但反映了物價壓力對民眾購買力的影響。這可能間接影響玩家的非必要性消費，包括遊戲儲值，PM應留意當地通膨數據。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Rizali Hadi: Stabilitas Harga Jadi Fokus Pemkab Kutim Kendalikan Inflasi",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczQxSUZjbllTSDV4aFFvUU5JUGJ5SnZ1WkhPU05GczdFdUpwVzVrVnc0ZlpBVjQ5ZFFtUk9tdk14ZnlOVFUwc2pIdmVFNkNOVzJvaFNwdExjYnJFMjZ4VklYUTdWeVhkS2ZMMnZQS2tWUy1aZldYejR2ZUlOMW1xc2pjcUJ6aWpMSXQ1cFlUZUtPeUZNaVg0NnVBSnAzUkdUTHpKczdpRlNKVVVjTFo4dHJtcw?oc=5",
-            "source": "Pemerintah Kabupaten Kutai Timur",
-            "time": "2026-08-10T09:58:31+00:00",
-            "title_zh": "里薩利·哈迪：價格穩定成為東加里曼丹縣政府控制通膨的重點",
-            "summary_zh": "東加里曼丹縣政府將價格穩定作為控制通膨的核心工作，代理縣長Rizali Hadi強調了此一重點。政府正透過市場監控、確保基本物資供應充足以及協調生產與分銷鏈等多項措施，來維持物價穩定。此舉旨在保障當地居民的購買力，特別是針對基本生活必需品，以減輕通膨對社區經濟造成的壓力，促進地方經濟穩健發展。",
-            "impact_zh": "這則新聞與第1、6則類似，再次強調印尼地方政府對通膨的重視。宏觀經濟穩定對遊戲儲值意願至關重要，因其直接影響玩家的可支配收入。PM應將此視為持續觀察印尼整體經濟狀況的訊號。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Teknologi Bioflok Jadi Strategi Ekspedisi Patriot UNAIR Perkuat Ekonomi Masyarakat Prafi",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWVuVWpmeVMzS0NJT25rN1JXdGRKekJrSjBYNnZmcjZkLVZBaGNtYmpxLVpWQXU3Z0M2V3Y0cEl5X2UzdzVKMTBVbUtDcEJwRUkzWjM1aXN2Q3lKVTB5MFJyRHIzTGZBV1pITnpHX2NxOXlaNTAyMEN1cFozOWt6SlJzb2tmRHVsdi1qdjlzNUJPUGREMXJPU29yUTdJZFl1NHhhUjZYaWp0U3d2LVE?oc=5",
-            "source": "Universitas Airlangga Official Website",
-            "time": "2026-08-10T07:51:00+00:00",
-            "title_zh": "生物絮團技術成為 Airlangga 大學「愛國者探險」強化 Prafi 社區經濟的策略",
-            "summary_zh": "Airlangga 大學「愛國者探險」計畫正將生物絮團（Biofloc）技術引入 Prafi 社區，作為強化當地經濟的策略。該技術旨在提高漁業養殖效率，為社區提供永續的收入來源和食物保障。此計畫透過培訓和技術轉移，幫助當地居民掌握新的養殖方法，提升生產力，改善生計，並促進當地經濟的多元化發展。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ],
-        "宗教與節慶": [
-          {
-            "title": "Idul Fitri 1447 H : Robinsar Ajak Masyarakat Perkuat Nilai Kemenangan Spiritual",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzR0NUR5YjRDYkowMndPOE11NlFudC0tdHdHQXpaakE4b191X1hMR203dmgxUlczc0JXSzFQVi1uMkdWRS1nbHBvX2REbVl5a0xmel9OUW9SeHJzd1FoWHZIeUdremFkdjJFQ3J0aHM4WGJJZjRpa25YUkZvc2M4cnBoeWQ0QS1LRDhRTF9QMmFNVHBiWTJzXzNZeEk1dHNOTktnaG1KN2pMclpWZzZ2SUE3cEtKdkxBSHhBWGdMLWxqWDNkRzY4LWJtbw?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T17:07:52+00:00",
-            "title_zh": "伊斯蘭曆 1447 年開齋節：Robinsar 呼籲民眾強化精神勝利的價值",
-            "summary_zh": "芝勒貢市地方議會議長Robinsar在伊斯蘭曆 1447 年開齋節（Idul Fitri）之際，呼籲市民在慶祝勝利的同時，應深化對精神價值的理解與實踐。他強調開齋節不僅是歡慶，更是反思、寬恕與感恩的時刻。這項呼籲旨在鼓勵社區成員在節日期間，注重內在修養與人際關係的和諧，以期達到更深層次的精神成長與社會凝聚力。",
-            "impact_zh": "開齋節是印尼最重要的節慶之一，對玩家的DAU和儲值週期有顯著影響。雖然新聞內容主要為精神層面，但它提醒PM節慶期間玩家行為模式的變化，例如節前儲值高峰和節後消費回落。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Harga Bapokting Pasca Lebaran di Cilegon Stabil, Disperindag Pastikan Stok Aman",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUlzYURNU1drdVR1RE1kVDlySmtkRjRCeTU0cnlCemNKdUkxQ25OcGJ1YkViR3NjYnFwc1Z4cTM5aVpGTV9vQnNTRU56TzVILWZ5dk1jbU5Ib1lrdjNYRmFRNlQwOE8wVWUwbWlmdjByaVlNV2laSUxYX3BHNHJDWFhrSzBrLXQtMEpCTzVNbGdDUnVBMExZUVZzYWFMSndodkhHVEtMYjFpVWttLUZmblp4bjhXNktvaFZfOXVQamcxQkxHbVNuUFdXQQ?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T18:11:35+00:00",
-            "title_zh": "芝勒貢市開齋節後基本必需品價格穩定，貿易工業局確保庫存充足",
-            "summary_zh": "芝勒貢市貿易工業局報告指出，開齋節後當地基本必需品價格保持穩定，且庫存充足。局長Muhammad Cipto Mangunkusumo表示，這得益於政府在節慶期間的嚴密監控和供應鏈管理，有效避免了價格哄抬和物資短缺。此舉確保了市場秩序，穩定民眾購買力，並為節後消費市場的平穩過渡提供了保障，避免對居民生活造成額外壓力。",
-            "impact_zh": "開齋節後物價穩定是好消息，代表節慶消費後民眾可支配所得不會被物價過度侵蝕。這有助於維持玩家的購買力，對遊戲儲值意願產生正面影響。PM應持續關注節後宏觀經濟走勢。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Panduan Lengkap Menghadapi Arus Balik Lebaran 2026",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdm1FMVY4TXBqTnJSMGctYmFSd0JzZTd6T19kUVctSWJjcjNYLVV1Q3hCX3p6RmRoUmhETWM5UE16YmFlVjNaY3hGSDd6Uzc2cVYxNnZJTzZtOU82c1VhOEt2NkNNZW5IQmpQLXpraXlTeExSVTBJWGd1NTF2SDhLM0lKblV4WTMtaW1mXzhSQkdIWVZxUHptc1pfOV9wUQ?oc=5",
-            "source": "Universitas Sains dan Teknologi Komputer",
-            "time": "2026-08-10T03:44:44+00:00",
-            "title_zh": "應對 2026 年開齋節返鄉潮的完整指南",
-            "summary_zh": "這份完整指南旨在為民眾提供應對 2026 年開齋節（Lebaran）返鄉潮的實用建議。內容涵蓋了交通規劃、安全注意事項、健康預防措施以及避免塞車高峰的策略。指南提醒民眾提前預訂票務、檢查車輛狀況，並在旅途中保持警惕，以確保返鄉過程的順暢與安全。這反映了印尼政府和相關機構對節日期間交通管理的高度重視。",
-            "impact_zh": "雖然內容為交通指南，但它明確指出2026年開齋節的返鄉潮，再次提醒PM這是一個重要的時間點。假期期間玩家的DAU和儲值習慣會受影響（例如返鄉途中可能DAU下降，但抵達後有更多閒暇時間），需要提前規劃營運活動。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Maulid Nabi Jatuh pada 25 Agustus 2026, Libur atau Tidak?",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkY2T1lHZk1IcE0zS3lNUnBMUEVQeDFqcThNQWpUV0pfUFRldFRnOXRzQnNrb2ktMjJEcDBqZHZvcmc3blJaUmZ6TEVrNzRqdnExWDNNWHBZcmxPcnB0U1N0MXQyRXlmUGZTaExZa1Z3UFUwcy1TQVBRSWtCMkNhOFpURXBDMW5TSFU2cF9uR0VNWWhZQ0NfX2cyNC1sTzF4bTF4YUF3?oc=5",
-            "source": "detikcom",
-            "time": "2026-08-10T07:00:02+00:00",
-            "title_zh": "先知穆罕默德誕辰日落在 2026 年 8 月 25 日，是否放假？",
-            "summary_zh": "報導指出 2026 年的先知穆罕默德誕辰日（Maulid Nabi）落在 8 月 25 日。該文章探討了這一天是否會被政府列為公共假期，因為這對民眾的節日安排和日常活動有重要影響。通常，此類宗教節日是印尼的國定假日之一，預計當局會發布正式公告，確認其是否為帶薪假期，以便民眾提前規劃。",
-            "impact_zh": "先知穆罕默德誕辰日通常是印尼的國定假日。PM應將此列入 2026 年的節慶行事曆，考慮是否為長週末，這將影響遊戲的DAU和儲值週期，可能需要為此規劃特定的活動或優惠。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Pemerintah Tetapkan Dua Libur Nasional pada Agustus 2026",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTBjdWhhZ01PSzA5WEE0cTFZODFBYlN6RDRYTVdyTkpqRzhkV2lBT29Fa1ZBRXJnOC13cUI5ZlB1OTZLX2syczZpY1hEUzZ1bFFuTTNGcFJqWVc2aUdUWlRZWkQwdFVZS0hTM1Q0NzZobnZaOGh1aWFtbkR5NDRkOWZwT29ZZzlUSlJLOQ?oc=5",
-            "source": "achmadnurhidayat.id",
-            "time": "2026-08-09T23:36:00+00:00",
-            "title_zh": "政府確認 2026 年 8 月有兩個國定假日",
-            "summary_zh": "印尼政府已宣布 2026 年 8 月將有兩個國定假日。這項決定對全國民眾的假期規劃具有重要意義，通常包含像獨立日和宗教節慶等。詳細的日期和是否包含共同休假（cuti bersama）將影響長週末的形成。這類節假日公告旨在為民眾提供明確的休假資訊，以便他們能提前規劃家庭活動、旅行或個人事務。",
-            "impact_zh": "政府正式確認 2026 年 8 月有兩個國定假日。PM應密切關注官方公告的具體日期和是否包含彈性休假，以預測長週末效應，規劃相對應的遊戲內活動與促銷，把握玩家閒暇時間增加的機會。",
-            "priority": "high",
-            "important": true
-          },
-          {
-            "title": "Cherrypop 2026: 5 Tahun Lebaran Skena, Jeda, dan Cerita-cerita di Balik Panggung yang Ubah Jalan Hidup Banyak Orang",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDZPOU4tSFQ5bEZvUGcxbHFOM3NVRTM2WVNSU3VMWTFsMk9JNTRrbXY2azJ0dDlZbE0wT3pKZFVpTC00MVBhQnpVR3NKU3czNndLOU44ZFVncFNWN2RxQU5YdHV5akU1TldhWmIwUG5GaHdEd1JmTzBpd3ZIYkhqWTBGRkwxQdIBiwFBVV95cUxPX3U0OGRPbnFGQWNWamMtNVU0Rk9rWHBlbTl0cE83YVpFeERETFlxZlFNVjE1WTNDOGdqZXMtOUdySXpzVzlUY0c5STBXNlZFa2xUVnc3Vl9sakNPaVdiMGRQcWFEbEJjOU9GdTRpTHdYVWFuajlZeDBXT3lDRE44dk12VVJhUEVNb2JR?oc=5",
-            "source": "Mojok.co",
-            "time": "2026-08-10T10:32:56+00:00",
-            "title_zh": "Cherrypop 2026：開齋節情景、間歇以及改變許多人生活的幕後故事五週年",
-            "summary_zh": "Cherrypop 2026 慶祝其開齋節主題活動五週年，聚焦於節日期間的文化情景、生活步調的間歇，以及許多參與者幕後改變人生的故事。這篇文章可能回顧了該活動如何透過藝術、音樂或社區聚會，為開齋節增添不同面向的色彩，並對社會產生了深遠影響。它強調節日不僅是宗教慶典，更是文化交流與個人成長的平台。",
-            "impact_zh": "雖然這篇文章的主題是文化活動回顧，但它再次提及「Lebaran Skena」，強化開齋節作為印尼重要文化和社會事件的地位。這提醒PM需深入了解開齋節對印尼社會的多元影響，不僅是宗教層面，也包含休閒活動的變化，以設計更貼近當地文化的遊戲活動。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "HUT ke-81 RI 17 Agustus 2026 Libur Nasional Tanpa Cuti Bersama, Simak Long Weekend dan Agendanya - malang.disway.id",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEZTejNiVkZpVHVVSzlDZGUxQnNUdnBsVGRRMHlDN2gyQUJBcWk4NTdRRDhuYkxIOHZ0Yi1mV21Kc0xUS1lGM3A3YkRHak0yY0ttOVg0N1RjRURNNmprVnNHb0R0NGl1Z1kwRmFzZFZpQmo2R19neGdPSE9GNGhUU3QwdVdlUkdSNXhUVlF5Q1dVaVNCNUk5QlozS3ptVndjanlrc0xRWmc0d2tKQ3hzcWRmT1JFTng2ZXpyX0VFemRMZ3FOeFVkMXJONTI3cmJaczFhM1lmcUp5dUJhcVdfLURR0gHKAUFVX3lxTE1zdmNMZElKYWxESmcybno3emEwQTdBWnhsaUVWcDVsNjBmdDVLR0JhNV81Vk94WWR6Q3pmQmZ5RmkxOEU1Y3E2SDZJZnRiTW50WVZwYnVfVURfM0FySEFVczNhdC14WWJHZGdtQU0xbTh6Sy15OFI1a1MyNzFZOEQwd05KYmcyakloWTRMbzcxTUtmUS1DVS16VjEtSGhxc0d6czY1Unlpcnc3V2lmU0NQUFZqN0xCUE5XYnNrb3ROYXk2bW1uc05IOXc?oc=5",
-            "source": "Disway Malang",
-            "time": "2026-08-10T04:15:00+00:00",
-            "title_zh": "2026 年 8 月 17 日印尼獨立 81 週年為國定假日，無共同休假，了解其長週末與活動議程",
-            "summary_zh": "報導指出 2026 年 8 月 17 日是印尼獨立 81 週年紀念日，被定為國定假日，但無共同休假。儘管如此，這天仍是重要的慶典日，全國各地會舉行升旗典禮和各種愛國活動。文章也可能分析這天是否會形成長週末，以及相關的活動安排，為民眾提供假期的規劃參考，彰顯印尼人民的愛國熱情與文化凝聚力。",
-            "impact_zh": "確認 2026 年 8 月 17 日印尼獨立日為國定假日，但沒有共同休假，這意味著它可能不會形成長週末。PM在規劃當月活動時，應注意這一天雖然是假期，但可能不如長週末對DAU和儲值影響大，可以重點規劃一日限定活動。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Lonjakan Sampah Lebaran Jadi Momentum, DLH Cilegon Gencarkan Edukasi Pilah Sampah",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1JFY0dyakV1WHdCb1dhZmZHV3lRaUM5Zi1pUlptcU93dDFjQlFMRmpOeTJ6dXZvR29TaEl3WEZ1RUk5OWtNa0xlTWJlZGlWLVZMX2R3ZDhySTc4Z3NJaWJWems3UmM5em1McG1RbXhSeWt2cjlYOEFBUFN6UkJkcUVTOURsNjNfOXJsSXZZZVE3LWl3clE3d3JoQ1NKc3kta0RVRjJnZkU0QjFVaTJ3YzhjMFJ2SGJDSzNiSjlMS002bDhBdkhCN1plRjQ5UQ?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T17:36:45+00:00",
-            "title_zh": "開齋節垃圾量激增成為契機，芝勒貢市環境服務局加強垃圾分類教育",
-            "summary_zh": "開齋節期間芝勒貢市的垃圾量顯著增加，促使環境服務局（DLH）將此視為推動垃圾分類教育的契機。DLH利用節日過後民眾對環境議題的關注度，積極向社區推廣垃圾減量和分類的知識。此舉旨在提升居民環保意識，鼓勵永續生活方式，以期長期解決城市垃圾管理問題，共同為環境保護盡一份心力。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ],
-        "法規政策": [
-          {
-            "title": "Pemkot Cilegon dan OJK Banten Perkuat Sinergi Percepatan Akses Keuangan Daerah",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVlliU1BGamxRVHlGNUVzRzROWFBEdUVqQTZIdnhMRFA4Y1lvYzdIT1U3TXNCNmpUdmJiM21iOTNpemE2UWctTFh3Y0d4YUJ0dU02djZiZzNmUkF0NF9ZQnZwWm8tOEZDMndpLXFkbzhwQV9zLTlPY09OZ1U3U0djVTI0NGVucExmMTkzWUp4ZldMaFFQVE5oRE84S3JhUDduR0Nua0hTSEdPQk1sQ0Vvc3F2aDVCa3g1RnQwVGFIVWVjb3d3X19zM2Nn?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T18:27:41+00:00",
-            "title_zh": "芝勒貢市政府與萬丹省 OJK 加強合作，加速地方金融普及",
-            "summary_zh": "芝勒貢市政府與萬丹省金融服務管理局（OJK Banten）正深化合作，共同推動地方金融服務的普及。此合作旨在通過教育、技術支援和簡化流程，讓更多中小企業和社區居民能夠接觸到銀行、信貸等金融產品，提升金融素養。OJK與政府的協作，對於打擊非法金融活動、確保金融市場穩定，並促進地方經濟發展至關重要。",
-            "impact_zh": "OJK在地方層級加強金融普及與監管，是整體金融環境趨嚴的訊號。這可能意味著未來對所有金流（包括遊戲儲值）的審查將更加嚴格，PM應確保所有儲值通路符合OJK規定，並關注潛在的合規風險。",
-            "priority": "high",
-            "important": true
-          },
-          {
-            "title": "Siaran Pers: Penguatan Integritas Pasar Modal Jadi Prioritas Utama, 49 Tahun Diaktifkannya Kembali Pasar Modal Indonesia",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVGM2OWJwWnlkZFZtVEkwMnFFRUEwZEdpM3VJb0I2WnVNTUVxcEUyWjhRSUxZVEY1SkFsUjNTQ3FXa1hBM0JiUl9FTEVZbVpDdzhrTWhwZmpfLVYyUEx0WFVUMnZZaWIwS2JrV1licm9naGN4Y1BiR0VrdXlHdTZYVFkzUHZ1LXJJSXIydWpBWGRhM1FUZm05UkppVm90ajRxOFZwMERBYTFXZ2hWTDBkZ2tsT0lqeTFka2RqcjZkQ2h5YVpoQlhlZ2gwZTl5QUdhY0EtWkhtbndkdGs?oc=5",
-            "source": "ojk.go.id",
-            "time": "2026-08-10T09:16:30+00:00",
-            "title_zh": "新聞稿：印尼資本市場恢復活躍 49 週年，強化市場誠信為首要任務",
-            "summary_zh": "印尼金融服務管理局（OJK）發布新聞稿，強調在印尼資本市場恢復活躍 49 週年之際，強化市場誠信是其首要任務。OJK致力於維護公平、透明且高效的市場環境，以保護投資者利益，並吸引更多國內外投資。此舉旨在提升市場信心，預防舞弊行為，確保資本市場的永續發展，為印尼經濟提供穩固的金融支持。",
-            "impact_zh": "OJK對金融市場誠信的強調，儘管主要針對資本市場，但其監管精神也可能延伸至其他金融活動。這提醒PM應持續確保遊戲內的金流操作透明合法，符合OJK的規範，避免任何可能被視為不誠信或風險的行為。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Literasi Keuangan Remaja RI Cuma 56%, OJK Dorong Edukasi di Sekolah",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUEdlVVl5RzFRQVYtR29VNEloOHpNSWdkZHUwbW5zR3dxQTVGSjJRRDBMMldEMndHeUhnOFUyVXJTcVlGb0xwR2ZBWWRqS1AzVUl2WXBxSnRETl9aUy1JUFhxa2hsdllDQ0dmdHF5NXdHcVF3UWVKT0JkUmg5VThvQjAwdEw3VExfRTlVWXZBTkhKQzk4Yno1dEV6djhnSm5VUDdBZzEzeEhoMkRBcFRTM3JjSVB6UHA2VUo1YXR1a1VQTTExTVVV0gHMAUFVX3lxTFBYQmRmQjktS2ZnY3B0OFJ4OE9vV0ZiaFFrdzNYN3pQWHJ1R2JsV1hwSHV6MUUwbkN5Z0gyMFVmNHBGcy1tZVgxTlMyYlI0TWZ4NGdHU0U0SjlySmcwYzlROUMyN3cyZFNfNmV0RHV6QmViUDNIXzVnenB6T0FQQjRrc29VNUgwaThXWXdDN0U2LTBCU01wSVB3UXZmSW1KTlZ6V2VHbVhvbVJUTVVSV29Rb3E4MzJhQ3Q5MFdISzhRdVdzSXZucEVaYnhLSA?oc=5",
-            "source": "CNN Indonesia",
-            "time": "2026-08-10T21:45:39+00:00",
-            "title_zh": "印尼青少年金融素養僅 56%，OJK 推動學校教育",
-            "summary_zh": "印尼金融服務管理局（OJK）指出，印尼青少年的金融素養率僅為 56%，遠低於預期。為提升這一比例，OJK正積極推動將金融教育納入學校課程，從小培養學生的理財知識和技能。此舉旨在幫助年輕一代更好地理解儲蓄、投資、信貸等概念，預防金融詐騙，並為其未來財務決策打下堅實基礎。",
-            "impact_zh": "青少年金融素養偏低可能導致他們容易受到不當消費或詐騙的影響。對於遊戲PM而言，這意味著玩家可能對儲值、退款等金融操作的理解有限，需要更清晰的指引。同時，OJK加強金融教育，長遠來看有助於建立更健康的消費習慣，對玩家儲值行為會有潛移默化的影響。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "OJK Soal Minat BI-Danantara Pegang Saham BEI: Tunggu Aturan",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFZ6YlEzX2c0Y3VBN0ZtVlo5UkVyazRieEE3aEhRUGx2SzRtWXRMbXVIYmpxLVNGQWJaeWhrc1NmLV9LaW1Ud1FwVjk0UzRkdkJHUFk3bFJrVUlfQXhoWTE4U3ZJQ2lvUDY1anpJSHRwVkZjU1BZUVJrVjZWaWtDaXFFTWhZaWk5eXRWQVVTVVdEYkQtWjJiVXp2aWZwSzNxRlhzN3VmUVR5aWc5dVBJ?oc=5",
-            "source": "Bloomberg Technoz",
-            "time": "2026-08-10T22:40:00+00:00",
-            "title_zh": "OJK 針對印尼央行-Danantara 有意持有印尼證券交易所股份表示：需等待法規",
-            "summary_zh": "針對印尼央行（BI）和 Danantara 有意持有印尼證券交易所（BEI）股份一事，印尼金融服務管理局（OJK）表示需等待相關法規出台。此議題涉及金融機構對關鍵市場基礎設施的股權結構調整，可能對市場治理和監管框架產生影響。OJK強調，任何股權變動都必須符合現行和未來的法規要求，以確保市場的穩定性與公平性。",
-            "impact_zh": "這是關於印尼金融市場內部股權變動的特定議題。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "OJK Papua minta masyarakat terapkan prinsip \"2L\" cegah penipuan",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnRaOHpSU3BtalBqSzRQSWVRVHEtNjA2dnE1X3FQRmt2VWtuck9uSDZVXzBGM2Y2WmdrMGRnNVF5d3MxWkVMWVBiYjJUaHpWTEJWZ0diMy15clR2ZEtlUDFKaU9aM1dNRk13UG80bm1jR2pEWHZJZHA4NzBRRVE4UDBXV2FHT19qRm16OEpBajJHcTkwdzdOb1BLbXlvbHhHTEx4dUtCYw?oc=5",
-            "source": "ANTARA News Papua",
-            "time": "2026-08-10T08:57:18+00:00",
-            "title_zh": "巴布亞 OJK 呼籲民眾實踐「2L」原則防範詐騙",
-            "summary_zh": "巴布亞金融服務管理局（OJK Papua）呼籲當地民眾實踐「2L」原則——「合法性（Legal）」和「邏輯性（Logical）」，以防範各類金融詐騙。OJK強調，民眾在接觸任何金融產品或服務前，應核實其合法註冊與合理性，避免輕信不切實際的高回報承諾。此舉旨在提升公眾對詐騙的警惕，保護消費者財產安全，維護地區金融秩序。",
-            "impact_zh": "OJK在地方層級積極推廣防詐騙知識，直接關係到玩家對詐騙的警惕性。對於遊戲產業，這提醒PM需確保所有儲值和獲利機制清晰透明，避免任何被誤解為詐騙的行為，尤其是對高價值玩家的維繫，更要建立信任。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "OJK Buka Suara Soal Wakaf Saham di Istiqlal",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTcyOFpIWnJORGwyUVJwQXR6bEZzM2tqemhVaGFPYV9IWDhBakZrRURaQS1XeEsydVp3WTZkamhtaUFTYmRJRHpjSTJaWWJzSmEyc1FhU0t1STlTMkRNWE9NSEt6WV9vcTJueE5jTXdwVzNLLXM5cndTcVg3Q0VWenlNTVJDTDdjOXQ0WXo1QWFlTndRdjFiekswZ1FuLTFRUGxwMTdKY3jSAa4BQVVfeXFMTWw0RUZ0dk4yNnJicjNNdEZrNGkweUs4YXFIam9XSUhuU3FGXzV1Z0hwRXdULThqQ1BfQVZOUzAxaFpjaXJLcVJXOGhhV016SGJyT1BYTGctUjh4UmtGM25qRk9kM3VvZGJDbFp4aFZCa2VzMU9QTlA1V295T1ZWNWxlRFRYRmRKa1hweXVWMFc1N2RzNG5ZSEVjNHdlcEI2ZUhUOUo4aWxqbWNMbXdn?oc=5",
-            "source": "CNBC Indonesia",
-            "time": "2026-08-10T12:50:40+00:00",
-            "title_zh": "OJK 談及印尼伊斯蒂赫拉爾大清真寺的股票慈善捐贈（Wakaf Saham）",
-            "summary_zh": "印尼金融服務管理局（OJK）就伊斯蒂赫拉爾大清真寺（Istiqlal）推行的股票慈善捐贈（Wakaf Saham）發表看法。這項創新模式將股票收益用於慈善目的，旨在結合宗教捐贈與資本市場運作。OJK可能對其合規性、透明度和潛在風險進行評估，以確保此類金融產品在符合伊斯蘭教義的同時，也符合金融監管框架，推動社會公益。",
-            "impact_zh": "這是關於伊斯蘭金融與資本市場的特定結合，儘管涉及OJK，但與遊戲業務的直接關聯性較低。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Kenapa Akun WhatsApp Bisa Diblokir? Judi Online Biang Keroknya",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUxIZDZlRkRwZ3hJaUVsSTh2RldGNVBmLTNrR1ctSXVQcnFTWExtT1dBUWRGN2VYNHN1cXpMN0p3aEk4X09vOURIbXQ1alpKdnNTaGY1VldkZDZrUDc5dUNIQ2pLS1VZX3FwZUpXbkNON3VtUkVMTmIzSzg0c3FQUjMyZzc?oc=5",
-            "source": "Uzone.id",
-            "time": "2026-08-10T21:19:47+00:00",
-            "title_zh": "為何 WhatsApp 帳號會被封鎖？線上博弈是罪魁禍首",
-            "summary_zh": "文章解釋 WhatsApp 帳號被封鎖的原因，並明確指出線上博弈活動是主要元兇。WhatsApp 平台嚴格禁止利用其服務進行非法活動，包括推廣和參與線上賭博。一旦系統偵測到相關行為，帳號便會被暫停或永久封鎖。這反映了社群媒體平台對打擊非法線上博弈的決心，以維護其服務條款和用戶安全。",
-            "impact_zh": "這則新聞對遊戲PM具有極高重要性。線上博弈（judi online）在印尼是違法的，且政府和平台（如WhatsApp）正加強打擊。對於發行牌類撲克/賭場機台遊戲的PM，這直接提醒在推廣遊戲時，務必嚴格避免任何可能被誤認為線上博弈的內容和詞彙，並遵守當地法規，否則可能面臨平台封鎖或政府部門（KOMINFO）的進一步監管。",
-            "priority": "high",
-            "important": true
-          },
-          {
-            "title": "OJK Ungkap Kinerja Bursa Karbon dan Derivatif di Tengah Tekanan IHSG",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaS00OVlCdmxROEc3bnNaUUdpNEpXOGpudGVOc19GZkt0elpYYXpZbXEtQUNXYmpwaDFXQXNvODhVcUh4UHhYajVEem5HSURlY2lROHJ3NVJVY1haRElSYWg2eU1YMEduVXpOSnZyY3piYXhHS2VnTzJxcnNKM3FreWFINWRsY2tVVkw5bjZleGhXNFFILVRORV9ZYTJtUjNQVTRUc1RYa2lPWWZYMTlJUjhLTVQ0S25pYndn?oc=5",
-            "source": "Kompas.com",
-            "time": "2026-08-10T23:09:00+00:00",
-            "title_zh": "OJK 揭示在印尼綜合股價指數壓力下，碳交易所及衍生品表現",
-            "summary_zh": "印尼金融服務管理局（OJK）公布了碳交易所和衍生品市場在印尼綜合股價指數（IHSG）面臨壓力下的表現。儘管整體股市可能承壓，OJK強調這些新興市場板塊的韌性與潛力。報告可能分析了其交易量、參與者以及對永續金融的貢獻。OJK持續監管這些市場，以確保其透明度和穩定性，推動印尼經濟的綠色轉型。",
-            "impact_zh": "這是關於碳市場和衍生品表現的專業金融新聞，與遊戲業務的直接相關性較低。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ],
-        "行動支付": [
-          {
-            "title": "Kolaborasi Gubernur Gusnar dan Bupati Rum Hasilkan Dana Rp97 Miliar",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGRzVDNEU3p5OTNKNW9BU25PZ2xTV2wzSGJHT2k5ZElFaTZ3enJTb1VTV25EcVNnUjI3ZElabHRoWkF2ZURMdzJGRVBZZU96eUdkUWltRG9XQTdXa1BZcWxWZ2gzNDVvQzRtVGhRNHNZYy1hdjdkQlFPR0NWNEhRWFBJYjlpcHdPRVJaMERvSWNPRjJGa1dDY0ZReHNLR2JzR0tuYWduaUZNNGg1M0tuZFV4TGs?oc=5",
-            "source": "Pemerintah Provinsi Gorontalo",
-            "time": "2026-08-10T22:10:24+00:00",
-            "title_zh": "省長 Gusnar 與縣長 Rum 合作籌集 970 億印尼盾資金",
-            "summary_zh": "哥倫打洛省長Gusnar與Rum縣長透過合作，成功籌集了高達970億印尼盾的資金。這筆龐大資金將被用於推動地方發展項目，可能涵蓋基礎設施建設、教育、衛生或經濟刺激計畫。這項合作展現了跨行政層級協調資源的有效性，旨在提升地區居民的生活品質，刺激經濟增長，並實現地方發展目標。",
-            "impact_zh": "這裡的「Dana」指的是資金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Pemkot Cilegon Salurkan Dana Bergulir untuk Dukung Wirausaha Baru kepada 48 Pelaku Usaha/Mitra Binaan",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbjZTY1ktTmhSbWRzWXJjZFAtOFhncC1ueEVNdktRMXRkLWZWT2QtUWxtUDVIOGQ2ZjVJakYtamJBeWh2b3NxSmFkWl9zdFhsbktTTkxYWTllNHJMUGh3WXNOU2hyUmhOMDdMUU1abUFOUHJuaWY2a19ZUU9acWwyMVJBa3E1NnB2TEVpT01QdUUtaV9jWUhSa2UwMGl1ZV9DSjRtUTgtVFpGamhlVXVJWGNkcndiLVBJMFVqZmpOZDdreWRCTzZ5OTRLek5VdGtoNjdiTzNJNlg5aW9UZ3ZpSjhhQ0dDOGhj?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T17:13:29+00:00",
-            "title_zh": "芝勒貢市政府發放循環資金，支持 48 家新興企業/輔導合作夥伴創業",
-            "summary_zh": "芝勒貢市政府發放循環資金，旨在支持 48 家新興企業或其輔導合作夥伴。這項計畫提供低息或無息貸款，鼓勵當地民眾創業，創造就業機會，並刺激地方經濟發展。此舉體現了政府扶持中小微企業的決心，透過資金注入與培訓指導，幫助創業者克服初期挑戰，提升競爭力，進而推動區域經濟的多元化。",
-            "impact_zh": "這裡的「Dana」指的是資金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Intel kumpulkan dana $15 miliar lewat penjualan saham untuk dorong pertumbuhan AI, pilih dilusi daripada utang.",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0NQZ3NJeHUwVklJZUxFaVBRc2dLUFBPVG9wdTRIa3VFX0NCNXNWVXRfZUx6ajFablVaN24wNUVKZ3ZORllsMThRdmxPVk50OVlJcU00TTZsdXdPUmdCd2ExdTg0YU1XaEJCdHVmaWE5WlcwU1dJS2taSjhyelBWdlBMRGdmcVhOMmZ4LQ?oc=5",
-            "source": "Pluang",
-            "time": "2026-08-10T16:36:21+00:00",
-            "title_zh": "Intel 透過出售股份籌集 150 億美元資金，以推動 AI 成長，選擇稀釋股權而非債務",
-            "summary_zh": "Intel 透過出售股份成功籌集了 150 億美元資金，旨在加速其在人工智慧（AI）領域的發展。此舉顯示 Intel 選擇透過股權稀釋而非增加債務的方式獲取發展所需資金。這筆巨額投資將用於AI技術的研發、生產擴張和人才招募，以期在全球AI競爭中保持領先地位，推動技術創新和市場份額增長。",
-            "impact_zh": "這裡的「dana」指的是資金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Pastikan Pengelolaan Dana Tepat Sasaran, Kemenag Tanggamus Lakukan Monev BOS dan BOP di MTsS Al Makmur Banjarsari",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRktleW9jSmdOWTVrZzgtT3djbGZCeUV6M3JoYWNlZTR2Q045SWNjbWhSMnliODRTVDFXZHNGcFdyZHBXeTIxR2E0YWlDVjVBUjBLZjlpWk9qaE05d01QN0g2WGdTVTZLTG1Ud0xfTXFYamRIdUJ6VlZBdlpxdmRvb0I4Zzk0b2dfcjFiRWlRWnYzNEFuNWM3TWtjVS0tRG5mdXQ5ODNYOG1Hci1zSkFZYlBWUWNqVXJQRTVXeW5pQ0VLU3RmMGhPR2FvMWMzaWZHQzdsb0tQbjhzNmZXZXZLc1Z3MTJHMnpDVlp5b2FNVEk?oc=5",
-            "source": "Kementerian Agama",
-            "time": "2026-08-10T08:47:37+00:00",
-            "title_zh": "為確保資金運用得當，宗教部唐加姆斯分部監控 Al Makmur Banjarsari 伊斯蘭中學的 BOS 和 BOP 資金",
-            "summary_zh": "宗教部唐加姆斯分部對 Al Makmur Banjarsari 伊斯蘭中學的學校營運補助（BOS）和營運援助金（BOP）進行了監控與評估，以確保資金被精準有效地運用。此次Monev旨在提升教育經費的透明度和責任性，確保每筆支出都符合預算規劃並惠及學生。此舉是政府加強資金管理、防止濫用，並提高教育品質的持續努力的一部分。",
-            "impact_zh": "這裡的「Dana」指的是資金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Kelola Dana BOP, KPP Pratama Singaraja Gelar Sosialisasi",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUwycGFnUXhIajI5SVRHWkVmUFU4NHBQM1NLcFk1X3RPNWQ0M2dGa3U5ek5GRUdJLTV1Sks5TW5PTmdRZ3hrMjAwN280RFI5cFRWZUZPNmZGRllYanZScnJHUXlVX1pWcXpZaHFyeDdxUW5BbW9GVWdoQjRtYXRINnU4UjNVNlFaejRTcjJEMVMyMHVUUXA1bnlhb190QVhL?oc=5",
-            "source": "Direktorat Jenderal Pajak",
-            "time": "2026-08-10T06:57:06+00:00",
-            "title_zh": "管理 BOP 資金，辛加拉惹初級稅務局舉辦宣導活動",
-            "summary_zh": "辛加拉惹初級稅務局（KPP Pratama Singaraja）舉辦宣導活動，旨在指導民眾和機構如何正確管理營運援助金（BOP）等政府資金。活動內容涵蓋資金使用規範、稅務責任和報告要求，以確保資金運用的透明度和合規性。此舉是稅務機關提升公共資金管理效率、預防違規行為，並促進社區財務健康的持續努力。",
-            "impact_zh": "這裡的「Dana」指的是資金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Dana Tambahan Rp 18,9 Triliun untuk Daerah Cair, Apakah Cukup untuk Biayai Pembangunan?",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlFJaXozLWZFRlFyRUQ5d3JEaW1sQzk2SUYxN3EweVhzYXRlOFJ2dlVqakxTMU5BU3FrZUNES1FLYlBJTEY1eTA1TkV3UG04UHV3bzU0S09IMm9sNGNkM095bkpzVi1KX2EyUGhjdGlQYlQ0cXJEODh2c2JUc2owWnFJajNyMEN1aERDYzA4bVVOWUZyNFdFVjZQQ0V6V2tlcWpoRUd5UnZoc29EQVVPU3lWUQ?oc=5",
-            "source": "Kompas.id",
-            "time": "2026-08-10T15:05:55+00:00",
-            "title_zh": "額外 18.9 兆印尼盾地方資金撥付，是否足以支應建設開銷？",
-            "summary_zh": "印尼政府已撥付額外 18.9 兆印尼盾（約 12 億美元）資金給各地方政府，旨在支持地方發展和基礎設施建設。這筆巨額資金的到位，將有助於加速各地區的經濟成長和社會發展。然而，文章也提出疑問，這筆款項是否足以應對龐大的建設需求，以及如何確保資金有效使用和監督，以實現預期效益。",
-            "impact_zh": "這裡的「Dana」指的是資金，而非「DANA」電子錢包。但這筆地方發展資金有助於刺激地方經濟，間接提升居民購買力，長期對遊戲儲值可能有輕微正面影響。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Dr. Deni Setiawan Raih Pendanaan Dana Indonesia Raya 2026 melalui Skim Pendayagunaan Ruang Publik",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUFoMVFGa1hRbGlEOEJGaTZBRU1nQUxDNVZzek5yODZEUHh0Y2k1MnVhNmU2ZmRwbzM1Mk96RzRPVDdLc0hobDNNTDlBcEM3UEJ3Unc2aFhpRWo0N25HQ3RQVTVKdFNJZDVrbi16aEx4ZXBXRll6R1dDSXQ0WTNwcDI0aDdhUjVrbHRxRXpkdE1TTHZKb0did3gtaWE4bE8xckFwOVlVN25TMnU1dU0wMTVzX2QzWlBQY1lmb0dfbHh4ZjlDby1wT2ZKSWlqZDlzYkE?oc=5",
-            "source": "unnes.ac.id",
-            "time": "2026-08-10T06:56:55+00:00",
-            "title_zh": "Deni Setiawan 博士透過公共空間利用計畫獲得 2026 年「大印尼基金」資助",
-            "summary_zh": "Deni Setiawan 博士透過「公共空間利用計畫」獲得了 2026 年「大印尼基金」（Dana Indonesia Raya）的資助。這項資助將支持其研究或項目，旨在透過創新方式優化和利用公共空間，以促進社區發展和福祉。該基金的設立旨在鼓勵學術研究和社會創新，推動印尼在科學、技術和社會領域的進步。",
-            "impact_zh": "這裡的「Dana」指的是基金，而非「DANA」電子錢包。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "BAZNAS RI dan LPAI Perkuat Perlindungan Anak Keluarga Prasejahtera",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29HZGhyOFVZRzd6UjZRYVdEZHpxQkNobnpvYW5Qbm5lMXJEZl9lalpTLVp6RWV6ZFhQZG41WVB3Zm9xSXR1SWxfQmplVmV5a2ZLRkhfV0w2VFZMbHhlTTRRQkRRUUxFdWE1aE80ZU5FVlpiRXMwX3pDaWlnX3NnVXhuN3dfZC1jYzNMNmY4a0RhZkotNWRSRXVqRzctVWd1dXA5ag?oc=5",
-            "source": "BAZNAS",
-            "time": "2026-08-10T14:59:52+00:00",
-            "title_zh": "印尼國家天課局（BAZNAS）與印尼兒童保護機構（LPAI）強化弱勢家庭兒童保護",
-            "summary_zh": "印尼國家天課局（BAZNAS）與印尼兒童保護機構（LPAI）宣布加強合作，共同為弱勢家庭的兒童提供更全面的保護。這項合作將透過提供教育支援、健康服務和心理輔導等方式，確保貧困兒童的基本權利得到保障。此舉旨在應對兒童面臨的各種挑戰，如營養不良、失學或虐待，共同為孩子們創造一個更安全、更有利的成長環境。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ],
-        "電信網路": [
-          {
-            "title": "Telkomsel Spesial Kemerdekaan RI ke-81",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nbUdfQXBrdDdVcTJPQ2h1V0xGTEd0dXJfRU9pZm1pVjRaLXJpdkRySTR2OEdOOGpBVG9KT2phXy1lMnlPQ0FXU3ByTG5lYnNWcXd4Z0JZdHdXamdNN0NuX1FrcGJZN2gydTUybnFsY0tEeml0WW9RYU5B?oc=5",
-            "source": "Bank bjb",
-            "time": "2026-08-10T04:26:26+00:00",
-            "title_zh": "bjb 銀行與 Telkomsel 為印尼獨立 81 週年推出特別優惠",
-            "summary_zh": "bjb 銀行與印尼電信巨頭 Telkomsel 攜手合作，為慶祝印尼獨立 81 週年推出特別優惠活動。這項合作可能包括電信用戶專屬的銀行產品優惠、電信儲值折扣，或結合兩者服務的促銷方案。此舉旨在回饋客戶，同時慶祝國家重要節日，預計將吸引大量用戶參與，提升品牌形象與市場份額。",
-            "impact_zh": "Telkomsel 是印尼最大的電信商，其電信儲值（Pulsa）是遊戲內重要的支付管道之一。此類合作活動可能提高玩家使用Pulsa儲值的頻率，尤其是在節慶期間。PM應關注Telkomsel的促銷，考慮在遊戲內配合推廣Pulsa儲值優惠。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Kuota Internet Tak Lagi Hangus Pasca-Putusan MK, Ini Saran Pakar IPB University",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVliX3Ixd3BMZV9fR2VHRGtqVjYxaFN2bUItc0NMdkpmMnowbU1xdGFOdHh0Z0lCbTVFbUNKbHdYTWphSXMzbnFUTXFqOE9Rb05FenMzUEpyU000Z1Vqb25WSThKZDQ3VUxoNzlGN2V3NDBON1IzVkFSMVducE45bWdjc1gyZWVUaVdFazEyWS1jOWRZTWtCV2FvdWF6MUVHd3c?oc=5",
-            "source": "Prohealth.id",
-            "time": "2026-08-10T02:30:53+00:00",
-            "title_zh": "憲法法院裁決後網路流量不再失效，IPB 大學專家提供建議",
-            "summary_zh": "憲法法院裁決後，印尼的電信業者將不再允許網路流量（quota internet）在到期後自動失效。IPB 大學專家對此表示，這項裁決保護了消費者權益，但同時也建議用戶應更有效管理其網路使用。此舉預計將促使電信業者調整其服務模式，提供更具彈性的流量方案，而消費者則能更好地利用已購買的網路資源。",
-            "impact_zh": "網路流量不再失效，對玩家來說是利好消息，代表他們購買的電信服務價值提高，減少了浪費。這可能讓玩家更願意購買大流量套餐，確保遊戲體驗的穩定性，間接有利於遊戲DAU。對於依賴Pulsa儲值的玩家，也是生活成本降低的訊號。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "AI Jadi Skill Baru, 50.000 Talenta Indonesia Digembleng Indosat",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDkyU1UweGdjeUk2cjJtRmhsWnhUekgwV2h6SWhoQVZ4WnoxUEhId0dBUVUxVndVak9ZUW1kaG9vTDBKQ0t6UFgxT3pYRlVfT0dFQTVpTHkwdFlCUS1lNmN2QlNDb1oyb0hTNTBXcnlMa2JDT2dKd09KclBzMWFydEM2dFlhM2t6TlN0cW85Wm5kXzFQdWUxcWhaRGVzb1hHblpHck44UzRKanJud3N6d3FIZ9IBuAFBVV95cUxPT0tqSDhncTZ5d193WFRQc3NpMlBoVjlUTU5HakxkZFJWRHppbGhVbGNpZ0Q5ZE00ZVFNY09ScVFsUVZXZ3BWNjBTNVFWa04zT1QxRVpBUjIyVFJCS1I0MW5fMmVDNkZ2WE9WNlpjT0Y0TVpKMUpKekd4WHZ0ZXZ3TWJETW55OWE0cTNlbkJxWEN5SGQ5WDhqZFFtNjdabXhJbEl3NEtzVnliQ082OGRvTnh2MndsZ1NE?oc=5",
-            "source": "detikInet",
-            "time": "2026-08-10T13:01:32+00:00",
-            "title_zh": "AI 成為新技能，印尼 5 萬名人才接受 Indosat 培訓",
-            "summary_zh": "Indosat Ooredoo Hutchison 正在培訓 5 萬名印尼人才，使其掌握人工智慧（AI）相關技能，以應對數位化轉型的需求。這項大規模培訓計畫旨在提升印尼的AI技術能力，培養未來數位經濟所需的專業人才。透過課程和實踐，學員將學習機器學習、數據分析等，為印尼的科技創新和經濟增長注入新動力。",
-            "impact_zh": "Indosat 也是重要的電信商。其在 AI 領域的投資，雖與遊戲儲值無直接關聯，但顯示了印尼科技人才培育的趨勢。長期來看，數位素養的提升可能增加更多潛在玩家，且對遊戲產業的技術發展也有間接助益。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Tukarkan Telkomsel Poin Anda, Berikut Daftar Reward Tersedia Bagi Pelanggan Setia dan Ini Cara Ceknya - radarpalembang.disway.id",
-            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWEV3YkQtNGhoN3Yta1dEcUNMY2N3QWx1WmhRWmVmX2xnb09oWnVaRklWalVWOUVPajQzOEhsNGxrT2lvWGItY05MVkZYQXFZUnB0VVFIelNJYUU5VXYwOHdfUjMwbXhGS3pESTUtZEFUdV9YTm5xcmc5SXhJWHJpMThrem5FdEdWcUxOZHVtWGI4TTdSbG5RLTBKeHNnU0h6SHV6RHBKZjVRYTlFMzY2LVJVT1BKaDF5bVpBWkJmaW5kd3c3SllPSzBsVC16UktSOElJRzhxZmZqRHpma2FudlZRRkwzTFlqWGV4ZWhhVmFkNU9PVmfSAdwBQVVfeXFMTnEzLTJNcTRoY2tnYWlXQ2tsT0tOcG5sTWNQVlVlRmhfb1NkWjRmN3BBdVRZc1MzY1kzS29TMXlfWUJLODhnS292NHg2czNxdzUwZ0hkOWpGRHBwMHhhNWU0aGFJQXVSOU9sWU9SS05MbWV5eEx5cjhyRGhwemxVcjB6MU1Td1Flei1weUJoQjFhdmFQaFkxN0h4dlJWdjFfQUktYk1vYmZJczdZUE11UEc0dTQ2NTlQV2lNaHI3SWxkVTBFeENtVTJDd3lWbGxFMGpKR21kb2kwbUR0SA?oc=5",
-            "source": "Radar Palembang",
-            "time": "2026-08-10T13:06:00+00:00",
-            "title_zh": "兌換您的 Telkomsel 積分，忠實客戶可兌換的獎勵清單與查詢方式",
-            "summary_zh": "文章詳細介紹了 Telkomsel 積分（Poin）的兌換方式及可供忠實客戶選擇的各類獎勵清單。這些獎勵可能包括流量包、通話時間、簡訊、購物券或合作夥伴的折扣。內容也提供了查詢積分餘額和兌換步驟的指南，旨在鼓勵用戶積極使用其積分，提升客戶忠誠度，並享受Telkomsel提供的多元化服務。",
-            "impact_zh": "Telkomsel Poin是其忠實客戶的回饋機制。PM應關注這些積分的兌換選項，特別是是否有與遊戲或電子錢包相關的兌換機會。若有，可鼓勵玩家將電信費用轉化為遊戲價值，提升Pulsa儲值的吸引力。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Indosat (ISAT) Masuk Bisnis AI, Zankore Bisa Tambah Laba Rp 1,4 Triliun per Tahun",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDJoeUFzZC1ZNFBtRWx3X2tLbjl2T1RkR0lqMEwwZ2lod1Mtbl95M0FVb0tja3B0Z1JIQ0drRE05UGxDSV9zc3B4OU1pMGNTbXRLN0tfLWNFWlRwU2RVOThoWWRITUlQak5ROHdrSk5WOHdYTWExekRSc1psTkdaR3RxSFlycS1kMlI1QjVGMjgyQUgyRmk5N3dELTZfTllLMndxV3NkMWVkd0xSTjJjaTZYRdIBqwFBVV95cUxOczNEMUhjTTMtZHR0Z3lpbEt2LXBEMURua3pEczBCUjhKRnVpenFzRGJWQUw0NWduQ2dDV0E1enpkQUxROW9tMUFQYjFnT3lYeTFFdVlBTFg1X0NqY0dCOGo1Nzh1UjdxUmloSjZ0TnZ5ZmkyWkFWVWhwUlc5dkZqeGNObEliUi1xWnpHWUpZTTAwaGtud1c5czJlQzNvcWtISHlyTDlRZm9qME0?oc=5",
-            "source": "investasi.kontan.co.id",
-            "time": "2026-08-10T13:44:00+00:00",
-            "title_zh": "Indosat（ISAT）進軍 AI 業務，Zankore 每年可增加 1.4 兆印尼盾利潤",
-            "summary_zh": "Indosat Ooredoo Hutchison（ISAT）正積極進軍人工智慧（AI）業務，預計其旗下的 Zankore 平台每年可貢獻高達 1.4 兆印尼盾的額外利潤。此舉是 Indosat 數位化轉型戰略的一部分，旨在透過AI技術提升服務效率、創造新產品並拓展市場。這也顯示印尼電信業者在追求傳統通訊業務之外，積極開拓高科技增值服務的趨勢。",
-            "impact_zh": "與第35則類似，顯示Indosat對AI的投資。對遊戲PM而言，印尼電信商的技術實力提升，可能意味著網路基礎設施的改善，對依賴穩定網路的遊戲體驗是好事。同時，AI在遊戲營運、行銷上的應用也越來越廣泛，可關注其潛在合作機會。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Telkomsel Dorong Pertumbuhan Ekosistem Kreator AI Indonesia melalui AI Cinefest 2026",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkc3anZTWlk2YklyZmkzRzZOLU1qZWpwRE1DaFhwQjAyTTZ2VllmMDJTLU1IWS1JcWMzX29IS0daUW9ZLTB5Z2ZNYWtFMGdoYmdkbTZvRW51cEZoZ29FX3hua3RCNEZWWGg5QUVwVGJ1dHRKVXRKWXhUVTg0bWVCaVNEWktMc3JtRDI1N2t2Vlh0MXlEbUhTUGswWFJ0NHNEMXIyaVFNeVItMl82Z1FlYW5ldGliOS1WNnVuaG85cS1yU3du?oc=5",
-            "source": "MetroTVNews.com",
-            "time": "2026-08-10T10:23:09+00:00",
-            "title_zh": "Telkomsel 透過 2026 年 AI 電影節推動印尼 AI 創作者生態系發展",
-            "summary_zh": "Telkomsel 宣布將透過舉辦 2026 年 AI 電影節（AI Cinefest），積極推動印尼人工智慧（AI）創作者生態系的成長。這項活動旨在鼓勵印尼的電影製作人、藝術家和科技愛好者運用AI技術進行內容創作，探索敘事的新形式。Telkomsel期望藉此激發創新，培養更多AI相關人才，並將印尼定位為區域AI內容創作的中心。",
-            "impact_zh": "Telkomsel透過AI電影節推動AI內容創作，這為遊戲行銷素材帶來潛在靈感。PM可思考如何將AI技術和本土文化元素融入遊戲宣傳影片或廣告中，提升在地化吸引力，尤其是在TikTok等平台。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Murah! Cek Pilihan Paket Rollover Telkomsel, Indosat, dan XLSMART Agustus 2026",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmU4akVBXzFDVXM1VDNHbDJiQlllTXFPZVRFOXdSNldtTVdhZHpUR2tUTk1seVRJelhTdTlDYTVQd25RbTJZZGpwaTFvaVZkSEVoWnV1UXJuZF9LMXJwdm5YbW11RkZKOVBFdEIxakxyNlhfWU54UTJFbGl3akpPSTRESVE5VzNhLUw1dy1MYmpyekFXNzJfZkVLSkJjOFhRRlVjUFRPdkZaSm5sQjhXTjJIOURVWHdiNVJIZVJPcDlZRFRhbDAtcjFn?oc=5",
-            "source": "Bisnis Tekno",
-            "time": "2026-08-10T09:33:25+00:00",
-            "title_zh": "划算！查看 Telkomsel、Indosat 和 XLSMART 2026 年 8 月的 rollover 網路流量套餐選項",
-            "summary_zh": "文章比較了 Telkomsel、Indosat 和 XLSMART 三家電信公司在 2026 年 8 月提供的「rollover」網路流量套餐選項。這類套餐允許用戶將未用完的流量結轉至下個月，提供更高的價值和彈性。文章詳細列出了各家服務商的價格、流量分配和有效期限，旨在幫助消費者選擇最適合其需求的經濟型網路方案。",
-            "impact_zh": "電信商提供更具彈性的 rollover 網路流量套餐，直接降低了玩家的網路費用開支。這對重度手遊玩家是利好，能確保遊戲體驗的穩定性，也讓玩家有更多可支配的零用錢用於遊戲儲值，有利於提升整體儲值意願。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Telkomsel Poin Bisa Ditukar Voucher hingga Cashback, Pelanggan Diminta Cek Sebelum Kedaluwarsa",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0ZCb2hlWXd6UTdLM3lJWWVJMlZpcllZSXpFczRkM2J4VnVzcHY5dzd0OG1KUFdEa0dLU2dyN2s0RVQzaFVIUFdzeFZ0dTVQZjNTS3hqWXNiUVVCdW8zczA4REpaWnFPMzkxMUZ3UXN5TVhJeTlkRDBrdnNFU1NRRFVQQ1JIcERMTFo0VlVlamhVQkhNY0hQOEY4ZXhwS19KWXk3cThPOTU3b25hMlR2Z1g5YXQxdVVFc2dB?oc=5",
-            "source": "rmolsumsel",
-            "time": "2026-08-10T11:04:00+00:00",
-            "title_zh": "Telkomsel 積分可兌換禮券或現金回饋，提醒客戶在過期前查詢",
-            "summary_zh": "Telkomsel 再次提醒其廣大客戶，其 Telkomsel 積分（Poin）可兌換多種獎勵，包括購物禮券和現金回饋。文章呼籲客戶應定期檢查其積分餘額及有效期限，避免積分過期失效。這項提醒旨在提升客戶滿意度，鼓勵他們充分利用這些忠誠獎勵，同時也可能刺激用戶增加通話或數據使用量以累積更多積分。",
-            "impact_zh": "與第36則類似，再次強調Telkomsel積分的兌換價值。PM應持續關注Telkomsel這類忠誠計畫，研究是否有合作機會，或將其納入玩家溝通策略，提醒玩家將積分用於可能與遊戲相關的消費，例如兌換電子錢包餘額。",
-            "priority": "medium",
-            "important": false
-          }
-        ],
-        "遊戲產業": [
-          {
-            "title": "AI dan Sistem Real-Time Membuka Babak Baru Game Mobile, Mahjong Wins Ikut Berada dalam Arus Transformasi",
-            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWERyYk85NVZZdEV0b0ZJR0dzNlcwZGZoLUpkQUZlRlE1ZWZwQmYzM3VSR0JaVkpEOW1YcF9jbk8wWmRQYnRMYWtHZnF5b1pvUWhsQ0pCRmdnSnA4OXFadkxfSlBSTnVuTW02bGpycW9YMTNHcXNacFpzLXl1T1BIUEQ0Q25VMjNPalhNWXo4VlhSMXRzc0FoRm1nUnFLLS1MWGVSN096Nmg1R013Nnhtd1h1SFB0aTAwa2JGVzZmV1VnUWF2M2F3bjRjWjlOQUxraGE1LUlPcEdMS2NtMHFXNXZPNVZlRVFSYUF3dVBxc3RTUEVNc0dmUFNNUWx0eXBlWGRxeA?oc=5",
-            "source": "Media Center Rokan Hilir",
-            "time": "2026-08-10T13:47:07+00:00",
-            "title_zh": "AI 與即時系統開啟手遊新篇章，《麻將勝利》也身處變革浪潮中",
-            "summary_zh": "文章探討人工智慧（AI）和即時系統如何為手遊產業開啟新篇章，並指出「麻將勝利」（Mahjong Wins）等遊戲也正積極融入這股變革浪潮。AI技術被應用於提升遊戲體驗、個性化內容和優化營運，而即時系統則確保了遊戲的流暢互動和競技公平性。這反映了手遊市場對技術創新的追求，以提供更沉浸、更智慧的娛樂體驗，滿足玩家不斷變化的需求。",
-            "impact_zh": "這則新聞直接提及「Mah將勝利」這類麻將遊戲，並強調AI和即時系統對手遊發展的重要性。對於PM經營牌類遊戲，這是一個明確的競品動態和技術趨勢訊號。PM應評估自身遊戲是否能有效利用AI優化體驗，並研究競品的技術應用，以保持競爭力。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Mahjong Ways Mengukir Perubahan di Ekosistem Game Mobile melalui Pendekatan Teknologi Berbasis Data",
-            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeVhGTEhreDRJMlNWekd2cWEwVGoyWUd5R2kxMTFsZWlEZ29UTmRzai1iaHRlaFlxZ09STVllOU5hbEVPd216QTRTaVpvbU1IeDR6V3Q0NnRUREhiYTJIb0w4T0h5UC05QzBJMnl3U1hqWUZjenpYRUhodXhRRmZ0T2M2WndlVGNES09QYURnMDZOMWstanZLZGR6Y0hDMlFTSkhINmMzczQ1ZGpWUVc3a2dMVERVYWV4OXBxM21Zb3JVZXFrR2dUaHZwRVpjeS1mV3JFc1JnTDFsUmFNYnJGY1JQWVp4VzNBUmdnREVYTjA4TGhuWTlqQ25SQ0RxXzA?oc=5",
-            "source": "Media Center Rokan Hilir",
-            "time": "2026-08-10T11:19:21+00:00",
-            "title_zh": "《麻將之道》透過數據驅動的技術方法，在手遊生態系中開創變革",
-            "summary_zh": "文章分析了手遊《麻將之道》（Mahjong Ways）如何透過數據驅動的技術方法，在手遊生態系中引領變革。該遊戲利用大數據分析玩家行為、偏好和遊戲模式，以優化遊戲設計、提升用戶體驗和精準行銷。這種以數據為核心的策略，使得遊戲能夠提供更個性化的內容，並有效應對市場變化，凸顯了數據在現代手遊營運中的關鍵作用。",
-            "impact_zh": "這則新聞再次強調「麻將之道」等麻將遊戲的競爭力，並點出其成功關鍵是「數據驅動的技術方法」。對於PM而言，這是一個重要的啟示，應加強遊戲數據分析能力，將數據應用於遊戲設計、營運活動及高價值玩家維繫策略，以提升精準性和效益。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Perkembangan Game Mobile Dorong Kembalinya Mahjong Ways Jadi Perbincangan Hangat di Indonesia",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmRwdmo4d19tVUhLb0R2SG9BcDZBZUNyenkzc29xOG95X3RHMHdvMUpVWXE5U2F0V2Zkd2xDcEdvTkcwZXItNXJJMzNiRDJfekJOVDZVa09Pd3AxaWJDb2JQQkZBVER0ZE96aXN1Z0NUTWZjUzNMSjdjaF9EUi1NMXNCQWhnR0dqWE9STHhJV0daN0lmbDJRRHlybGE1Ukc3MkJuNV9tX25lVk8xVFpmcVR0LU9RLVB0bWNPNg?oc=5",
-            "source": "INN News",
-            "time": "2026-08-10T12:35:07+00:00",
-            "title_zh": "手遊發展推動《麻將之道》在印尼再次成為熱門話題",
-            "summary_zh": "隨著手遊市場的快速發展，遊戲《麻將之道》（Mahjong Ways）在印尼再次成為熱門話題。這反映了該遊戲在不斷變化的市場中，透過持續更新和在地化策略，成功維持了玩家的興趣與討論度。文章可能分析了其受歡迎的原因，例如獨特的遊戲玩法、社群互動或成功的行銷推廣，使其在眾多手遊中脫穎而出。",
-            "impact_zh": "「麻將之道」在印尼成為熱門話題，對PM是明確的競品分析訊號。PM應深入研究其近期行銷活動、產品更新及社群策略，找出成功的原因，並思考如何將其成功的元素（例如在地化內容、社群互動）應用於自己的牌類遊戲，以提升玩家參與度和市場份額。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "Perkembangan Game Mobile Global Dorong Popularitas Mahjong Ways Terus Meningkat",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlprOE0zay1fUFBNQVFtUHBkNlZ2TTRFWW9hZ3BBZ29FaHFwcG9kR29lNjZYcWlQcUNLMjhfeG9QOEIxVXVaZXZTazNPcUtlNWxwYjBRN291SXo5VnBDR1gyRHdiRHJ4YWNORE92VWEzRG1uUjQ3OXdiam1tZW1kakt2RlJNdE83WEZuY3VIVWdmYTE4N2NxN0V4NXJBQVpPVFRsZ1liS0hqSE5ucHczVG8taHJXbDU0N3JOejNRWkFDSDg?oc=5",
-            "source": "INN News",
-            "time": "2026-08-10T02:53:02+00:00",
-            "title_zh": "全球手遊發展推動《麻將之道》人氣持續攀升",
-            "summary_zh": "全球手遊市場的蓬勃發展，持續推動《麻將之道》（Mahjong Ways）這款遊戲的人氣不斷攀升。這不僅限於印尼，也反映了其在全球範圍內的吸引力。遊戲可能透過其創新的玩法、高品質的畫面和持續的內容更新，成功吸引了全球玩家。這顯示了麻將類遊戲在國際市場上的潛力，以及其透過在地化和全球化策略實現增長的能力。",
-            "impact_zh": "《麻將之道》在全球範圍內人氣提升，再次印證這類牌類遊戲的市場潛力。對PM而言，除了關注印尼市場，也應參考其全球化的成功經驗，思考如何將自身遊戲產品推向更廣闊的市場，並持續優化產品以滿足不同地區玩家的需求。",
-            "priority": "medium",
-            "important": false
-          }
-        ],
-        "流行文化": [
-          {
-            "title": "Promosi Miras Pakai Hafalan Alquran Viral, MUI Angkat Bicara: Sudah Kelewatan!",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLS02MG1UYnRYSlhlTU9oWHdvUkprRUZHTl9Kd1N0QkdpS0dKWTMtLXBxWE9OTWlKaVZWclZrQjN5WTBhSXFyM2Z2NTF3Wk5WLTZnNFdIR0tNUkUzYzVhaXF5NUpVVmRVUmFwSUE1alF0VlNGQVVCTkxqSmxmRUZYQURuYjRtVHdtaktCTU5RQVVSZGNxUnhsaXRhZVFoSVN6M3VJQ2ZwQW16dw?oc=5",
-            "source": "mozaik.inilah.com",
-            "time": "2026-08-10T16:33:00+00:00",
-            "title_zh": "用背誦《古蘭經》推廣酒類產品引發熱議，印尼烏理瑪理事會發聲：太過分了！",
-            "summary_zh": "一則使用背誦《古蘭經》影片來推廣酒類產品的廣告在印尼社群媒體上瘋傳，引發公憤。印尼烏理瑪理事會（MUI）對此表示強烈譴責，認為這種行為「太過分了」，嚴重褻瀆了宗教。此事件凸顯了在印尼這個穆斯林人口眾多的國家，行銷內容必須高度敏感於宗教和文化禁忌，否則可能引發巨大的社會爭議和反彈。",
-            "impact_zh": "這是非常重要的文化和行銷警示。在印尼進行任何行銷活動時，尤其是在TikTok等可能快速發酵的平台上，必須對宗教和本土文化高度敏感。PM應嚴格審查所有廣告素材和遊戲內容，確保沒有任何可能冒犯伊斯蘭宗教或當地文化的元素，避免觸犯眾怒，甚至導致政府部門（如KOMINFO）介入。",
-            "priority": "high",
-            "important": true
-          },
-          {
-            "title": "VIDEO: Viral, Kopdes Merah Putih di Kaki Gunung Ciremai",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDRBOTNXSWlCR2pGb2dkN2RSdUlxUGNPWWFyVjdFbXNYVnFQX3VEM3g5UG53dnhNdnJpaGFIQXFacE9Zdzh3SFpydjFhVzNQbEJyY0hkR1h6S2U3Uk5VSTBoa191b3FqTkZ6ekczUzU3VUhVMG5EeVJwMGtWVXRPSHBidkhtNWN3cXEwQkN5VG5leHpiQmlOZTR5TWtta081U1c4SkFtQ1R2WVJSQldEb1Rn0gG3AUFVX3lxTFB5SGI3YnFYUVUyTUhSX1FyaXZJYVU0RVNBRVBrbjRCLXhsZDE2eEFFZkRkSF9FMjRreGY2RThYWFg3bFFwVG12ZU1ndWtwZWQwTUJ6elNBcTY1SndIY3R4WkpGQWhOVGY5WFFnTDNreU9ScUo3cE5VTTd2MWRPUHVsSXJJX0lFSFBxNUNqZkI1aTFrSGROcE5scGo3MlRtVHNkY2ljOVYtem9XLXFzTDlBRjdBR284OA?oc=5",
-            "source": "CNN Indonesia",
-            "time": "2026-08-10T16:00:45+00:00",
-            "title_zh": "影片：西里邁山腳下紅白咖啡園爆紅",
-            "summary_zh": "一段關於位於西里邁山腳下的「紅白咖啡園」（Kopdes Merah Putih）的影片在社群媒體上爆紅。這座咖啡園以其獨特的景觀和優質咖啡吸引了大量遊客和當地居民。影片展示了咖啡園的美麗風光和經營者的故事，成功引起廣泛關注。此現象反映了在地特色觀光景點透過社群媒體傳播的巨大潛力。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "VIRAL DI MEDIA SOSIAL, AKSI PENCURIAN 6 KARUNG BERAS DI TOKO KELONTONG DALAM PENYELIDIKAN POLISI",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3UzS2NJM3pRQ3JpZmZwaDVKTjA1aWs4Zy11T3NNQUdUUzctTjVxbFZVX05sUGh5S0VXZ3JPNkpsVlBVMlFtMGNNNloyZEtaRVBLRmhDZFBUMGhiQi0tMjZZaGpGRjJmNU9yNlRwNlNIX1FMdGRlZ3dxVFdndXlmX2lSQ25jRnlLWGFVbk9zUEc0QThCaW1nWlFkaG03WF9ZazZLWjNRaHUyd2huQlJuLVhRbHB5RDhrY1BjQTRvS05vTmV1enNLbDRxc0h5c1plRmtIMQ?oc=5",
-            "source": "suryaindonesia.net",
-            "time": "2026-08-10T09:06:00+00:00",
-            "title_zh": "社群媒體瘋傳，雜貨店 6 袋白米遭竊案警方正調查中",
-            "summary_zh": "一段關於一家雜貨店 6 袋白米遭竊的影片在社群媒體上廣泛流傳，警方已介入調查。影片內容可能清晰記錄了竊盜過程，引發公眾對治安問題和民生壓力的關注。此事件反映了社群媒體在傳播即時訊息和推動社會關注方面的影響力，也提醒商家需加強防盜措施。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "49 Tahun Aktifnya Pasar Modal Indonesia, OJK Luncurkan ETF Emas",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNE1hcDRNMGN2UG1LMkJldE5NR0UyeTRTeHo2LWJIdzM0djlQSWJzVlI3cHFmSTU4Q2l2b25sOVZybnhYWkpBeDVQel9yTUdxMEZmVXNYX29aR3lBN216ajcwUXQ3WXdYWE1ERGdITWdYRWtkU0FndTYyMElrSU5UUWNScHkyS1haZXNubGxqV28xSWMwNnhFRA?oc=5",
-            "source": "Bali Viral News",
-            "time": "2026-08-10T12:35:02+00:00",
-            "title_zh": "印尼資本市場活躍 49 週年，OJK 推出黃金 ETF",
-            "summary_zh": "慶祝印尼資本市場恢復活躍 49 週年，印尼金融服務管理局（OJK）推出了黃金交易所交易基金（ETF）。此舉旨在為投資者提供更多元化的投資工具，特別是那些尋求黃金市場曝險的投資者。黃金ETF的推出預計將提升資本市場的流動性與吸引力，並為投資者提供更便捷、透明的黃金投資渠道。",
-            "impact_zh": "這是關於金融產品創新的新聞，但與遊戲產業的支付或監管無直接關聯。相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Pisang Viral Pedagang Buah di Lampung, Ini Potensi Besar Cavendish di Indonesia",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVG56ZVJUUExPMnY1TjNXR0JwcEQzMGE2SG9DVEY2ZllYN1k2WnhqQlNSaUc2ZVpDY1M4WXotZlZkNkxySWs0cUU1b25kSUVGRHJYLVEzNHpnX0ZJZTkweTBWUS1ycjBSUGgxODItdEdleFNqcEtmbUREbHNoSlJDczI3VG9kbzVjSFROeFJONlppZnJUak9JbVJjQ3BOZDduNkg1MHd3czdOWUJKd1E?oc=5",
-            "source": "bataviapos.id",
-            "time": "2026-08-10T03:37:45+00:00",
-            "title_zh": "楠榜水果攤爆紅的香蕉，揭示印尼 Cavendish 香蕉的巨大潛力",
-            "summary_zh": "楠榜一位水果攤販的香蕉因其獨特品質和行銷手法在網路上爆紅，引發人們對印尼 Cavendish 香蕉巨大潛力的關注。文章探討了 Cavendish 香蕉在印尼的種植條件、市場需求以及出口前景。這起爆紅事件凸顯了在地農產品透過社群媒體行銷所能帶來的巨大商機，以及印尼農業發展的潛力。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Maxim Indonesia Beri Hadiah ke Ojol Asal Kolaka yang Viral 'Narik' Sambil Jaga Bayi Lewat CCTV",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDFNOF81b1FkaXRrbWJncm9zZmw4QmQtZ1FKcDRXQnlBNGY1aFB3emMyTW0tblpyYjhwQmx5WUNrN3RVY0ZJR3FaakxUMGFHbWxRWGhoSlQ3cXF6Q1RtRzFraF9FdzRvNDFpUDJWS195SEdjQzFsRVZYZm5oNnQ3eUlLUHMwd2I2b1NsY3VodnRxVFRnU214WlR5RW1ENWZOUVhKeEVaWmNNQmFiWEIwMTBZQlk?oc=5",
-            "source": "lajur.co",
-            "time": "2026-08-09T14:24:28+00:00",
-            "title_zh": "Maxim 印尼獎勵科拉卡外送員，其邊載客邊透過監控照看嬰兒的影片爆紅",
-            "summary_zh": "一名來自科拉卡的機車外送員（Ojol）在工作時透過 CCTV 照看家中嬰兒的影片在網路上爆紅，感動了許多人。印尼 Maxim 公司對此表達支持並給予獎勵。這起事件反映了許多印尼勞動者在生活壓力下的堅韌，以及社群媒體在傳播溫馨故事和引發企業社會責任方面的影響力。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Viral Kerja sambil Live TikTok, Seorang PPPK Bandung Barat Terancam Pemutusan Kontrak",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc2Zjh2YkpKTTFHVzY4dy1xUDVSRTNWa1BrOG95VDh0REFDWnZIeS1Mdkt0Sy1HeGJsdlo0VWJhM2RrVVBhQzFiNjVIUVhGSHVkRGstaE1kWHpZNXRBV3RzalVfUWs4ZFc1Y2JXZEloeUFXWEJCRG9pZVFJQ2p1UzZHQW1DRTZmaDU2a0FBWlM0aFpQeVR0dk44QjZvSEc5VHYwcHctalpacGk5MEVjdVNRUk43SlFKZU1GcVR6M2J6YkZzRTVIZkJnYw?oc=5",
-            "source": "Media Indonesia",
-            "time": "2026-08-10T11:06:11+00:00",
-            "title_zh": "邊工作邊在 TikTok 直播爆紅，一名西萬隆區聘用制公務員恐面臨解約",
-            "summary_zh": "一名西萬隆區的聘用制公務員（PPPK）因在工作期間進行 TikTok 直播而爆紅，但隨後面臨可能解約的風險。此事件引發了關於公務員行為準則、社群媒體使用規範以及工作倫理的討論。政府部門強調公務員應在工作時間內專注職責，遵守紀律，這也提醒了所有工作者在公開平台上的行為需謹慎。",
-            "impact_zh": "這則新聞反映了TikTok在印尼的強大影響力，以及公眾對個人行為的關注。對於PM來說，這提醒在利用TikTok進行行銷時，應注意內容的合規性和適切性，避免引發爭議，特別是與公務員等身份相關的內容。",
-            "priority": "medium",
-            "important": false
-          },
-          {
-            "title": "KSOP Labuan Bajo Buka Suara soal Viral Rombongan Jessica Milla",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUpCblpsNDhtVDBJS0JmX3F0aFVpSXpHY2gzZFBWalVicU5QZzJVcTFZcmxiMGVhQjgxYmpIbl9CU21yZjBFRFcxUnEwUmM3MzRjUHdSZG9oczMyQTd5WVltTFd6eTliMHM5ZEFJN0pFV0x1akRpOU9jdEpiTks1dlQ3VkhqTDRBSEtSaVF2c3JvUG1xVWtRcWwzejcySDZLZHNfZkhHTUgtMDBCSEY3bjhUSmlHVzlvbGNwOXJnODNjbXRO0gHKAUFVX3lxTE9TQldxcXpVWVVUcDBNblkwbUpKUEhLb3pGS3NPT0N0LUNzeWhXYkdDUHEwa0lTaENMSzdaNnZqdEhqaF9LRFVfMkh4cEZOQjc1VGlQaWpvbFJDV0h0Q3J6OVJ6R3V2czBVb2wtMEtVYmQ4YlpndkwwXzNUMU9sSDVtZEFyaTczTElNWGZGYzlsRDZsNWJtMW8tS1k3UkN5S3lsMk0ydzlLWWV5a0l6c29ZcGlwdW5EYy11WURYYkdCelJfNl9oMjZDSUE?oc=5",
-            "source": "CNN Indonesia",
-            "time": "2026-08-10T10:29:10+00:00",
-            "title_zh": "納閩巴霍港務局就 Jessica Milla 團隊爆紅事件發表聲明",
-            "summary_zh": "納閩巴霍港務局（KSOP Labuan Bajo）就印尼知名藝人 Jessica Milla 及其團隊的爆紅事件發表聲明。這起事件可能涉及其在當地旅遊或活動中的不當行為或爭議，引起社群媒體廣泛關注。港務局可能澄清了相關事實或說明了處理情況，旨在維護地方形象，並確保所有遊客遵守當地規定。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ],
-        "重大事件": [
-          {
-            "title": "Gempa Bumi M5,1 – 178 km BaratDaya KAUR-BENGKULU",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fSFdYaDNCekZrQ3lSaXNoTXpNUXQtcFVQVjBUSkFiOEYwcDloZVA3dGZZZWpJRXE1b2ROa3EySUJGb3UxUWVvcGdxZng5amFqb1V4MTI1UHViWkU?oc=5",
-            "source": "BMKG",
-            "time": "2026-08-10T17:15:48+00:00",
-            "title_zh": "地震規模 5.1 – 萬丹省高烏爾西南 178 公里處",
-            "summary_zh": "印尼氣象氣候暨地球物理局（BMKG）報告，在萬丹省高烏爾西南方 178 公里處發生芮氏規模 5.1 的地震。地震震央位於海域，深度可能較深，因此對陸地造成的破壞風險相對較低。目前尚無人員傷亡或重大財產損失的報告，BMKG正持續監測後續餘震情況。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Korban Tewas Gempa M 7,4 Kolombia Bertambah, Kini Jadi 69 Orang",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEJmVVZZNy1LRU1DN1Z1RDNqaE5CMHJ6aEJGX0EwVElOaTdrUkt4aFJHT3BLcVYtR3EyWVFaQVNlYkplUGVrZnhXOTNZXy1QWlB0M2tYMDg5bVVDZEFuYV8zaVRGdXZHTndvSlh0ZTg2NkZzNXlhNWh3aVFwQUFJeTJCSGFDU09DcWJvUG14bFpsSDBVVWV1bVJBYjFVMzU3eElhaDllOTBGaFdwMmfSAbMBQVVfeXFMTUI1bmpfUHZLQl9XZUNjeGRPOE9reEpKVjdyMThSdE9SRUU0dXNaTnlaQTIwaHR4SkJDVUlxSE16dnBBWkxQTEVSellNc2o4Umlkd0RkLXVUaUdHYnhTazEtb2NkUEVMM3ZGbE9iQy1OT2V4cVN3b2l4b2hob050c2dtOHRUdktzc2xzcmJTaTZvY2JMc0V4eXNnYUpMUE5rUnpZaHNuWEhNRmZoZURYV3FQN28?oc=5",
-            "source": "detikNews",
-            "time": "2026-08-10T18:33:34+00:00",
-            "title_zh": "哥倫比亞規模 7.4 地震死亡人數增至 69 人",
-            "summary_zh": "哥倫比亞發生芮氏規模 7.4 的強烈地震後，死亡人數持續增加，目前已達到 69 人。地震對當地造成了嚴重破壞，許多建築物倒塌，基礎設施受損，導致救援工作面臨巨大挑戰。國際社會正密切關注災情，並提供人道援助，以協助當地政府和居民應對這場自然災害。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Korban tewas gempa magnitudo 7,4 di Kolombia bertambah jadi 111 orang",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTRUZy0zNjZqNXFtbXR1RnYzaHNGMGJOX283c193ZHU5VGdrelE5VnVWNnB5MHZmckM1Tm8tMkZLYU1RR1RGb1llQVZQY0tzNzRwTUI3OUxvZ1J2eU1wVlFGYlYyMElkczk2dTFoWndhenFyME5aY1pXa2lzTnJxR0lmV3hKOEtYMElnbUVEVFVPQlE?oc=5",
-            "source": "Anadolu Ajansı",
-            "time": "2026-08-10T20:21:35+00:00",
-            "title_zh": "哥倫比亞規模 7.4 地震死亡人數增至 111 人",
-            "summary_zh": "據安納托利亞通訊社報導，哥倫比亞發生的芮氏規模 7.4 強震已導致死亡人數攀升至 111 人。這場地震對該國多個地區造成了毀滅性打擊，大量房屋和基礎設施被摧毀。救援隊伍仍在努力搜救倖存者，並向災區提供緊急援助，以減輕這場嚴重人道危機的影響。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Gempa Bumi Bermagnitudo 3,5 Guncang Lumajang, Jawa Timur",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1hWMUttRjIwTGhKQThLUVcwWnlBbnBIUXJoUTR1QnpUNHBweEhadDRDekxMTkhNZ1d6QXpjVFBSdU1QVjhta1Y5ZVg0V3JuVEhweWl1djhoZnNaeTVybHk5V2VjWVhlMTNXZVRHakNIM3NyZ2N2c0wwSTUzWlNYLWQweWJSbkk5aFg5dWg2dE9hVmduTjFJWXdCaEJxZnBzWEVvd01qQkRwX1Z0eDFJ?oc=5",
-            "source": "Tribrata News",
-            "time": "2026-08-10T14:59:00+00:00",
-            "title_zh": "東爪哇盧馬將發生規模 3.5 地震",
-            "summary_zh": "根據報導，東爪哇盧馬將地區發生了芮氏規模 3.5 的地震。這是一次較為輕微的地震，通常不會造成大規模破壞或嚴重人員傷亡。當地居民可能感受到輕微震動，但未有恐慌或重大損失的報告。相關部門正監測情況，確保當地居民的安全。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Pemkot Cilegon Gelar Rapat Penanganan Banjir, Fokus Evakuasi dan Kesiapsiagaan",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFJRY3BqWnRmcVpWOC1neDZOYk5weWZZN3RtQW5SVnZOUjdxd3dhUGdVanpaWDFXZTFvbFBCc3pwUW5GRkVqUUNraVlBRDU2aUdXOGVZcTlnUVNiWmpwMGgwRTR6VFFhUGg0X2xfOThORDNlTS1UbjV6RS1TRkc5WUlZUXJiQS10N0M4ckJLRjgzMy0wR0dzaG5hTEozYlc0al94RnBjOWlSMHA5UTJVLWNBbFBwVjB2X0llUGtvM1Mzckd1WDBjZFdn?oc=5",
-            "source": "Berita Cilegon",
-            "time": "2026-08-10T18:22:27+00:00",
-            "title_zh": "芝勒貢市政府召開洪災應對會議，聚焦撤離與應變準備",
-            "summary_zh": "芝勒貢市政府召開緊急會議，討論洪災應對措施，重點聚焦於居民撤離和災害應變準備。會議評估了當前洪災風險，並部署了救援隊伍和物資分配計畫。市長強調，確保市民生命財產安全是首要任務，各部門需加強協調，提高應變能力，以有效應對可能發生的自然災害。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "111 Orang Tewas Akibat Gempa Dahsyat M 7,4 di Kolombia",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYU1uTVBRVmYwdlVDT3lKdWY4akZpYnF5Nmt3bU5TWlhRN1cwR21Xam1xQUlqWElsMWxQbHZlaWJ3WEM3WWNnRUpEY3gxb1FQbURrbWYzaTU0eDJiaE1PWnNsVnB0QnZpR0NQTllxMUE0TXpxbFVoVnBjUXF6QzhHbncxWjRkRGvSAYwBQVVfeXFMTnhsdlgzN0NWUnprTHhxOEhacnE0MWlyQkpMYnlvUE5xTTc2SEJ6Vi1wUlJfdzJaRnE3clhQMHNOOER1ZkdfZENwbGJVYVRtUDBwcFVyOEhwYVBWQjllRUlVR1dNX0k0YTdJYjIwNWo5RWgtUHZpTHBNbGh6RHVqMTd4ZHlmRHZXZzAza0U?oc=5",
-            "source": "Darilaut.id",
-            "time": "2026-08-10T20:56:48+00:00",
-            "title_zh": "哥倫比亞規模 7.4 強震造成 111 人死亡",
-            "summary_zh": "哥倫比亞發生的芮氏規模 7.4 強震已證實造成 111 人死亡。這場地震導致當地大量建築物倒塌，基礎設施嚴重受損，多個社區遭受重創。政府與救援機構正全力投入災後救援與重建工作，同時也呼籲國際社會提供援助，以應對這場災難所帶來的人道危機。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Gempa M 7,4 Guncang Kolombia, Ada Korban Luka dan Bangunan Rusak Parah",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHhtQk5IQ2RLc3VaR3pUd2N1NVQtOGduWjFweVV6WFlvNFBMMFRsczRxbzJzN3ZCLTJadDVUTFlJY0d6d19BQ3NWbF9EaDFsQmp2UU9KejZmRVRnQ2txUDNLLUpUMHFsdjNuNEhodi1JdG5Jb0NXYzQyY0huc3ctVHJRelFkOENBSEtzRW1heTBMWFlLdW5wVmMyRzl6cGtHYy15MVAwZXI0YlBnN0ZoU25keWk1WUHSAbwBQVVfeXFMUGJzZmJIeTNiOVZKdHd4cFJ4b2k1U1NSaGtnUV9BQzhfay05Wm4yU2NTUDdyU1hPcFFuY2VvbkRtaU5DWkFaVHRhRkVqSzNKT1lpa05vdVpEaTFTdXJuQWJIVHZQbnJrdGhSbmxlVVhzZnNxQk9GQ24zeGR1bzVVN0d1RXZ3YXpVb2ZCYm9pQmRfSlVyQzVtR2VhM2RpQ01kV09CZXhpU0J0UDRkeU9JSnk2NXMwZE56aGYyTUU?oc=5",
-            "source": "detikNews",
-            "time": "2026-08-10T14:09:21+00:00",
-            "title_zh": "哥倫比亞發生規模 7.4 地震，造成人員受傷和建築物嚴重毀損",
-            "summary_zh": "哥倫比亞遭受芮氏規模 7.4 強震襲擊，造成廣泛破壞，包括大量人員受傷和建築物嚴重毀損。地震震央和深度導致了巨大的破壞力，許多地區的基礎設施癱瘓。救援隊伍正努力在倒塌的瓦礫中搜救，並向受災民眾提供緊急醫療和庇護。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          },
-          {
-            "title": "Gempa Bumi Bermagnitudo 3,1 Guncang Nias Selatan, Sumatera Utara",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkN6bHp3ejVyLTdoWWRpcnNHN1BUaUlEVDdvVEdrTkMxbjF1ejFuZ1NrdWRfQjBkYUZSdjYyVENla0sySGV3aGRlbmlZb0dmbHRuR3NSdlF1WVc5Q3FKTnZwSzdLV182MjYySi1uVDB4SmdmMjhPWnFseE1vOXJiNm9yUFlEUVVkZzN5a2lVY3VoMElSc2puZXlSVkFuUkZRRjdscGpxMEhCejUxeER3SjAyeS1Nd3ZROWc?oc=5",
-            "source": "Tribrata News",
-            "time": "2026-08-10T15:01:00+00:00",
-            "title_zh": "北蘇門答臘南尼亞斯發生規模 3.1 地震",
-            "summary_zh": "根據報導，北蘇門答臘南尼亞斯地區發生了芮氏規模 3.1 的地震。這是一次輕微的地震，可能僅對當地居民造成輕微震感，但預計不會造成任何重大損害。相關監測單位已發布地震資訊，並將持續監控當地情況，以確保民眾安全。",
-            "impact_zh": "相關性低，僅供背景參考。",
-            "priority": "low",
-            "important": false
-          }
-        ]
-      },
-      "rates": {
-        "USD_IDR": 17862.19,
-        "TWD_IDR": 555.07,
-        "JPY_IDR": 113.14,
-        "fetched_at": "2026-08-11T07:24:08.017602+08:00",
-        "USD_IDR_change": 0.01,
-        "TWD_IDR_change": 0.01,
-        "JPY_IDR_change": 0.04
       }
     }
   }
